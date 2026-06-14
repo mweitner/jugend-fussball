@@ -1,6 +1,6 @@
 # Jugendfussball D- und C-Jugend
 
-[![Docs Pages](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml/badge.svg)](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml)
+[![Docs Pages](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml/badge.svg?branch=main)](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml)
 
 **Persoenliches Arbeits- und Austausch-Repository fuer Trainingskonzepte und
 Trainingseinheiten im Jugendfussball (Schwerpunkt D- und C-Jugend).**
