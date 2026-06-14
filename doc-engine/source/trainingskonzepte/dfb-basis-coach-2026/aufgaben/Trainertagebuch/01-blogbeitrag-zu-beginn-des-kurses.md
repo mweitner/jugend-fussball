@@ -1,10 +1,3 @@
-
----
-title: "Ziele zu Beginn des Wfv Basis Coach Lehrgangs"
-keywords: "Basis Coach, Ziele, Trainer, Kindertraining, Vernetzung"
-date: 2026-06-10
----
-
 # Zu Beginn des Kurses — Meine Ziele
 
 Datum: 10. Juni 2026

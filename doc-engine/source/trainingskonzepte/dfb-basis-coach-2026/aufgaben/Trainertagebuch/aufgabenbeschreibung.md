@@ -42,10 +42,9 @@ kurzum: ALLES, WAS DIR WICHTIG IST!
 **Hinweis:**
 Die Aufgabe ist geschlossen, d.h. nur Du und die Ausbilder können Dein Arbeitsergebnis sehen.
 
-
 ## Vorgehensweise
 
-#### Video hochladen
+### Video hochladen
 
 Erstelle dein eigenes Video.
 Wenn es fertig ist, klicke hier rechts unten auf den “+”-Button zum Hinzufügen eines neuen Inhaltes.
