@@ -22,7 +22,7 @@ Die Dokumentation richtet sich an:
 ## Zugriff
 
 Die Website ist öffentlich erreichbar unter:
-[https://github.com/USERNAME/jugend-fussball/](https://github.com/USERNAME/jugend-fussball/)
+[https://github.com/mweitner/jugend-fussball/](https://github.com/mweitner/jugend-fussball/)
 
 Die Dokumentation wird regelmäßig aktualisiert. Aktuelle Trainingseinheiten werden
 nach Durchführung dokumentiert und archiviert.

@@ -1,6 +1,6 @@
 # Jugend Fußball TSV Erbach
 
-[![Docs Pages](https://github.com/USERNAME/jugend-fussball/actions/workflows/docs-pages.yml/badge.svg)](https://github.com/USERNAME/jugend-fussball/actions/workflows/docs-pages.yml)
+[![Docs Pages](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml/badge.svg)](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml)
 
 **Repository zur Verwaltung und zum Austausch von Trainingskonzepten und Trainingseinheiten
 für die Jugendabteilung des TSV Erbach.**
@@ -20,7 +20,7 @@ Schulung (aktuell bis Juli 2026).
 
 Die komplette Dokumentation ist verfügbar unter:
 
-**[https://USERNAME.github.io/jugend-fussball/](https://USERNAME.github.io/jugend-fussball/)**
+**[https://mweitner.github.io/jugend-fussball/](https://mweitner.github.io/jugend-fussball/)**
 
 Die Seite wird automatisch aktualisiert, wenn Änderungen in den `main`-Branch gepusht werden.
 

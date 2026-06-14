@@ -1,5 +1,5 @@
-# Repository: https://github.com/USERNAME/jugend-fussball
-# Docs URL: https://USERNAME.github.io/jugend-fussball/
+# Repository: https://github.com/mweitner/jugend-fussball
+# Docs URL: https://mweitner.github.io/jugend-fussball/
 name: Docs Pages
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
