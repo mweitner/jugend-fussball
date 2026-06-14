@@ -1,0 +1,19 @@
+FROM python:3.11-slim
+
+WORKDIR /docs
+
+# Install uv
+RUN pip install uv
+
+# Copy project files
+COPY pyproject.toml uv.lock ./
+
+# Install dependencies with uv
+RUN uv sync
+
+# Copy rest of repo
+COPY . .
+
+# Build documentation
+WORKDIR /docs/doc-engine
+CMD ["make", "html"]

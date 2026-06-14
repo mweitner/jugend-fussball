@@ -55,8 +55,10 @@ Die fertige HTML-Dokumentation findet sich dann unter `doc-engine/build/html/`.
 
 ```bash
 docker build -f doc-engine/source/Dockerfile.sphinx -t jugend-fussball-docs:latest .
-docker run --rm -v $(pwd)/doc-engine:/docs jugend-fussball-docs:latest make html
+docker run --rm -v $(pwd)/doc-engine/build:/docs/doc-engine/build jugend-fussball-docs:latest
 ```
+
+Die HTML-Ausgabe wird ins lokale `doc-engine/build/html/` gemountet.
 
 ## 📝 Hinweis
 
