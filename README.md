@@ -1,13 +1,15 @@
-# Jugend Fußball TSV Erbach
+# Jugendfussball D- und C-Jugend
 
 [![Docs Pages](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml/badge.svg)](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml)
 
-**Repository zur Verwaltung und zum Austausch von Trainingskonzepten und Trainingseinheiten
-für die Jugendabteilung des TSV Erbach.**
+**Persoenliches Arbeits- und Austausch-Repository fuer Trainingskonzepte und
+Trainingseinheiten im Jugendfussball (Schwerpunkt D- und C-Jugend).**
 
-Das Ziel dieses Repositories ist die **systematische, regelmäßige, zielgerichtete und
-regelmäßige Trainingsarbeit** nach DFB/WFV-Richtlinien, basierend auf der Basis Coach
-Schulung (aktuell bis Juli 2026).
+Ich bin Trainer in der D- und perspektivisch C-Jugend beim TSV Erbach und nutze dieses Repo,
+um Unterlagen strukturiert mit Trainerkollegen sowie interessierten Spielern und Eltern zu teilen.
+
+Das Ziel ist eine **systematische, regelmaessige und zielgerichtete Trainingsarbeit** nach
+DFB/WFV-Richtlinien, basierend auf der Basis-Coach-Schulung (aktuell bis Juli 2026).
 
 ## 🎯 Inhalte
 
@@ -26,11 +28,11 @@ Die Seite wird automatisch aktualisiert, wenn Änderungen in den `main`-Branch g
 
 ## 👥 Zielgruppe
 
-- Trainer der TSV Erbach Jugendabteilung
-- Jugendleitung
-- Interessierte Eltern und Spieler
+- Trainerkollegen (insbesondere D- und C-Jugend)
+- Interessierte Spieler und Eltern
+- Weitere Trainer im Jugendfussball-Umfeld
 
-Die Website ist **öffentlich lesbar** und dient als primärer Austauschkanal mit Trainerkollegen,
+Die Website ist **oeffentlich lesbar** und dient als primarer Austauschkanal fuer Personen,
 die keinen GitHub-Account oder keine Entwicklerkenntnisse haben.
 
 ## 🚀 Lokal entwickeln
@@ -38,17 +40,16 @@ die keinen GitHub-Account oder keine Entwicklerkenntnisse haben.
 ### Voraussetzungen
 
 - Python 3.11+
-- Sphinx und abhängige Pakete (siehe `doc-engine/requirements.txt`)
+- uv
 
 ### Dokumentation lokal bauen
 
 ```bash
-cd doc-engine
-pip install -r requirements.txt
-make -C source html
+uv sync
+make -C doc-engine html
 ```
 
-Die fertige HTML-Dokumentation findet sich dann unter `doc-engine/source/_build/html/`.
+Die fertige HTML-Dokumentation findet sich dann unter `doc-engine/build/html/`.
 
 ### Mit Docker
 
@@ -57,6 +58,7 @@ docker build -f doc-engine/source/Dockerfile.sphinx -t jugend-fussball-docs:late
 docker run --rm -v $(pwd)/doc-engine:/docs jugend-fussball-docs:latest make html
 ```
 
-## 📝 Lizenz
+## 📝 Hinweis
 
-Diese Dokumentation ist Eigentum des TSV Erbach und dient der internen Nutzung.
+Dieses Repo wird persoenlich gepflegt. Inhalte mit Bezug zum TSV Erbach dienen als
+Training- und Austauschkontext fuer die D- und C-Jugend.

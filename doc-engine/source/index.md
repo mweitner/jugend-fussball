@@ -1,10 +1,13 @@
-# Jugend Fußball TSV Erbach
+# Jugendfussball D- und C-Jugend
 
-Willkommen zur Dokumentation der Jugendausbildung beim TSV Erbach.
+Willkommen zur Dokumentation fuer den Jugendfussball mit Schwerpunkt D- und C-Jugend.
 
-Diese Seite dient als zentraler Ort für die Verwaltung und Austausch von Trainingskonzepten,
-Trainingseinheiten und Dokumenten zwischen der Jugendleitung und den Trainern. Das Ziel ist
-eine systematische, zielgerichtete und regelmäßige Trainingsarbeit nach DFB/WFV-Richtlinien.
+Diese Seite dient als zentraler Ort fuer den Austausch von Trainingskonzepten,
+Trainingseinheiten und Dokumenten. Der Kontext ist meine Trainerarbeit bei der D- und
+perspektivisch C-Jugend des TSV Erbach.
+
+Ziel ist eine systematische, zielgerichtete und regelmaessige Trainingsarbeit nach
+DFB/WFV-Richtlinien.
 
 ```{toctree}
 :maxdepth: 2

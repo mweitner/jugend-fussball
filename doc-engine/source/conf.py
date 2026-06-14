@@ -3,9 +3,9 @@ import os
 
 version = os.popen("git -C . describe --tags --always --dirty").read().rstrip()
 
-project = "Jugend Fußball TSV Erbach"
-copyright = "2026, TSV Erbach Jugendleitung"
-author = "TSV Erbach Jugendleitung"
+project = "Jugendfussball D- und C-Jugend"
+copyright = "2026, Michael Weitner"
+author = "Michael Weitner"
 
 release = version
 
