@@ -60,6 +60,19 @@ docker run --rm -v $(pwd)/doc-engine/build:/docs/doc-engine/build jugend-fussbal
 
 Die HTML-Ausgabe wird ins lokale `doc-engine/build/html/` gemountet.
 
+### Lokal vs. Docker — Wann was verwenden?
+
+| Aspekt | Lokal mit uv | Docker |
+|--------|--------------|--------|
+| **Setup** | Python 3.11 + uv erforderlich | Nur Docker erforderlich |
+| **Performance** | Schneller (kein Overhead) | Langsamer (Container-Start) |
+| **Reproduzierbarkeit** | ✅ via `uv.lock` | ✅ Zusätzlich isolierte OS-Umgebung |
+| **Betriebssystem** | Linux/Mac/Windows möglich | Überall identisch |
+| **Ideal für** | Entwickler mit lokalem Setup | Teams mit gemischten Systemen |
+
+**Empfehlung:** Nutze lokal mit `uv` für iterative Entwicklung. Docker ist optional für Kollegen,
+die kein Python installiert haben oder unterschiedliche Betriebssysteme nutzen.
+
 ## 📝 Hinweis
 
 Dieses Repo wird persoenlich gepflegt. Inhalte mit Bezug zum TSV Erbach dienen als
