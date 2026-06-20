@@ -64,6 +64,23 @@ make -C doc-engine pdf
 
 Die PDF-Datei liegt danach im LaTeX-Buildverzeichnis unter `doc-engine/build/latex/`.
 
+Seitenbereiche fuer Elternbriefe oder Gruppen schnell als eigene PDF extrahieren:
+
+```bash
+./doc-engine/scripts/extract-pdf-pages.sh \
+  doc-engine/build/latex/jugendfussballd-undc-jugend.pdf 25-28 \
+  ~/Downloads/trainingseinheit-eltern-25-28.pdf
+```
+
+Das Skript unterstuetzt Einzelseiten, Bereiche und Listen (z. B. `27`, `25-28`, `2,5,8-10`).
+
+Noch kuerzer mit dem Wrapper fuer die zuletzt gebaute Gesamt-PDF:
+
+```bash
+./doc-engine/scripts/extract-latest-training-pdf.sh 25-28 \
+  ~/Downloads/trainingseinheit-eltern-25-28.pdf
+```
+
 ### Mit Docker
 
 ```bash
