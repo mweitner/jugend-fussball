@@ -1,5 +1,10 @@
 # 📋 Trainingsplan: D-Jugend (Jahrgang 2013) – Thema: Torschuss
 
+## Eltern-Kurzblick
+
+Die Einheit foerdert schnelle und saubere Abschluesse unter Gegner- und Zeitdruck.
+Aufgrund der Hitze werden Belastung und Pausen bewusst gesteuert.
+
 ## Kontext
 
 Dienstagseinheit mit 120 Minuten Trainingszeit (17:30-19:30) bei vorhergesagter Hitze über 30 Grad.
@@ -16,6 +21,13 @@ hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
 **Zonen je Feldlänge:** 9 m - 9 m - Mittellinie - 9 m - 9 m
 **Tore:** 2 D-Jugend-Tore pro Kleinfeld (je 1 mittig pro Grundlinie), Mini-Tore entfallen
 
+## Lernziele
+
+- Abschluesse schneller vorbereiten und frueher suchen.
+- Vor dem Abschluss den Kopf oben behalten und Signale wahrnehmen.
+- Mit maximal 2-3 Kontakten zielgerichtet zum Torabschluss kommen.
+- Trotz Hitze technische Qualitaet stabil halten.
+
 ## Hitzeregeln (verbindlich)
 
 - Trinkpause alle 10-12 Minuten (30-60 Sekunden, im Schatten).
@@ -23,6 +35,8 @@ hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
 - Kappen runter, wenn möglich Wasser über Nacken/Unterarme zur Kühlung.
 - Bei Schwindel, Kopfschmerz, Übelkeit sofort raus, kühlen, Trainerinfo.
 - Belastung ab 18:45 bewusst reduzieren, keine Dauerläufe.
+
+## Ablauf
 
 ### ⏱️ 0. Begrüßung & Organisation (17:30-17:35 | 5 Minuten)
 
@@ -140,6 +154,15 @@ hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
 - 4 D-Jugend-Tore (2 pro Kleinfeld)
 - Trinkwasser zentral an beiden Feldern, Kühlmöglichkeit im Schatten
 
-## Fazit/Rückblick
+## Coachingpunkte ueber die gesamte Einheit
 
-todo
+- Abschlussentscheidung nicht zu lange verzoegern.
+- Ersten Kontakt vor dem Schuss aktiv in Schussposition mitnehmen.
+- Klare, kurze Coaching-Impulse und viele Wiederholungen.
+- Belastung in der Hitze laufend beobachten und frueh steuern.
+
+## Kurzreflexion nach der Einheit
+
+- Was lief gut? (z. B. Abschlussfrequenz, Entscheidungsverhalten)
+- Was wird angepasst? (z. B. Zeitfenster, Kontaktbegrenzung, Pausendichte)
+- Naechster Schwerpunkt: wird im Teamkreis festgelegt
