@@ -34,3 +34,17 @@ Bis dahin schon mal viel Spaß im Campus!
 Beste Grüße
 Robert und Joe
 ```
+
+## Aufgaben und Reflexionen
+
+```{toctree}
+:maxdepth: 1
+
+aufgaben/Online Phase I - 1. Profil erstellen/aufgabenstellung
+aufgaben/Online Phase I - 2. Allgemeine Trainingsplanung/01-blogbeitrag-trainingsplanung
+aufgaben/Online Phase I - 2. Allgemeine Trainingsplanung/Trainertagebuch
+aufgaben/Online Phase I - 2. Allgemeine Trainingsplanung/aufgabenbeschreibung
+aufgaben/Online Phase I - 3. Trainingsphilosophie Deutschland/aufgabenbeschreibung
+aufgaben/Trainertagebuch/01-blogbeitrag-zu-beginn-des-kurses
+aufgaben/Trainertagebuch/aufgabenbeschreibung
+```

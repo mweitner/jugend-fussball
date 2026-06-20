@@ -1,4 +1,4 @@
-# Jugendfussball D- und C-Jugend
+# Jugendfussball
 
 [![Docs Pages](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml/badge.svg?branch=main)](https://github.com/mweitner/jugend-fussball/actions/workflows/docs-pages.yml)
 

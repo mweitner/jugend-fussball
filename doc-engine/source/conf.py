@@ -3,7 +3,7 @@ import os
 
 version = os.popen("git -C . describe --tags --always --dirty").read().rstrip()
 
-project = "Jugendfussball D- und C-Jugend"
+project = "Jugendfussball"
 copyright = "2026, Michael Weitner"
 author = "Michael Weitner"
 

@@ -1,37 +1,31 @@
-# Jugendfussball D- und C-Jugend
+# Jugendfussball
 
-Willkommen zur Dokumentation fuer den Jugendfussball mit Schwerpunkt D- und C-Jugend.
+Willkommen zur Dokumentation fuer den Jugendfussball.
 
-Diese Seite dient als zentraler Ort fuer den Austausch von Trainingskonzepten,
-Trainingseinheiten und Dokumenten. Der Kontext ist meine Trainerarbeit bei der D- und
-perspektivisch C-Jugend des TSV Erbach.
+Diese Seite ist der zentrale Ort fuer den Austausch von Trainingskonzepten,
+Trainingseinheiten und organisatorischen Unterlagen. Der aktuelle Schwerpunkt liegt
+in der D-Jugend, waehrend parallel die Planung fuer die C-Jugend vorbereitet wird.
 
 Ziel ist eine systematische, zielgerichtete und regelmaessige Trainingsarbeit nach
 DFB/WFV-Richtlinien.
 
 ```{toctree}
 :maxdepth: 2
-:caption: Trainingskonzepte
-:glob:
+:caption: Trainingseinheiten
 
-trainingskonzepte/**
-
+trainingseinheiten/uebersicht
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Trainingseinheiten
-:glob:
+:caption: Trainingskonzepte
 
-trainingseinheiten/**
-
+trainingskonzepte/uebersicht
 ```
 
 ```{toctree}
 :maxdepth: 2
 :caption: Organisatorisches
-:glob:
 
-organisatorisches/**
-
+organisatorisches/dokumentation
 ```
