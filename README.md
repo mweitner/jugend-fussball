@@ -51,6 +51,19 @@ make -C doc-engine html
 
 Die fertige HTML-Dokumentation findet sich dann unter `doc-engine/build/html/`.
 
+### PDF-Ausgabe lokal bauen
+
+Wenn du statt der Browser-Druckfunktion eine sauberere PDF-Variante willst, nutze
+den Sphinx-LaTeX-Workflow:
+
+```bash
+uv sync
+make -C doc-engine latexpdf
+make -C doc-engine pdf
+```
+
+Die PDF-Datei liegt danach im LaTeX-Buildverzeichnis unter `doc-engine/build/latex/`.
+
 ### Mit Docker
 
 ```bash
@@ -58,7 +71,16 @@ docker build -f doc-engine/source/Dockerfile.sphinx -t jugend-fussball-docs:late
 docker run --rm -v $(pwd)/doc-engine/build:/docs/doc-engine/build jugend-fussball-docs:latest
 ```
 
-Die HTML-Ausgabe wird ins lokale `doc-engine/build/html/` gemountet.
+Die HTML-Ausgabe wird ins lokale `doc-engine/build/html/` gemountet. Für PDF kannst du
+denselben Container mit dem Makefile-Target nutzen:
+
+```bash
+docker run --rm -v $(pwd)/doc-engine/build:/docs/doc-engine/build \
+  jugend-fussball-docs:latest make pdf
+```
+
+Das setzt auf denselben LaTeX-Bausteinen wie der lokale `latexpdf`-Workflow und erzeugt
+eine deutlich bessere PDF-Ausgabe als der Browser-Druck.
 
 ### Lokal vs. Docker — Wann was verwenden?
 

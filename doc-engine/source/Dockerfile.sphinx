@@ -3,7 +3,7 @@ FROM python:3.11-slim
 WORKDIR /docs
 
 # Install build tools and uv
-RUN apt-get update && apt-get install -y make && rm -rf /var/lib/apt/lists/* && \
+RUN apt-get update && apt-get install -y make latexmk texlive-xetex texlive-latex-extra texlive-fonts-recommended && rm -rf /var/lib/apt/lists/* && \
     pip install uv
 
 # Copy project files

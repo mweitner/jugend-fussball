@@ -34,4 +34,16 @@ html_theme = "furo"
 html_title = f"{project} ({release})"
 html_static_path = ["_static"]
 
+# Prefer XeLaTeX for better Unicode support and avoid optional chapter style
+# packages that may be missing on minimal TeX installations.
+latex_engine = "xelatex"
+latex_elements = {
+    "fncychap": "",
+    "fontpkg": r"""
+\setmainfont{TeX Gyre Termes}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{TeX Gyre Cursor}
+""",
+}
+
 todo_include_todos = True
