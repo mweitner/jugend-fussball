@@ -1,0 +1,64 @@
+# Explicitely define languange versions in order to auto install required
+# infrastructure like ruby, node, ...:
+# - ruby: required by markdownlint hook
+# - node: required by markdownlint-cli
+# - golang: required by gitleaks
+#
+# Python specific hooks:
+# - ruff:
+# Python specific hooks:
+# - ruff: python code linter and formatter
+#    rust implementation of code linter and sorter, replacing black and isort
+#
+# Note: ruff replaces the black formatter and linter, as it is also used within
+# vscode IDE
+#
+# node: 20.19.0
+# golang: 1.25.4
+default_language_version:
+  ruby: 3.2.1
+  node: 20.19.0
+  golang: 1.25.4
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-toml
+      - id: check-json
+      - id: pretty-format-json
+        args: [--autofix]
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.11.5
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.24.3
+    hooks:
+      - id: gitleaks
+        args: ["--config=gitleaks.toml"]
+  - repo: https://github.com/koalaman/shellcheck-precommit
+    rev: v0.10.0
+    hooks:
+      - id: shellcheck
+  - repo: https://github.com/google/yamlfmt
+    rev: v0.16.0
+    hooks:
+      - id: yamlfmt
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: "v0.44.0"
+    hooks:
+      - id: markdownlint
+        args: [--fix]
+        stages: [pre-commit]
+exclude: |
+  '
+  |^.devcontainer/.*|
+  |^.vscode/.*|^.vscode/*.json|
+  |^doc-engine/build/|^doc-engine/venv/.*|^doc-engine/.venv/.*|
+  |^doc-engine/source/make.bat|
+  '

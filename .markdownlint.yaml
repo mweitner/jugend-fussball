@@ -1,0 +1,19 @@
+default: true
+# MD013/line-length - Line length
+MD013:
+  # Number of characters default=80
+  # Note: markdownlint-cli does not fix this rule automatically.
+  # Policy: Keep regular prose readable around 119 chars.
+  # Exemptions below intentionally allow longer lines in code blocks, links, and tables.
+  line_length: 119
+  code_blocks: false # Disable line length checks for code blocks
+  links: false # Disable line length checks for links
+  tables: false # Disable line length checks for tables
+# MD029/ol-prefix - Ordered list prefix
+# Disabled: code blocks within list items reset list numbering context
+MD029: false
+MD033:
+  # allow br inline html to be able to use it for table cells to break lines without breaking the table structure
+  allowed_elements: [br]
+MD060:
+  style: padded

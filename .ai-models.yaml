@@ -1,0 +1,54 @@
+# AI model capabilities and recommended settings for AI agents
+# Maintainers: keep this in sync with available models/accounts
+models:
+  claude_opus_4_6:
+    display_name: "Claude Opus 4.6"
+    provider: "Anthropic"
+    # generous context for large-document tasks; adjust if different
+    max_input_tokens: 300000
+    max_output_tokens: 65536
+    recommended_chunk_tokens: 250000
+    supports_function_calls: true
+    supports_long_context: true
+    account_scope: "enterprise"
+    notes: "Top-tier model (Claude Opus 4.6). Highest quality and longest context — also the most expensive; prefer only for business/approved tasks."
+    fallback: claude_haiku_4_5
+
+  claude_haiku_4_5:
+    display_name: "Claude Haiku 4.5"
+    provider: "Anthropic"
+    max_input_tokens: 110000
+    max_output_tokens: 8192
+    recommended_chunk_tokens: 80000
+    supports_function_calls: true
+    supports_long_context: true
+    account_scope: "enterprise"
+    notes: "High-quality model; used as fallback for Claude Opus when needed."
+    fallback: gpt_5_mini
+
+  gpt_5_mini:
+    display_name: "GPT-5 mini"
+    provider: "OpenAI"
+    max_input_tokens: 16000
+    max_output_tokens: 2048
+    recommended_chunk_tokens: 12000
+    supports_function_calls: true
+    supports_long_context: limited
+    account_scope: "personal|pro"
+    notes: "Good quality, lower context than Cloud Haiku; use chunking for large files."
+    fallback: null
+
+# Account-specific overrides (optional)
+accounts:
+  github_business:
+    default_model: claude_opus_4_6
+  github_personal:
+    default_model: gpt_5_mini
+
+# Guidance for AI agents
+defaults:
+  chunking_policy: "auto" # auto = split documents to recommended_chunk_tokens with overlap
+  overlap_tokens: 200
+  max_retries: 2
+  use_function_calls_for_io: true
+  verify_precommit: true
