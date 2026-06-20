@@ -10,6 +10,7 @@ hat die "Trainingsphilosophie Deutschland" entwickelt. Sie beschreibt, wie mehr 
 und Ballaktionen für jeden Spieler im Training umgesetzt werden.
 
 **Grundprinzipien:**
+
 - Vom Leichten zum Schweren
 - Vom Bekannten zum Unbekannten
 - Regelmäßig, systematisch und zielgerichtet
@@ -18,6 +19,7 @@ und Ballaktionen für jeden Spieler im Training umgesetzt werden.
 ## Schulungslehrplan
 
 Der Lehrgang läuft im „blended-learning"-Format ab mit:
+
 - **Online-Phase**: Aufgaben mit freier Zeiteinteilung vor den Präsenzterminen
 - **Präsenztermine**: Praktische Schulungen vor Ort
 

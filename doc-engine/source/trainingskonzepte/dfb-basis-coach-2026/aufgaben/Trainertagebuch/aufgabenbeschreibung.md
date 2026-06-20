@@ -4,13 +4,17 @@
 
 Diese Aufgabe läuft über den ganzen Lehrgang und kann jederzeit bearbeitet werden und ist erweiterbar.
 
-Dein Trainertagebuch soll Deine Entwicklung über den Lehrgangsverlauf sichtbar machen. Für jeden ist diese Aufgabe ein persönlicher Schatz und somit wertvoll.
+Dein Trainertagebuch soll Deine Entwicklung über den Lehrgangsverlauf sichtbar machen. Für jeden ist diese Aufgabe ein
+persönlicher Schatz und somit wertvoll.
 
-Nicht nur für diejenigen, die die Trainer C Lizenz anstreben. Du kannst mit Hilfe dieser Einträge Deine persönliche Entwicklung im Lehrgang festhalten und wenn du die C-Lizenz anstrebst in einem abschließenden Vortrag in einem Profil-Lehrgang darstellen. Diese Aufgabe wiederholt sich in jedem Lehrgang.
+Nicht nur für diejenigen, die die Trainer C Lizenz anstreben. Du kannst mit Hilfe dieser Einträge Deine persönliche
+Entwicklung im Lehrgang festhalten und wenn du die C-Lizenz anstrebst in einem abschließenden Vortrag in einem
+Profil-Lehrgang darstellen. Diese Aufgabe wiederholt sich in jedem Lehrgang.
 
 **Formuliere** zu Beginn des Lehrgangs in einem Blog-Beitrag oder Video oder Dokument Deine persönlichen (!) Ziele:
 
-* Warum bist Du Trainer? Was möchtest Du persönlich erreichen? Wo siehst Du aktuell persönliche Probleme/Defizite in Deiner Trainertätigkeit?
+* Warum bist Du Trainer? Was möchtest Du persönlich erreichen? Wo siehst Du aktuell persönliche Probleme/Defizite in
+ Deiner Trainertätigkeit?
 * Was willst Du nach diesem Lehrgang Wissen und Können?
 * Was erhoffst Du Dir aus dem Austausch mit deinen KollegenInnen?
 
@@ -22,19 +26,19 @@ Nicht nur für diejenigen, die die Trainer C Lizenz anstreben. Du kannst mit Hil
 * Welches neue Wissen und Können hast Du im Lehrgang aus Deiner Sicht erworben?
 * Was ist Deine wichtigste Erfahrung aus dem Lehrgang für Deine Trainerarbeit?
 
-
 ## Aufgabenstellung
 
-Lege hier alle gesammelten Eindrücke und Erfahrungen ab, die Du während des Kurses sammelst. Entweder in Form von Blogs oder Dokumenten oder Video / Audiodateien oder natürlich von allem etwas.
+Lege hier alle gesammelten Eindrücke und Erfahrungen ab, die Du während des Kurses sammelst. Entweder in Form von Blogs
+oder Dokumenten oder Video / Audiodateien oder natürlich von allem etwas.
 
 Diese können beinhalten:
 
-- Persönliche oder Gruppenfeedbacks des Ausbilders oder anderer Teilnehmer
-- Deine Beobachtungen
-- Gesprächsinhalte
-- Literaturhinweise / Links
-- Skizzen
-- Trainingsübungen
+* Persönliche oder Gruppenfeedbacks des Ausbilders oder anderer Teilnehmer
+* Deine Beobachtungen
+* Gesprächsinhalte
+* Literaturhinweise / Links
+* Skizzen
+* Trainingsübungen
 ...
 
 kurzum: ALLES, WAS DIR WICHTIG IST!

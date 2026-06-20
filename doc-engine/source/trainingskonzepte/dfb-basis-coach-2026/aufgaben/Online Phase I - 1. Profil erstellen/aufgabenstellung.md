@@ -2,7 +2,9 @@
 
 ```text
 Beschreibung
-Damit jede Teilnehmerin und jeder Teilnehmer im Kurs sichtbar ist, soll ein Profil mit Foto angelegt werden. Transparenz schafft Vertrauen!
+
+Damit jede Teilnehmerin und jeder Teilnehmer im Kurs sichtbar ist, soll ein Profil mit Foto angelegt werden.
+Transparenz schafft Vertrauen!
 
 Alle Teilnehmer die bereits ein Profil angelegt haben, vervollständigen dies bitte und fügen mögliche neue Daten hinzu!
 
