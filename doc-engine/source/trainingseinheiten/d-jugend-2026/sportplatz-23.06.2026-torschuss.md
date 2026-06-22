@@ -17,9 +17,16 @@ hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
 **Zeit:** 17:30-19:30 (120 Minuten)
 **Spieler:** ca. 20 (nur Jahrgang 2013)
 **Trainerteam:** 3 Trainer (inkl. Josi als Athletikschwerpunkt)
+**Standort-ID:** TSV-SPORTHEIM
+**Feld-ID(s):** FELD-1 + FELD-2
+**Aufbaucode:** D-2KF-28x36-9-9-M-9-9
+**Orientierung:** 2 Kleinfelder quer ueber den Platz, je Feldhaelfte ein Kleinfeld
 **Aufbau:** 2 Kleinfelder je 28 m x 36 m
 **Zonen je Feldlänge:** 9 m - 9 m - Mittellinie - 9 m - 9 m
 **Tore:** 2 D-Jugend-Tore pro Kleinfeld (je 1 mittig pro Grundlinie), Mini-Tore entfallen
+
+Standardisierte Aufbau-Skizzen fuer Teamuebergabe und Vertretung:
+[Aufbau-Template](../aufbau-template.md)
 
 ## Lernziele
 

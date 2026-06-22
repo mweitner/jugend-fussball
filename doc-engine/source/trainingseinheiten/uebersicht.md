@@ -11,6 +11,7 @@ C-Jugend-Planung schrittweise vorbereitet, damit der Uebergang klar dokumentiert
 
 fuer-eltern
 leitfaden-und-vorlage
+aufbau-template
 ```
 
 ```{toctree}

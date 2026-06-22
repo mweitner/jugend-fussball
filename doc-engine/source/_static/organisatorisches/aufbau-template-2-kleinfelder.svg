@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <marker id="arrow-green" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1f6a33"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1200" height="760" fill="#f3f5f7"/>
+  <rect x="50" y="60" width="1100" height="640" fill="#d8ead2" stroke="#4f7f5f" stroke-width="4"/>
+  <text x="600" y="100" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="#1f3b2b">
+    Trainingsplatz - Basisaufbau
+  </text>
+
+  <rect x="120" y="170" width="450" height="460" fill="#b7ddb0" stroke="#1f6a33" stroke-width="3"/>
+  <text x="345" y="205" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#0f3d1f">Kleinfeld A</text>
+  <text x="345" y="235" text-anchor="middle" font-size="22" font-family="Arial, sans-serif" fill="#0f3d1f">28 m x 30 m (Beispiel)</text>
+
+  <rect x="630" y="170" width="450" height="460" fill="#b7ddb0" stroke="#1f6a33" stroke-width="3"/>
+  <text x="855" y="205" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#0f3d1f">Kleinfeld B</text>
+  <text x="855" y="235" text-anchor="middle" font-size="22" font-family="Arial, sans-serif" fill="#0f3d1f">28 m x 30 m (Beispiel)</text>
+
+  <line x1="345" y1="170" x2="345" y2="630" stroke="#ffffff" stroke-width="3" stroke-dasharray="10 10"/>
+  <line x1="855" y1="170" x2="855" y2="630" stroke="#ffffff" stroke-width="3" stroke-dasharray="10 10"/>
+
+  <rect x="305" y="170" width="80" height="14" fill="#1b4f72"/>
+  <rect x="305" y="616" width="80" height="14" fill="#1b4f72"/>
+  <rect x="815" y="170" width="80" height="14" fill="#1b4f72"/>
+  <rect x="815" y="616" width="80" height="14" fill="#1b4f72"/>
+  <text x="600" y="655" text-anchor="middle" font-size="20" font-family="Arial, sans-serif" fill="#1b4f72">
+    Blau = D-Jugend-Tore (je 2 pro Kleinfeld)
+  </text>
+
+  <rect x="145" y="170" width="24" height="10" fill="#f39c12"/>
+  <rect x="521" y="170" width="24" height="10" fill="#f39c12"/>
+  <rect x="145" y="620" width="24" height="10" fill="#f39c12"/>
+  <rect x="521" y="620" width="24" height="10" fill="#f39c12"/>
+
+  <rect x="655" y="170" width="24" height="10" fill="#f39c12"/>
+  <rect x="1031" y="170" width="24" height="10" fill="#f39c12"/>
+  <rect x="655" y="620" width="24" height="10" fill="#f39c12"/>
+  <rect x="1031" y="620" width="24" height="10" fill="#f39c12"/>
+  <text x="600" y="685" text-anchor="middle" font-size="20" font-family="Arial, sans-serif" fill="#8a5b00">
+    Orange = Mini-Tore (links/rechts neben den D-Jugend-Toren)
+  </text>
+
+  <line x1="140" y1="150" x2="550" y2="150" stroke="#1f6a33" stroke-width="3" marker-start="url(#arrow-green)" marker-end="url(#arrow-green)"/>
+  <text x="345" y="140" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" fill="#1f6a33">Breite 28 m</text>
+
+  <line x1="95" y1="170" x2="95" y2="630" stroke="#1f6a33" stroke-width="3" marker-start="url(#arrow-green)" marker-end="url(#arrow-green)"/>
+  <text x="80" y="405" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" fill="#1f6a33" transform="rotate(-90 80 405)">Laenge 30 m</text>
+
+  <line x1="650" y1="150" x2="1060" y2="150" stroke="#1f6a33" stroke-width="3" marker-start="url(#arrow-green)" marker-end="url(#arrow-green)"/>
+  <text x="855" y="140" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" fill="#1f6a33">Breite 28 m</text>
+
+  <line x1="1105" y1="170" x2="1105" y2="630" stroke="#1f6a33" stroke-width="3" marker-start="url(#arrow-green)" marker-end="url(#arrow-green)"/>
+  <text x="1120" y="405" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" fill="#1f6a33" transform="rotate(-90 1120 405)">Laenge 30 m</text>
+
+  <text x="600" y="730" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" fill="#555">
+    Feld-ID Referenz im Plan: FELD-1 + FELD-2 | Orientierung: quer ueber den Platz
+  </text>
+</svg>

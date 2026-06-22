@@ -19,6 +19,10 @@ Situationen zu verbessern.
 **Zeit:** 17:30-19:30 (120 Minuten)
 **Trainerteam:** 2 Trainer
 **Spieler:** ca. 20
+**Standort-ID:** TSV-SPORTHEIM
+**Feld-ID(s):** FELD-1 + FELD-2
+**Aufbaucode Spielfelder:** D-2KF-28x30-6-9-M-9-6
+**Orientierung Spielfelder:** zwei Kleinfelder quer ueber den Platz
 
 **Aufbau Spielfelder:**
 

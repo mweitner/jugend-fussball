@@ -6,7 +6,7 @@ Eltern funktionieren, nutzen wir einen einheitlichen Aufbau.
 ## Empfohlene Struktur pro Einheit
 
 1. Kontext
-2. Plan (Datum, Zeit, Gruppe, Trainer, Material)
+2. Plan (Datum, Zeit, Gruppe, Trainer, Standort, Feldaufbau, Material)
 3. Lernziele (2-4 klare Ziele)
 4. Ablauf in Bloecken mit Zeiten
 5. Coachingpunkte je Block
@@ -18,6 +18,7 @@ Eltern funktionieren, nutzen wir einen einheitlichen Aufbau.
 - Ist der Schwerpunkt klar benannt?
 - Sind Zielgruppe und Jahrgang eindeutig?
 - Sind Dauer und Belastung realistisch?
+- Sind Standort-ID, Feld-ID(s) und Aufbaucode eindeutig?
 - Sind Material und Feldaufbau nachvollziehbar?
 - Sind Lernziele fuer Eltern verstaendlich formuliert?
 
@@ -34,6 +35,10 @@ Kurzer Anlass und Rahmenbedingungen.
 - Zeit:
 - Spielerzahl:
 - Trainerteam:
+- Standort-ID:
+- Feld-ID(s):
+- Aufbaucode:
+- Orientierung:
 - Aufbau:
 - Material:
 

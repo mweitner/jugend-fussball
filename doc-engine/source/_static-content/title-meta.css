@@ -1,0 +1,26 @@
+/* Render a secondary build label under the main docs title in Furo nav areas. */
+.sidebar-brand-text {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 1.2;
+}
+
+.sidebar-brand-subtitle {
+  font-size: 0.72rem;
+  font-weight: 400;
+  opacity: 0.78;
+  margin-top: 0.15rem;
+}
+
+.mobile-header .brand {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.2;
+}
+
+.mobile-header .brand .sidebar-brand-subtitle {
+  font-size: 0.68rem;
+  opacity: 0.8;
+}

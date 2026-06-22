@@ -21,6 +21,11 @@ Variationen der Spielformen S2 und S3.
 
 **Konzept:** DFB Basis Coach (S-U-S)
 
+**Standort-ID:** TSV-SPORTHEIM
+**Feld-ID(s):** FELD-1 + FELD-2
+**Aufbaucode:** D-2KF-28x21-6-9-6
+**Orientierung:** zwei Kleinfelder quer ueber den Platz
+
 **Aufbau:** 2 Kleinfelder (28m breit x 21m lang). Länge unterteilt in Zonen: 6m - 9m - 6m. Tore pro Grundlinie:
 Mini-Tor (links) – D-Jugend-Tor (Mitte) – Mini-Tor (rechts).
 
