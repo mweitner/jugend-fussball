@@ -28,3 +28,9 @@ Der Kontext dieser Inhalte ist meine Trainerarbeit in der D- und C-Jugend beim T
 
 Die Dokumentation wird regelmaessig aktualisiert. Aktuelle Trainingseinheiten werden
 nach Durchführung dokumentiert und archiviert.
+
+## Aufbau der Organisationsdokumente
+
+- [Elternabende](./elternabende/elternabende.md)
+- [Standort und Spielfelder](./standorte-und-spielfelder.md)
+- [Teamorganisation](./teamorganisation.md)

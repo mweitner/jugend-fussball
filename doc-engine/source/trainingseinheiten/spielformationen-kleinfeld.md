@@ -16,17 +16,17 @@ Kleinfeld-Trainingsaufbau (5-gegen-5 und 7-gegen-7).
 
 ```text
                 TOR(E)-A
-        ┌──────────────────────┐
-        │                      │
-     R  │      r       r       │
-     O  │                      │
-     T  │   r             r    │
-        ├──────────────────────┤
-     B  │   b             b    │
-     L  │                      │
-     A  │      b       b       │
-     U  │                      │
-        └──────────────────────┘
+        +----------------------+
+        |                      |
+     R  |      r       r       |
+     O  |                      |
+     T  |   r             r    |
+        +----------------------+
+     B  |   b             b    |
+     L  |                      |
+     A  |      b       b       |
+     U  |                      |
+        +----------------------+
                 TOR(E)-B
 
   Legende:
@@ -52,17 +52,17 @@ Kleinfeld-Trainingsaufbau (5-gegen-5 und 7-gegen-7).
 
 ```text
                  TOR(E)-A
-        ┌──────────────────────┐
-        │         tw-r         │
-     R  │       r      r       │
-     O  │                      │
-     T  │   r              r   │
-        ├──────────────────────┤
-     B  │   b              b   │
-     L  │                      │
-     A  │       b      b       │
-     U  │         tw-b         │
-        └──────────────────────┘
+        +----------------------+
+        |         tw-r         |
+     R  |       r      r       |
+     O  |                      |
+     T  |   r              r   |
+        +----------------------+
+     B  |   b              b   |
+     L  |                      |
+     A  |       b      b       |
+     U  |         tw-b         |
+        +----------------------+
                   TOR(E)-B
 
   Legende:
@@ -97,17 +97,17 @@ Kleinfeld-Trainingsaufbau (5-gegen-5 und 7-gegen-7).
 
 ```text
                  TOR(E)-A
-        ┌──────────────────────┐
-        │        tw-r          │
-     R  │      r       r       │
-     O  │                      │
-     T  │    r     r     r     │
-        ├──────────────────────┤
-     B  │    b     b     b     │
-     L  │                      │
-     A  │      b       b       │
-     U  │        tw-b          │
-        └──────────────────────┘
+        +----------------------+
+        |        tw-r          |
+     R  |      r       r       |
+     O  |                      |
+     T  |    r     r     r     |
+        +----------------------+
+     B  |    b     b     b     |
+     L  |                      |
+     A  |      b       b       |
+     U  |        tw-b          |
+        +----------------------+
                  TOR(E)-B
 
   Legende:
@@ -137,20 +137,20 @@ Kleinfeld-Trainingsaufbau (5-gegen-5 und 7-gegen-7).
 
 ```text
                  TOR(E)-A
-        ┌──────────────────────┐
-        │        tw-r          │
-     R  │  r       r       r   │
-     O  │                      │
-     T  │      r       r       │
-        │          r           │
-        ├──────────────────────┤
-        │          b           │
-     B  │                      │
-     L  │      b       b       │
-     A  │                      │
-     U  │  b       b       b   │
-        │        tw-b          │
-        └──────────────────────┘
+        +----------------------+
+        |        tw-r          |
+     R  |  r       r       r   |
+     O  |                      |
+     T  |      r       r       |
+        |          r           |
+        +----------------------+
+        |          b           |
+     B  |                      |
+     L  |      b       b       |
+     A  |                      |
+     U  |  b       b       b   |
+        |        tw-b          |
+        +----------------------+
                  TOR(E)-B
 
   Legende:
@@ -180,20 +180,20 @@ Kleinfeld-Trainingsaufbau (5-gegen-5 und 7-gegen-7).
 
 ```text
                  TOR(E)-A
-        ┌──────────────────────┐
-        │        tw-r          │
-     R  │ r        r        r  │
-     O  │                      │
-     T  │    r      r      r   │
-        │       r       r      │
-        ├──────────────────────┤
-        │       b       b      │
-     B  │                      │
-     L  │    b      b      b   │
-     A  │                      │
-     U  │ b        b        b  │
-        │        tw-b          │
-        └──────────────────────┘
+        +----------------------+
+        |        tw-r          |
+     R  | r        r        r  |
+     O  |                      |
+     T  |    r      r      r   |
+        |       r       r      |
+        +----------------------+
+        |       b       b      |
+     B  |                      |
+     L  |    b      b      b   |
+     A  |                      |
+     U  | b        b        b  |
+        |        tw-b          |
+        +----------------------+
                  TOR(E)-B
 
   Legende:
@@ -218,24 +218,24 @@ Kleinfeld-Trainingsaufbau (5-gegen-5 und 7-gegen-7).
 
 ```text
 Phase 1: Aufwärmen (Formation 2-2 + Pass-Vierecke)
-├─ 4 Kleingruppen × 4 Spieler → Pass-Vierecke 20m × 20m
-├─ Fokus: Ballkontrolle, schnelle Pässe
-└─ Dauer: 15 min
++- 4 Kleingruppen × 4 Spieler → Pass-Vierecke 20m × 20m
++- Fokus: Ballkontrolle, schnelle Pässe
++- Dauer: 15 min
 
 Phase 2: Technik-Kleinfeld (Formation 2-2-1)
-├─ 5-gegen-5 mit fliegendem Torwart
-├─ Schwerpunkt: Transitions, Positionsspiel
-└─ Dauer: 15 min
++- 5-gegen-5 mit fliegendem Torwart
++- Schwerpunkt: Transitions, Positionsspiel
++- Dauer: 15 min
 
 Phase 3: Spielform-Training (Formation 2-3 oder 3-2-1)
-├─ 6-gegen-6 oder 7-gegen-7 je nach Gruppengröße
-├─ Wettkampfform, Zonen-Fokus
-└─ Dauer: 20 min
++- 6-gegen-6 oder 7-gegen-7 je nach Gruppengröße
++- Wettkampfform, Zonen-Fokus
++- Dauer: 20 min
 
 Phase 4: Turnierform (Formation 3-3-2 oder 3-2-1)
-├─ 9-gegen-9 oder 7-gegen-7 auf Normalfeld
-├─ Offizielle Spielweise vorbereiten
-└─ Dauer: 20–30 min
++- 9-gegen-9 oder 7-gegen-7 auf Normalfeld
++- Offizielle Spielweise vorbereiten
++- Dauer: 20–30 min
 ```
 
 ---
@@ -259,19 +259,19 @@ Phase 4: Turnierform (Formation 3-3-2 oder 3-2-1)
 ```text
 6 m Abschlusszone (Rot) | = Verteidigungszone (Blau)
         ↓
-┌──────────────────────┐
-│  Rot (Angriff)       │ Abschlusszone: 0–6 m von Tor A
-│                      │
-├──────────────────────┤
-│  Mittelzone          │ Mittelzone: 6–15 m (9 m breit, 2×)
-│  (9 m je Seite)      │
-├──────────────────────┤ Mittellinie
-│  Mittelzone          │
-│  (9 m je Seite)      │
-├──────────────────────┤
-│  Blau (Abwehr)       │ Abschlusszone: 0–6 m von Tor B
-│                      │
-└──────────────────────┘
++----------------------+
+|  Rot (Angriff)       | Abschlusszone: 0–6 m von Tor A
+|                      |
++----------------------+
+|  Mittelzone          | Mittelzone: 6–15 m (9 m breit, 2×)
+|  (9 m je Seite)      |
++----------------------+ Mittellinie
+|  Mittelzone          |
+|  (9 m je Seite)      |
++----------------------+
+|  Blau (Abwehr)       | Abschlusszone: 0–6 m von Tor B
+|                      |
++----------------------+
 ```
 
 ---

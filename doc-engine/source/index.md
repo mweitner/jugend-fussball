@@ -9,11 +9,18 @@ in der D-Jugend, waehrend parallel die Planung fuer die C-Jugend vorbereitet wir
 Ziel ist eine systematische, zielgerichtete und regelmaessige Trainingsarbeit nach
 DFB/WFV-Richtlinien.
 
+Diese Dokumentation ist als persoenliche Coaching-Dokumentation aufgebaut, steht
+inhaltlich aber im Kontext der Jugendabteilung des TSV Erbach.
+Offizielle Informationen zum Jugendfussball beim TSV Erbach:
+<https://www.fussball-erbach.de/junioren>
+
 ```{toctree}
 :maxdepth: 2
 :caption: Organisatorisches
 
 Dokumentation <./organisatorisches/dokumentation>
+Elternabende <./organisatorisches/elternabende/elternabende.md>
+Teamorganisation <./organisatorisches/teamorganisation.md>
 Standort und Spielfelder <./organisatorisches/standorte-und-spielfelder.md>
 ```
 
