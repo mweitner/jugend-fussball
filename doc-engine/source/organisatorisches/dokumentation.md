@@ -28,11 +28,3 @@ Der Kontext dieser Inhalte ist meine Trainerarbeit in der D- und C-Jugend beim T
 
 Die Dokumentation wird regelmaessig aktualisiert. Aktuelle Trainingseinheiten werden
 nach Durchführung dokumentiert und archiviert.
-
-```{toctree}
-:maxdepth: 1
-:caption: Standort und Aufbau
-
-standorte-und-spielfelder
-spielformationen-kleinfeld
-```

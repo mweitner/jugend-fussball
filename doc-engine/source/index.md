@@ -13,14 +13,19 @@ DFB/WFV-Richtlinien.
 :maxdepth: 2
 :caption: Organisatorisches
 
-Einleitung <./organisatorisches/dokumentation>
+Dokumentation <./organisatorisches/dokumentation>
+Standort und Spielfelder <./organisatorisches/standorte-und-spielfelder.md>
 ```
 
 ```{toctree}
 :maxdepth: 2
 :caption: Training
 
-Konzept <./trainingskonzepte/uebersicht.md>
+Kleinfeld Formationen <./trainingseinheiten/spielformationen-kleinfeld.md>
+Leitfaden und Vorlage <./trainingseinheiten/leitfaden-und-vorlage>
+Aufbau-Template <./trainingseinheiten/aufbau-template>
+Einheiten fuer Eltern erklaert <./trainingseinheiten/fuer-eltern>
+Planung <./trainingseinheiten/trainingsplanung.md>
 Einheiten <./trainingseinheiten/uebersicht.md>
 ```
 
@@ -30,4 +35,5 @@ Einheiten <./trainingseinheiten/uebersicht.md>
 
 dfb-wfv/wfv
 dfb-wfv/dfb
+Schulung / Weiterbildung <./dfb-wfv/basis-coach-schulung.md>
 ```

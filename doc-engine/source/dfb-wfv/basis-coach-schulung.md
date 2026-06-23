@@ -25,3 +25,13 @@ Der Lehrgang läuft im „blended-learning"-Format ab mit:
 
 Die erfolgreiche Teilnahme setzt die vollständige Erfüllung aller Online-Aufgaben und
 die Anwesenheit in den Präsenzterminen voraus.
+
+## Protokoll - Michael Weitner
+
+Hier dokumentiere ich die DFB Basis Coach Durchfuehrung.
+
+```{toctree}
+:maxdepth: 1
+
+dfb-basis-coach-2026/dfb-basis-coach-2026.md
+```
