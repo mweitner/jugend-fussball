@@ -31,6 +31,10 @@ doc-engine/build/
 doc-engine/source/_build/
 doc-engine/.doctrees/
 
+# Media files (local only)
+*.mp4
+doc-engine/source/dfb-wfv/dfb-basis-coach-2026/**/*.mp4
+
 # IDE
 .vscode/
 .idea/
