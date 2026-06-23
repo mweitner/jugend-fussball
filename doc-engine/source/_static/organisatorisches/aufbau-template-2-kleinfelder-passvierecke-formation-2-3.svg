@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1f6a33"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="900" fill="#f5f5f0"/>
+  <text x="600" y="47" text-anchor="middle" font-size="26" font-family="Arial,sans-serif" fill="#2c3e50" font-weight="bold">Ausbaustufe - Formation 2-3 (2 Kleinfelder) + 4 Pass-Vierecke (Aufwaermen)</text>
+
+  <rect x="80" y="65" width="1040" height="510" fill="#d8ead2" stroke="#4f7f5f" stroke-width="4"/>
+  <text x="600" y="88" text-anchor="middle" font-size="16" font-family="Arial,sans-serif" fill="#1f3b2b">Hauptaufbau auf dem Trainingsplatz</text>
+
+  <!-- ===== KLEINFELD A (x=140-570, y=190-550) ===== -->
+
+  <!-- Massstabspfeile Kleinfeld A -->
+  <text x="355" y="103" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f6a33">Breite 28 m</text>
+  <line x1="150" y1="110" x2="560" y2="110" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="124" y="370" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f6a33" transform="rotate(-90,124,370)">Laenge 30 m</text>
+  <line x1="130" y1="190" x2="130" y2="550" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="355" y="183" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#0f3d1f" font-weight="bold">Kleinfeld A</text>
+
+  <!-- Zonen-Fuellfarben Kleinfeld A: Hoehe 360px fuer 30m -> 6m=72px, 9m=108px -->
+  <rect x="140" y="190" width="430" height="72"  fill="#fce8d0"/>
+  <rect x="140" y="262" width="430" height="108" fill="#c5e8ba"/>
+  <rect x="140" y="370" width="430" height="108" fill="#c5e8ba"/>
+  <rect x="140" y="478" width="430" height="72"  fill="#fce8d0"/>
+  <!-- Feldrahmen -->
+  <rect x="140" y="190" width="430" height="360" fill="none" stroke="#1f6a33" stroke-width="3"/>
+
+  <!-- Zonenlinien Kleinfeld A -->
+  <line x1="140" y1="262" x2="570" y2="262" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+  <line x1="140" y1="370" x2="570" y2="370" stroke="#1f4f2a" stroke-width="2.5" stroke-dasharray="14 6"/>
+  <line x1="140" y1="478" x2="570" y2="478" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+
+  <!-- Zonenbeschriftung Kleinfeld A -->
+  <text x="355" y="222" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#e74c3c" font-weight="bold">Abschlusszone Rot</text>
+  <text x="355" y="234" text-anchor="middle" font-size="9" font-family="Arial,sans-serif" fill="#2980b9" font-style="italic">= Verteidigungszone Blau</text>
+  <text x="355" y="322" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="143" y="367" font-size="9" font-family="Arial,sans-serif" fill="#1f4f2a" font-weight="bold">&#x2014; Mittellinie &#x2014;</text>
+  <text x="355" y="428" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="355" y="508" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#2980b9" font-weight="bold">Abschlusszone Blau</text>
+  <text x="355" y="520" text-anchor="middle" font-size="9" font-family="Arial,sans-serif" fill="#e74c3c" font-style="italic">= Verteidigungszone Rot</text>
+
+  <!-- Tore Kleinfeld A -->
+  <rect x="315" y="190" width="80" height="12" fill="#1b4f72"/>
+  <rect x="155" y="190" width="24" height="9"  fill="#f39c12"/>
+  <rect x="531" y="190" width="24" height="9"  fill="#f39c12"/>
+  <rect x="315" y="538" width="80" height="12" fill="#1b4f72"/>
+  <rect x="155" y="541" width="24" height="9"  fill="#f39c12"/>
+  <rect x="531" y="541" width="24" height="9"  fill="#f39c12"/>
+
+  <!-- Team Blau Kleinfeld A: 2-3 Formation -->
+  <circle cx="355" cy="200" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="355" cy="200" r="7" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="355" y="204" text-anchor="middle" font-size="6" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <circle cx="310" cy="270" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="400" cy="270" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="355" cy="330" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="160" cy="315" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="550" cy="315" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+
+  <!-- Team Rot Kleinfeld A: 2-3 Formation -->
+  <circle cx="355" cy="537" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="355" cy="537" r="7" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="355" y="541" text-anchor="middle" font-size="6" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <circle cx="310" cy="467" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="400" cy="467" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="355" cy="407" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="160" cy="422" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="550" cy="422" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+
+
+  <!-- ===== KLEINFELD B (x=630-1060, y=190-550) ===== -->
+
+  <!-- Massstabspfeile Kleinfeld B -->
+  <text x="845" y="103" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f6a33">Breite 28 m</text>
+  <line x1="640" y1="110" x2="1050" y2="110" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="1076" y="370" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f6a33" transform="rotate(-90,1076,370)">Laenge 30 m</text>
+  <line x1="1070" y1="190" x2="1070" y2="550" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="845" y="183" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#0f3d1f" font-weight="bold">Kleinfeld B</text>
+
+  <!-- Zonen-Fuellfarben Kleinfeld B -->
+  <rect x="630" y="190" width="430" height="72"  fill="#fce8d0"/>
+  <rect x="630" y="262" width="430" height="108" fill="#c5e8ba"/>
+  <rect x="630" y="370" width="430" height="108" fill="#c5e8ba"/>
+  <rect x="630" y="478" width="430" height="72"  fill="#fce8d0"/>
+  <rect x="630" y="190" width="430" height="360" fill="none" stroke="#1f6a33" stroke-width="3"/>
+
+  <!-- Zonenlinien Kleinfeld B -->
+  <line x1="630" y1="262" x2="1060" y2="262" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+  <line x1="630" y1="370" x2="1060" y2="370" stroke="#1f4f2a" stroke-width="2.5" stroke-dasharray="14 6"/>
+  <line x1="630" y1="478" x2="1060" y2="478" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+
+  <!-- Zonenbeschriftung Kleinfeld B -->
+  <text x="845" y="222" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#e74c3c" font-weight="bold">Abschlusszone Rot</text>
+  <text x="845" y="234" text-anchor="middle" font-size="9" font-family="Arial,sans-serif" fill="#2980b9" font-style="italic">= Verteidigungszone Blau</text>
+  <text x="845" y="322" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="633" y="367" font-size="9" font-family="Arial,sans-serif" fill="#1f4f2a" font-weight="bold">&#x2014; Mittellinie &#x2014;</text>
+  <text x="845" y="428" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="845" y="508" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#2980b9" font-weight="bold">Abschlusszone Blau</text>
+  <text x="845" y="520" text-anchor="middle" font-size="9" font-family="Arial,sans-serif" fill="#e74c3c" font-style="italic">= Verteidigungszone Rot</text>
+
+  <!-- Tore Kleinfeld B -->
+  <rect x="805" y="190" width="80" height="12" fill="#1b4f72"/>
+  <rect x="645" y="190" width="24" height="9"  fill="#f39c12"/>
+  <rect x="1021" y="190" width="24" height="9"  fill="#f39c12"/>
+  <rect x="805" y="538" width="80" height="12" fill="#1b4f72"/>
+  <rect x="645" y="541" width="24" height="9"  fill="#f39c12"/>
+  <rect x="1021" y="541" width="24" height="9"  fill="#f39c12"/>
+
+  <!-- Team Blau Kleinfeld B: 2-3 Formation -->
+  <circle cx="845" cy="200" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="845" cy="200" r="7" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="845" y="204" text-anchor="middle" font-size="6" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <circle cx="800" cy="270" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="890" cy="270" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="845" cy="330" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="650" cy="315" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="1040" cy="315" r="11" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+
+  <!-- Team Rot Kleinfeld B: 2-3 Formation -->
+  <circle cx="845" cy="537" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="845" cy="537" r="7" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="845" y="541" text-anchor="middle" font-size="6" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <circle cx="800" cy="467" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="890" cy="467" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="845" cy="407" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="650" cy="422" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="1040" cy="422" r="11" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+
+
+  <!-- ===== PASS-VIERECKE (Aufwaermstation) ===== -->
+  <rect x="80" y="620" width="230" height="230" fill="#e8f2ff" stroke="#2c5c8a" stroke-width="3"/>
+  <rect x="350" y="620" width="230" height="230" fill="#e8f2ff" stroke="#2c5c8a" stroke-width="3"/>
+  <rect x="620" y="620" width="230" height="230" fill="#e8f2ff" stroke="#2c5c8a" stroke-width="3"/>
+  <rect x="890" y="620" width="230" height="230" fill="#e8f2ff" stroke="#2c5c8a" stroke-width="3"/>
+
+  <text x="195" y="643" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" fill="#173d63" font-weight="bold">Pass-Viereck 1</text>
+  <text x="465" y="643" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" fill="#173d63" font-weight="bold">Pass-Viereck 2</text>
+  <text x="735" y="643" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" fill="#173d63" font-weight="bold">Pass-Viereck 3</text>
+  <text x="1005" y="643" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" fill="#173d63" font-weight="bold">Pass-Viereck 4</text>
+  <text x="195" y="660" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#173d63">20 m x 20 m</text>
+  <text x="465" y="660" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#173d63">20 m x 20 m</text>
+  <text x="735" y="660" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#173d63">20 m x 20 m</text>
+  <text x="1005" y="660" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#173d63">20 m x 20 m</text>
+
+  <!-- Pass-Viereck Spieler: 1 Schweinchen (Mitte) + 4 aussen -->
+  <!-- Viereck 1 -->
+  <circle cx="195" cy="755" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <text x="195" y="759" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">S</text>
+  <circle cx="100" cy="675" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="290" cy="675" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="100" cy="835" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="290" cy="835" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <!-- Viereck 2 -->
+  <circle cx="465" cy="755" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="465" y="759" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">S</text>
+  <circle cx="370" cy="675" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="560" cy="675" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="370" cy="835" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="560" cy="835" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <!-- Viereck 3 -->
+  <circle cx="735" cy="755" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <text x="735" y="759" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">S</text>
+  <circle cx="640" cy="675" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="830" cy="675" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="640" cy="835" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="830" cy="835" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <!-- Viereck 4 -->
+  <circle cx="1005" cy="755" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="1005" y="759" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">S</text>
+  <circle cx="910" cy="675" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="1100" cy="675" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="910" cy="835" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <circle cx="1100" cy="835" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+
+  <text x="600" y="874" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#173d63">Pass-Vierecke: je 4 Eckenspieler + 1 Schweinchen (S) in der Mitte  |  Gruppen A1/A2 (blau) und B1/B2 (rot)</text>
+</svg>

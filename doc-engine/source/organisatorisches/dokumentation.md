@@ -34,4 +34,5 @@ nach Durchführung dokumentiert und archiviert.
 :caption: Standort und Aufbau
 
 standorte-und-spielfelder
+spielformationen-kleinfeld
 ```

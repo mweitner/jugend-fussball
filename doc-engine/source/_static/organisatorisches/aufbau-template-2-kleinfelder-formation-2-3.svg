@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1f6a33"/>
+    </marker>
+  </defs>
+
+  <!-- Hintergrund und Platz -->
+  <rect x="0" y="0" width="1200" height="820" fill="#f3f5f7"/>
+  <rect x="50" y="65" width="1100" height="645" fill="#d8ead2" stroke="#4f7f5f" stroke-width="4"/>
+  <text x="600" y="47" text-anchor="middle" font-size="26" font-family="Arial,sans-serif" fill="#1f3b2b" font-weight="bold">Trainingsplatz - Formation 2-3 (TW + 2 Abwehr compact + 3 Feldspieler offensiv)</text>
+
+  <!-- ===== KLEINFELD A (x=120-570, y=170-630) ===== -->
+
+  <!-- Massstabspfeile Kleinfeld A -->
+  <text x="345" y="153" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#1f6a33">Breite 28 m</text>
+  <line x1="140" y1="160" x2="550" y2="160" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="82" y="405" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#1f6a33" transform="rotate(-90,82,405)">Laenge 30 m</text>
+  <line x1="97" y1="170" x2="97" y2="630" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="345" y="165" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#0f3d1f" font-weight="bold">Kleinfeld A</text>
+
+  <!-- Zonen-Fuellfarben Kleinfeld A: Hoehe 460px fuer 30m -> 6m=92px, 9m=138px -->
+  <rect x="120" y="170" width="450" height="92"  fill="#fce8d0"/>
+  <rect x="120" y="262" width="450" height="138" fill="#c5e8ba"/>
+  <rect x="120" y="400" width="450" height="138" fill="#c5e8ba"/>
+  <rect x="120" y="538" width="450" height="92"  fill="#fce8d0"/>
+  <!-- Feldrahmen (oben drauf) -->
+  <rect x="120" y="170" width="450" height="460" fill="none" stroke="#1f6a33" stroke-width="3"/>
+
+  <!-- Zonenlinien Kleinfeld A -->
+  <line x1="120" y1="262" x2="570" y2="262" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+  <line x1="120" y1="400" x2="570" y2="400" stroke="#1f4f2a" stroke-width="2.5" stroke-dasharray="14 6"/>
+  <line x1="120" y1="538" x2="570" y2="538" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+
+  <!-- Zonenbeschriftung Kleinfeld A -->
+  <text x="345" y="208" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#e74c3c" font-weight="bold">Abschlusszone Rot</text>
+  <text x="345" y="221" text-anchor="middle" font-size="10" font-family="Arial,sans-serif" fill="#2980b9" font-style="italic">= Verteidigungszone Blau</text>
+  <text x="345" y="336" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="123" y="397" font-size="10" font-family="Arial,sans-serif" fill="#1f4f2a" font-weight="bold">&#x2014; Mittellinie &#x2014;</text>
+  <text x="345" y="474" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="345" y="572" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#2980b9" font-weight="bold">Abschlusszone Blau</text>
+  <text x="345" y="585" text-anchor="middle" font-size="10" font-family="Arial,sans-serif" fill="#e74c3c" font-style="italic">= Verteidigungszone Rot</text>
+
+  <!-- Tore Kleinfeld A -->
+  <rect x="305" y="170" width="80" height="12" fill="#1b4f72"/>
+  <rect x="145" y="170" width="24" height="9"  fill="#f39c12"/>
+  <rect x="521" y="170" width="24" height="9"  fill="#f39c12"/>
+  <rect x="305" y="618" width="80" height="12" fill="#1b4f72"/>
+  <rect x="145" y="621" width="24" height="9"  fill="#f39c12"/>
+  <rect x="521" y="621" width="24" height="9"  fill="#f39c12"/>
+
+  <!-- Team Blau KF A: 2-3 Formation (TW + 2 Abwehr compact vor TW + 3 Feldspieler offensiv) -->
+  <circle cx="345" cy="193" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="345" cy="193" r="8" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="345" y="197" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <!-- 2 Abwehr compact (mittig links/rechts, vor dem TW) -->
+  <circle cx="290" cy="280" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="400" cy="280" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <!-- 3 Feldspieler offensiv: zentral + links/rechts aussen auf eigener Feldseite -->
+  <circle cx="345" cy="370" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="140" cy="345" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="550" cy="345" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+
+  <!-- Team Rot KF A: 2-3 Formation (TW + 2 Abwehr compact vor TW + 3 Feldspieler offensiv) -->
+  <circle cx="345" cy="617" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="345" cy="617" r="8" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="345" y="621" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <!-- 2 Abwehr compact (mittig links/rechts, vor dem TW) -->
+  <circle cx="290" cy="527" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="400" cy="527" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <!-- 3 Feldspieler offensiv: zentral + links/rechts aussen auf eigener Feldseite -->
+  <circle cx="345" cy="435" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="140" cy="460" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="550" cy="460" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+
+
+  <!-- ===== KLEINFELD B (x=630-1080, y=170-630) ===== -->
+
+  <!-- Massstabspfeile Kleinfeld B -->
+  <text x="855" y="153" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#1f6a33">Breite 28 m</text>
+  <line x1="650" y1="160" x2="1060" y2="160" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="1118" y="405" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#1f6a33" transform="rotate(-90,1118,405)">Laenge 30 m</text>
+  <line x1="1103" y1="170" x2="1103" y2="630" stroke="#1f6a33" stroke-width="2" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text x="855" y="165" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#0f3d1f" font-weight="bold">Kleinfeld B</text>
+
+  <!-- Zonen-Fuellfarben Kleinfeld B -->
+  <rect x="630" y="170" width="450" height="92"  fill="#fce8d0"/>
+  <rect x="630" y="262" width="450" height="138" fill="#c5e8ba"/>
+  <rect x="630" y="400" width="450" height="138" fill="#c5e8ba"/>
+  <rect x="630" y="538" width="450" height="92"  fill="#fce8d0"/>
+  <rect x="630" y="170" width="450" height="460" fill="none" stroke="#1f6a33" stroke-width="3"/>
+
+  <!-- Zonenlinien Kleinfeld B -->
+  <line x1="630" y1="262" x2="1080" y2="262" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+  <line x1="630" y1="400" x2="1080" y2="400" stroke="#1f4f2a" stroke-width="2.5" stroke-dasharray="14 6"/>
+  <line x1="630" y1="538" x2="1080" y2="538" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+
+  <!-- Zonenbeschriftung Kleinfeld B -->
+  <text x="855" y="208" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#e74c3c" font-weight="bold">Abschlusszone Rot</text>
+  <text x="855" y="221" text-anchor="middle" font-size="10" font-family="Arial,sans-serif" fill="#2980b9" font-style="italic">= Verteidigungszone Blau</text>
+  <text x="855" y="336" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="633" y="397" font-size="10" font-family="Arial,sans-serif" fill="#1f4f2a" font-weight="bold">&#x2014; Mittellinie &#x2014;</text>
+  <text x="855" y="474" text-anchor="middle" font-size="12" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+  <text x="855" y="572" text-anchor="middle" font-size="11" font-family="Arial,sans-serif" fill="#2980b9" font-weight="bold">Abschlusszone Blau</text>
+  <text x="855" y="585" text-anchor="middle" font-size="10" font-family="Arial,sans-serif" fill="#e74c3c" font-style="italic">= Verteidigungszone Rot</text>
+
+  <!-- Tore Kleinfeld B -->
+  <rect x="815" y="170" width="80" height="12" fill="#1b4f72"/>
+  <rect x="655" y="170" width="24" height="9"  fill="#f39c12"/>
+  <rect x="1031" y="170" width="24" height="9"  fill="#f39c12"/>
+  <rect x="815" y="618" width="80" height="12" fill="#1b4f72"/>
+  <rect x="655" y="621" width="24" height="9"  fill="#f39c12"/>
+  <rect x="1031" y="621" width="24" height="9"  fill="#f39c12"/>
+
+  <!-- Team Blau Kleinfeld B: 2-3 Formation -->
+  <circle cx="855" cy="193" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="855" cy="193" r="8" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="855" y="197" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <circle cx="800" cy="280" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="910" cy="280" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="855" cy="370" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="650" cy="345" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+  <circle cx="1060" cy="345" r="13" fill="#2980b9" stroke="#1a5f7a" stroke-width="2"/>
+
+  <!-- Team Rot Kleinfeld B: 2-3 Formation -->
+  <circle cx="855" cy="617" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="855" cy="617" r="8" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="855" y="621" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" fill="white" font-weight="bold">TW</text>
+  <circle cx="800" cy="527" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="910" cy="527" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="855" cy="435" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="650" cy="460" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="1060" cy="460" r="13" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+
+
+  <!-- ===== LEGENDE ===== -->
+  <rect x="80" y="648" width="50" height="10" fill="#1b4f72"/>
+  <text x="140" y="658" font-size="13" font-family="Arial,sans-serif" fill="#1b4f72">D-Jugend-Tor (Mitte der Grundlinie)</text>
+  <rect x="460" y="648" width="24" height="10" fill="#f39c12"/>
+  <text x="493" y="658" font-size="13" font-family="Arial,sans-serif" fill="#8a5b00">Mini-Tor (links/rechts neben D-Jugend-Tor)</text>
+
+  <rect x="80" y="670" width="18" height="13" fill="#fce8d0" stroke="#5a8a5a" stroke-width="1"/>
+  <text x="107" y="682" font-size="13" font-family="Arial,sans-serif" fill="#7a3000">Abschlusszone (6 m) &#x2014; fuer verteidigende Mannschaft zugleich Verteidigungszone</text>
+  <rect x="80" y="691" width="18" height="13" fill="#c5e8ba" stroke="#5a8a5a" stroke-width="1"/>
+  <text x="107" y="703" font-size="13" font-family="Arial,sans-serif" fill="#1f3b2b">Mittelzone (9 m)</text>
+
+  <line x1="80" y1="720" x2="130" y2="720" stroke="#1f4f2a" stroke-width="2.5" stroke-dasharray="14 6"/>
+  <text x="140" y="725" font-size="13" font-family="Arial,sans-serif" fill="#1f4f2a">Mittellinie</text>
+  <line x1="240" y1="720" x2="290" y2="720" stroke="#5a8a5a" stroke-width="1.5" stroke-dasharray="8 5"/>
+  <text x="300" y="725" font-size="13" font-family="Arial,sans-serif" fill="#5a8a5a">Zonengrenze (6m / 9m)</text>
+
+  <circle cx="93" cy="749" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <text x="112" y="754" font-size="13" font-family="Arial,sans-serif" fill="#1a5f7a">Team Blau (Formation 2-3)</text>
+  <circle cx="330" cy="749" r="10" fill="#e74c3c" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="349" y="754" font-size="13" font-family="Arial,sans-serif" fill="#c0392b">Team Rot (Formation 2-3)</text>
+  <circle cx="588" cy="749" r="10" fill="#2980b9" stroke="#1a5f7a" stroke-width="1.5"/>
+  <circle cx="588" cy="749" r="6" fill="none" stroke="white" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <text x="607" y="754" font-size="13" font-family="Arial,sans-serif" fill="#555">TW-Ring = fliegender Torwart (agiert als Feldspieler)</text>
+
+  <text x="600" y="792" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#555">Feld-ID: FELD-1 + FELD-2  |  Formation 2-3  |  Orientierung: quer ueber den Platz</text>
+</svg>

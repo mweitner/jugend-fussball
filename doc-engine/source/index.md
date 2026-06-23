@@ -11,21 +11,23 @@ DFB/WFV-Richtlinien.
 
 ```{toctree}
 :maxdepth: 2
-:caption: Trainingseinheiten
-
-trainingseinheiten/uebersicht
-```
-
-```{toctree}
-:maxdepth: 2
-:caption: Trainingskonzepte
-
-trainingskonzepte/uebersicht
-```
-
-```{toctree}
-:maxdepth: 2
 :caption: Organisatorisches
 
-organisatorisches/dokumentation
+Einleitung <./organisatorisches/dokumentation>
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Training
+
+Konzept <./trainingskonzepte/uebersicht.md>
+Einheiten <./trainingseinheiten/uebersicht.md>
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: DFB / WFV
+
+dfb-wfv/wfv
+dfb-wfv/dfb
 ```
