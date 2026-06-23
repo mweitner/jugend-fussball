@@ -14,5 +14,5 @@ Uebersicht und Unterlagen fuer Elternabende im Jugendbereich.
 :maxdepth: 1
 :caption: Elternabende
 
-elternabend-do-30.06.2026
+elternabend-di-30.06.2026
 ```

@@ -1,6 +1,6 @@
 # Elternabend - C-Jugend Planung 2026/27
 
-**Termin:** Donnerstag, 30.06.2026 | 19:30 – 21:00 Uhr
+**Termin:** Dienstag, 30.06.2026 | 19:30 – 21:00 Uhr
 
 Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2026/27.
 
@@ -8,7 +8,7 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 
 1. Einstieg: D-Jugend -> C-Jugend
 2. Trainerteam
-3. Die Mannschaft
+3. Die Mannschaft (inkl. kleiner Kader: Chance und Verbindlichkeit)
 4. Training: Konzept, Tage und Zeiten
 5. Teamorganisation
 6. Abschluss: Fragen und Sonstiges
@@ -35,9 +35,15 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 
 ![Trainerteam TSV Erbach D-Junioren](./trainerteam-c-junioren.png)
 
-- Trainerstab und Verantwortlichkeiten
-- Erreichbarkeit und Kommunikation
-- Zusammenarbeit zwischen Trainern und Eltern
+- Team:
+  - Jochen (15 Jahre Jugendtrainer-Erfahrung): allgemeines Fussballtraining,
+   Torwart-Experte, zustaendig fuer Torwarttraining
+  - Daniel (5 Jahre Erfahrung): Fussballtraining und Taktik
+  - Michael (3 Jahre Erfahrung): Fussballtraining
+  - Josi: Athletic Coach (Athletik, Koordination, Belastungssteuerung)
+- Spielorganisation wird im Trainerteam nach Bedarf und Verfuegbarkeit aufgeteilt
+- Erreichbarkeit und Kommunikation ueber Telefon, WhatsApp, und Spond
+- Zusammenarbeit zwischen Trainern und Eltern mit festen Ansprechpartnern
 
 ```{raw} latex
 \newpage
@@ -57,6 +63,12 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 - **16 Kinder (Jahrgang 2013):** Hauptjahrgang der C-Jugend
 - **1 Kind (Jahrgang 2012):** Uebergangsjahrgang
 
+### Wichtiger Punkt: Relativ kleiner Kader
+
+- **Vorteil:** Viel Spielzeit und viele Einsatzmoeglichkeiten fuer jedes Kind
+- **Bedingung:** Spieltermine sind verbindlich und werden nur im Notfall abgesagt
+- **Teamgedanke:** Wir brauchen jeden Spieler fuer einen stabilen Spielbetrieb
+
 ![TSV Erbach C-Jugend Mannschaftsfoto](./erbach-turniersieg-d-jugend-2013-alle.jpeg)
 
 ```{raw} latex
@@ -72,7 +84,8 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 
 ### Trainingskonzept
 
-- Schrittweiser Uebergang von 7-gegen-7 auf 11-gegen-11
+- Schrittweiser Uebergang von 9-gegen-9 (D-Jugend, normales D-Jugend-Feld) auf 11-gegen-11
+- 7-gegen-7 ist eine haeufige Turnierform auf dem E-Jugend-Feld
 - Schwerpunkt auf Spielverstaendnis, Positionierung und Umschalten
 - Altersgerechte Belastungssteuerung und Wiederholungsprinzipien
 
