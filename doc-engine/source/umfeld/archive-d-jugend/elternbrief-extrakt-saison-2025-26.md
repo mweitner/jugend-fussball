@@ -1,3 +1,7 @@
+---
+orphan: true
+---
+
 # Extrakt: Elternbrief Saison Vorbereitung 2025/2026 (D-Jugend)
 
 **Quelle:** Elternbrief Sommer 2025 – Saison Vorbereitung 2025/2026, D-Jugend, TSV Erbach

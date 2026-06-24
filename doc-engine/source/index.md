@@ -21,7 +21,15 @@ Offizielle Informationen zum Jugendfussball beim TSV Erbach:
 Dokumentation <./organisatorisches/dokumentation>
 Elternabende <./organisatorisches/elternabende/elternabende.md>
 Teamorganisation <./organisatorisches/teamorganisation.md>
+Spielbetrieb C-Jugend <./spielbetrieb/spielbetrieb.md>
 Standort und Spielfelder <./organisatorisches/standorte-und-spielfelder.md>
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Umfeld
+
+Familie / Eltern / Kinder <./umfeld/freunde-familie-eltern-kinder.md>
 ```
 
 ```{toctree}

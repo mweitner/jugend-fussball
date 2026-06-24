@@ -54,6 +54,35 @@ Alle Termine sind Arbeitsstand und werden nach wfv-Veroeffentlichung final besta
 - Juli 2027: 3-Tage-Zeltlager/Sommerturnier als Saisonhighlight (Alternative zu Immenstadt?)
 - Nachbereitung: kurzes Saisonfazit mit Aufgaben fuer die neue Spielzeit
 
+## Kompakte Monatsansicht Sep 2026 bis Jul 2027
+
+Diese Uebersicht ist fuer den Elternabend als 1-Seiten-Plan gedacht.
+
+- **Sep 2026:** Trainingsstart, Pokal Runde 1, Ligastart.
+    Orga: Verfuegbarkeit in Spond frueh und verbindlich melden.
+- **Okt 2026:** Ligabetrieb stabilisieren, Pokal Runde 2 (bei Qualifikation).
+    Orga: Fahrdienste fuer Auswaertsspiele frueh planen.
+- **Nov 2026:** Pokal Runde 3 (bei Qualifikation), letzter Spieltag vor Winterpause.
+    Orga: Hallenphase und Winterorganisation abstimmen.
+- **Dez 2026:** Hallentraining und erste Hallenturniere/Einladungen.
+    Orga: Hallenfahrten und Helferplanung vorbereiten.
+- **Jan 2027:** Hallen-Hauptmonat mit Sparkassen JuniorCup/Bezirk und TSV-Turnier.
+    Orga: Heimturnier mit Aufbau, Bewirtung und Abbau absichern.
+- **Feb 2027:** Hallenphase abschliessen, ggf. Testspiele.
+    Orga: Rueckrunden-Verfuegbarkeit abstimmen.
+- **Mrz 2027:** Rueckrundenstart Liga, Pokal Viertelfinale (bei Qualifikation).
+    Orga: Spieltagslogistik auf Feldbetrieb umstellen.
+- **Apr 2027:** Ligaspiele und Pokal Halbfinale (bei Qualifikation).
+    Orga: Kontinuitaet bei Fahrdiensten und Zusagen halten.
+- **Mai 2027:** Endspurt Liga und Pokalfinale (bei Qualifikation).
+    Orga: Helfer fuer Heimspiele und Abschlussevents planen.
+- **Jun 2027:** letzter Spieltag und gemeinsamer Saisonabschluss.
+    Orga: Saisonfazit und offene Aufgaben abstimmen.
+- **Jul 2027:** Zeltlager/Sommerturnier und Uebergang in neue Saison.
+    Orga: Abschlussorganisation und fruehe Sommerabstimmungen.
+
+Hinweis: Pokaltermine sind ab Runde 2 nur bei sportlicher Qualifikation relevant.
+
 ## Erfahrungswerte D-Jugend 2025/26 (CSV-Export)
 
 Auswertung des Exports `anwesenheits-statistik-d-jugend-2025-26.csv`

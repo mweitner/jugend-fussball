@@ -61,6 +61,17 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 - Erreichbarkeit und Kommunikation ueber Telefon, WhatsApp, und Spond
 - Zusammenarbeit zwischen Trainern und Eltern mit festen Ansprechpartnern
 
+### Was ihr von uns Trainern erwarten koennt
+
+- **Strukturiertes Training:** Jede Einheit ist vorbereitet mit klarem Schwerpunkt
+  auf Spielverstaendnis, Technik und Athletik
+- **Entwicklungsorientierung:** Jedes Kind hat Chancen auf Einsatzzeit und Fortschritt
+  – Leistung entscheidet, nicht Herkunft oder Status
+- **Faire Kommunikation:** Wir sprechen Probleme direkt an; bei Fragen oder Anliegen
+  immer gerne per WhatsApp oder Spond melden
+- **Transparenz:** Saisonplanung, Kaderentscheidungen und Spielbetrieb werden
+  offen kommuniziert
+
 ```{raw} latex
 \newpage
 ```
@@ -154,6 +165,36 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 - Eigenverantwortliche Vorbereitung der Kinder (Schlafen, Ernaehrung, Bewegung
   in der Freizeit) bleibt wichtig und ergaenzt das Training
 
+### Spielbetrieb kompakt (Sep 2026 bis Jul 2027)
+
+- **Sep 2026:** Trainingsstart, Pokal Runde 1, Ligastart.
+  Orga: Verfuegbarkeit in Spond frueh und verbindlich melden.
+- **Okt 2026:** Ligabetrieb stabilisieren, Pokal Runde 2 (bei Qualifikation).
+  Orga: Fahrdienste fuer Auswaertsspiele frueh planen.
+- **Nov 2026:** Pokal Runde 3 (bei Qualifikation), letzter Spieltag vor Winterpause.
+  Orga: Hallenphase und Winterorganisation abstimmen.
+- **Dez 2026:** Hallentraining und erste Hallenturniere/Einladungen.
+  Orga: Hallenfahrten und Helferplanung vorbereiten.
+- **Jan 2027:** Hallen-Hauptmonat mit Sparkassen JuniorCup/Bezirk und TSV-Turnier.
+  Orga: Heimturnier mit Aufbau, Bewirtung und Abbau absichern.
+- **Feb 2027:** Hallenphase abschliessen, ggf. Testspiele.
+  Orga: Rueckrunden-Verfuegbarkeit abstimmen.
+- **Mrz 2027:** Rueckrundenstart Liga, Pokal Viertelfinale (bei Qualifikation).
+  Orga: Spieltagslogistik auf Feldbetrieb umstellen.
+- **Apr 2027:** Ligaspiele und Pokal Halbfinale (bei Qualifikation).
+  Orga: Kontinuitaet bei Fahrdiensten und Zusagen halten.
+- **Mai 2027:** Endspurt Liga und Pokalfinale (bei Qualifikation).
+  Orga: Helfer fuer Heimspiele und Abschlussevents planen.
+- **Jun 2027:** letzter Spieltag und gemeinsamer Saisonabschluss.
+  Orga: Saisonfazit und offene Aufgaben abstimmen.
+- **Jul 2027:** Zeltlager/Sommerturnier und Uebergang in neue Saison.
+  Orga: Abschlussorganisation und fruehe Sommerabstimmungen.
+
+**Details zum Nachlesen:**
+[Spielbetrieb C-Jugend 2026/27](../../spielbetrieb/spielbetrieb.md)
+
+Hinweis: Pokaltermine sind ab Runde 2 nur bei sportlicher Qualifikation relevant.
+
 ```{raw} latex
 \newpage
 ```
@@ -163,37 +204,16 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 *Hintergrund: Abgeleitet aus der DFB-Basis-Lizenz-Ausbildung und den Erfahrungen
 der D-Jugend-Saison 2025/26.*
 
-### Was wir von den Eltern erwarten
+### Kurzfassung fuer den Elternabend
 
-- **Verlässliche Spielverfuegbarkeit:** Spieltermine haben Prioritaet; Absagen nur
-  bei echten Notfaellen – jeder fehlende Spieler belastet das gesamte Team
-- **Positive Begleitung:** Keine negativen Kommentare oder Coaching-Rufe von der
-  Seitenlinie; laut und motivierend anfeuern – das ist alles, was gebraucht wird
-- **Kommunikation ueber Spond:** Zu- und Absagen ausschliesslich ueber Spond,
-  rechtzeitig und verbindlich
-- **Eigenverantwortung foerdern:** Kinder eigenstaendig zum Training fahren lassen
-  (wo moeglich), Schlaf- und Ernaehrungsgewohnheiten unterstuetzen
+- Wir sind ein Team: Eltern, Kinder und Trainer ziehen gemeinsam.
+- Verbindlichkeit ist Pflicht: Zu-/Absagen fruehzeitig und nur ueber Spond.
+- Seitenlinie ist Support-Zone: anfeuern ja, Eltern-Coaching nein.
+- Spielbetrieb braucht Mithilfe: Fahrdienste, Trikotwaesche, Helferdienste.
+- Unser Ziel: Entwicklung, Freude und Stabilitaet fuer alle Kinder.
 
-### Was wir von den Kindern erwarten
-
-- **Trainingsbesuch:** Regelmaessige Teilnahme am Training ist Pflicht – Qualitaet
-  im Spiel entsteht im Training
-- **Verbindlichkeit:** Angemeldete Spiele werden gespielt; das Team zaehlt auf jeden
-- **Teamgeist:** Respekt gegenueber Mitspielern, Trainern und Gegenspielern;
-  Niederlagen gemeinsam verarbeiten, Siege gemeinsam feiern
-- **Eigeninitiative:** In der Freizeit den Ball nehmen, kicken, ausprobieren –
-  kein Tag ohne Ballkontakt
-
-### Was ihr von uns Trainern erwarten koennt
-
-- **Strukturiertes Training:** Jede Einheit ist vorbereitet mit klarem Schwerpunkt
-  auf Spielverstaendnis, Technik und Athletik
-- **Entwicklungsorientierung:** Jedes Kind hat Chancen auf Einsatzzeit und Fortschritt
-  – Leistung entscheidet, nicht Herkunft oder Status
-- **Faire Kommunikation:** Wir sprechen Probleme direkt an; bei Fragen oder Anliegen
-  immer gerne per WhatsApp oder Spond melden
-- **Transparenz:** Saisonplanung, Kaderentscheidungen und Spielbetrieb werden
-  offen kommuniziert
+**Details zum Nachlesen:**
+[Umfeld: Freunde, Familie, Eltern und Kinder](../../umfeld/freunde-familie-eltern-kinder.md)
 
 ```{raw} latex
 \newpage
