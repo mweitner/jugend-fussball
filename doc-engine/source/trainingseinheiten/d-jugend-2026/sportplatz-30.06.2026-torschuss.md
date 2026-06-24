@@ -1,4 +1,4 @@
-# 📋 Trainingsplan: D-Jugend (Jahrgang 2013) – Thema: Torschuss
+# Trainingsplan: D-Jugend (Jahrgang 2013) - Thema: Torschuss
 
 ## Eltern-Kurzblick
 
@@ -7,13 +7,13 @@ Aufgrund der Hitze werden Belastung und Pausen bewusst gesteuert.
 
 ## Kontext
 
-Dienstagseinheit mit 120 Minuten Trainingszeit (17:30-19:30) bei vorhergesagter Hitze über 30 Grad.
-Die Einheit bleibt in der Grundstruktur beim bewährten S-U-S-Rhythmus, wird aber in Belastung und Pausen
+Dienstagseinheit mit 120 Minuten Trainingszeit (17:30-19:30) bei vorhergesagter Hitze ueber 30 Grad.
+Die Einheit bleibt in der Grundstruktur beim bewaehrten S-U-S-Rhythmus, wird aber in Belastung und Pausen
 hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
 
 ## Plan
 
-**Datum:** Dienstag, 23.06.2026
+**Datum:** Dienstag, 30.06.2026
 **Zeit:** 17:30-19:30 (120 Minuten)
 **Spieler:** ca. 20 (nur Jahrgang 2013)
 **Trainerteam:** 3 Trainer (inkl. Josi als Athletikschwerpunkt)

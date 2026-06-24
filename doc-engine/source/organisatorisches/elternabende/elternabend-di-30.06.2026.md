@@ -77,7 +77,7 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 \newpage
 ```
 
-## 3. Mannschaft
+## 3. Mannschaft (Kleiner Kader)
 
 ![TSV Erbach Mannschaft nach Turniersieg](./erbach-turniersieg-d-jugend-2013.jpeg)
 
@@ -202,7 +202,7 @@ Hinweis: Pokaltermine sind ab Runde 2 nur bei sportlicher Qualifikation relevant
 - Eigenverantwortliche Vorbereitung der Kinder (Schlafen, Ernaehrung, Bewegung
   in der Freizeit) bleibt wichtig und ergaenzt das Training
 
-## 7. Umfeld: Erwartungen an Eltern und Kinder
+## 7. Umfeld - Erwartungen an Eltern und Kinder
 
 *Hintergrund: Abgeleitet aus der DFB-Basis-Lizenz-Ausbildung und den Erfahrungen
 der D-Jugend-Saison 2025/26.*
