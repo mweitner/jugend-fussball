@@ -6,14 +6,15 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 
 ## Agenda
 
-1. Einstieg: D-Jugend -> C-Jugend (inkl. Rueckblick Saison 2025/26)
+1. Sprung in die C-Jugend
 2. Trainerteam
-3. Die Mannschaft (inkl. kleiner Kader: Chance und Verbindlichkeit)
-4. Training: Konzept, Tage und Zeiten
-5. Spielpraxis und Vorbereitung der Kinder
-6. Umfeld: Erwartungen an Eltern und Kinder
-7. Teamorganisation
-8. Abschluss: Fragen und Sonstiges
+3. Mannschaft (Kleiner Kader)
+4. Training
+5. Spielbetrieb
+6. Spielpraxis und Vorbereitung der Kinder
+7. Umfeld - Erwartungen an Eltern und Kinder
+8. Teamorganisation
+9. Abschluss: Fragen und Sonstiges
 
 ---
 
@@ -21,7 +22,7 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 \newpage
 ```
 
-## 1. Einstieg D-Jugend: Sprung in die C-Jugend
+## 1. Sprung in die C-Jugend
 
 ![Sprung von der D-Jugend ins Grossfeld](./c-jugend-planung-sprung-auf-grossfeld-11-11.jpg)
 
@@ -76,7 +77,7 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 \newpage
 ```
 
-## 3. Die Mannschaft
+## 3. Mannschaft
 
 ![TSV Erbach Mannschaft nach Turniersieg](./erbach-turniersieg-d-jugend-2013.jpeg)
 
@@ -102,7 +103,7 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 \newpage
 ```
 
-## 4. Training: Konzept, Trainingstage und Zeiten
+## 4. Training
 
 ![DFB Trainingsphilosophie als Konzeptbild](../../dfb-wfv/dfb-trainingsphilosopie.jpg)
 
@@ -126,7 +127,43 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 \newpage
 ```
 
-## 5. Spielpraxis und Vorbereitung der Kinder
+## 5. Spielbetrieb
+
+### Kompakte Monatsansicht Sep 2026 bis Jul 2027
+
+- **Sep 2026:** Trainingsstart, Pokal Runde 1, Ligastart.
+  Orga: Verfuegbarkeit in Spond frueh und verbindlich melden.
+- **Okt 2026:** Ligabetrieb stabilisieren, Pokal Runde 2 (bei Qualifikation).
+  Orga: Fahrdienste fuer Auswaertsspiele frueh planen.
+- **Nov 2026:** Pokal Runde 3 (bei Qualifikation), letzter Spieltag vor Winterpause.
+  Orga: Hallenphase und Winterorganisation abstimmen.
+- **Dez 2026:** Hallentraining und erste Hallenturniere/Einladungen.
+  Orga: Hallenfahrten und Helferplanung vorbereiten.
+- **Jan 2027:** Hallen-Hauptmonat mit Sparkassen JuniorCup/Bezirk und TSV-Turnier.
+  Orga: Heimturnier mit Aufbau, Bewirtung und Abbau absichern.
+- **Feb 2027:** Hallenphase abschliessen, ggf. Testspiele.
+  Orga: Rueckrunden-Verfuegbarkeit abstimmen.
+- **Mrz 2027:** Rueckrundenstart Liga, Pokal Viertelfinale (bei Qualifikation).
+  Orga: Spieltagslogistik auf Feldbetrieb umstellen.
+- **Apr 2027:** Ligaspiele und Pokal Halbfinale (bei Qualifikation).
+  Orga: Kontinuitaet bei Fahrdiensten und Zusagen halten.
+- **Mai 2027:** Endspurt Liga und Pokalfinale (bei Qualifikation).
+  Orga: Helfer fuer Heimspiele und Abschlussevents planen.
+- **Jun 2027:** letzter Spieltag und gemeinsamer Saisonabschluss.
+  Orga: Saisonfazit und offene Aufgaben abstimmen.
+- **Jul 2027:** Zeltlager/Sommerturnier und Uebergang in neue Saison.
+  Orga: Abschlussorganisation und fruehe Sommerabstimmungen.
+
+**Details zum Nachlesen:**
+[Spielbetrieb C-Jugend 2026/27](../../spielbetrieb/spielbetrieb.md)
+
+Hinweis: Pokaltermine sind ab Runde 2 nur bei sportlicher Qualifikation relevant.
+
+```{raw} latex
+\newpage
+```
+
+## 6. Spielpraxis und Vorbereitung der Kinder
 
 ### Spielpraxis
 
@@ -165,41 +202,7 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 - Eigenverantwortliche Vorbereitung der Kinder (Schlafen, Ernaehrung, Bewegung
   in der Freizeit) bleibt wichtig und ergaenzt das Training
 
-### Spielbetrieb kompakt (Sep 2026 bis Jul 2027)
-
-- **Sep 2026:** Trainingsstart, Pokal Runde 1, Ligastart.
-  Orga: Verfuegbarkeit in Spond frueh und verbindlich melden.
-- **Okt 2026:** Ligabetrieb stabilisieren, Pokal Runde 2 (bei Qualifikation).
-  Orga: Fahrdienste fuer Auswaertsspiele frueh planen.
-- **Nov 2026:** Pokal Runde 3 (bei Qualifikation), letzter Spieltag vor Winterpause.
-  Orga: Hallenphase und Winterorganisation abstimmen.
-- **Dez 2026:** Hallentraining und erste Hallenturniere/Einladungen.
-  Orga: Hallenfahrten und Helferplanung vorbereiten.
-- **Jan 2027:** Hallen-Hauptmonat mit Sparkassen JuniorCup/Bezirk und TSV-Turnier.
-  Orga: Heimturnier mit Aufbau, Bewirtung und Abbau absichern.
-- **Feb 2027:** Hallenphase abschliessen, ggf. Testspiele.
-  Orga: Rueckrunden-Verfuegbarkeit abstimmen.
-- **Mrz 2027:** Rueckrundenstart Liga, Pokal Viertelfinale (bei Qualifikation).
-  Orga: Spieltagslogistik auf Feldbetrieb umstellen.
-- **Apr 2027:** Ligaspiele und Pokal Halbfinale (bei Qualifikation).
-  Orga: Kontinuitaet bei Fahrdiensten und Zusagen halten.
-- **Mai 2027:** Endspurt Liga und Pokalfinale (bei Qualifikation).
-  Orga: Helfer fuer Heimspiele und Abschlussevents planen.
-- **Jun 2027:** letzter Spieltag und gemeinsamer Saisonabschluss.
-  Orga: Saisonfazit und offene Aufgaben abstimmen.
-- **Jul 2027:** Zeltlager/Sommerturnier und Uebergang in neue Saison.
-  Orga: Abschlussorganisation und fruehe Sommerabstimmungen.
-
-**Details zum Nachlesen:**
-[Spielbetrieb C-Jugend 2026/27](../../spielbetrieb/spielbetrieb.md)
-
-Hinweis: Pokaltermine sind ab Runde 2 nur bei sportlicher Qualifikation relevant.
-
-```{raw} latex
-\newpage
-```
-
-## 6. Umfeld: Erwartungen an Eltern und Kinder
+## 7. Umfeld: Erwartungen an Eltern und Kinder
 
 *Hintergrund: Abgeleitet aus der DFB-Basis-Lizenz-Ausbildung und den Erfahrungen
 der D-Jugend-Saison 2025/26.*
@@ -219,7 +222,7 @@ der D-Jugend-Saison 2025/26.*
 \newpage
 ```
 
-## 7. Teamorganisation
+## 8. Teamorganisation
 
 ![Teamorganisation und Treffpunkt](./c-jugend-planung-teamorganisation-finki-treffpunkt.jpg)
 
@@ -233,7 +236,7 @@ der D-Jugend-Saison 2025/26.*
 \newpage
 ```
 
-## 8. Abschluss: Fragen und Sonstiges
+## 9. Abschluss: Fragen und Sonstiges
 
 - Offene Fragen der Eltern sammeln und direkt klaeren
 - Offene Punkte mit Verantwortlichkeiten und Termin versehen
