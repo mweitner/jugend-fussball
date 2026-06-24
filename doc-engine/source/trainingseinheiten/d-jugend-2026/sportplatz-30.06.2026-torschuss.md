@@ -1,4 +1,4 @@
-# Trainingsplan: D-Jugend (Jahrgang 2013) - Thema: Torschuss
+# 📋 Trainingsplan: Di 30.06 - D-Jugend (Jahrgang 2013) - Thema: Torschuss
 
 ## Eltern-Kurzblick
 

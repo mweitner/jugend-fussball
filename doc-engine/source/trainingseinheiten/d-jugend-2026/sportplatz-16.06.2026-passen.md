@@ -1,4 +1,4 @@
-# 📋 Trainingsplan: D-Jugend (Jahrgang 2013/14) - Thema: Passen
+# 📋 Trainingsplan: Di 16.06 - D-Jugend (Jahrgang 2013/14) - Thema: Passen
 
 ## Eltern-Kurzblick
 
