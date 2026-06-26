@@ -23,6 +23,7 @@ Elternabende <./organisatorisches/elternabende/elternabende.md>
 Teamorganisation <./organisatorisches/teamorganisation.md>
 Spielbetrieb C-Jugend <./spielbetrieb/spielbetrieb.md>
 Standort und Spielfelder <./organisatorisches/standorte-und-spielfelder.md>
+Jugendtrainer Sitzung 25.06.2026 <./organisatorisches/jugendleitung/jugendtrainer-sitzung-25.06.2026.md>
 ```
 
 ```{toctree}

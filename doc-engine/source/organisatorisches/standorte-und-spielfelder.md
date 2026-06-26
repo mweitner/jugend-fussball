@@ -10,22 +10,24 @@ koennen.
 - Nachvollziehbarer Feldaufbau mit festen Bezeichnungen.
 - Uebergabefaehige Planung, auch wenn der Autor der Einheit fehlt.
 
-## Standortkatalog (aktuell TSV Erbach)
+## Planungsstand 2026/27
+
+- Die C-Jugend wird eigenstaendig gemeldet (keine SGM mit
+ Ringingen/Pappelau/Beiningen).
+- Fuer die operative Planung werden daher ausschliesslich TSV-Erbach-Standorte
+ verwendet.
+- Der Hauptstandort der C-Jugend fuer Training und Spiele ist das TSV Stadion.
+
+## Standortkatalog (TSV Erbach)
 
 | Standort-ID | Standortname | Status | Typische Nutzung |
 | --- | --- | --- | --- |
-| TSV-SPORTHEIM | Sportplatz TSV Erbach am Sportheim | aktiv | Kleinfeldaufbau, D-/C-Jugend Training |
+| TSV-SPORTHEIM | Sportplatz TSV Erbach am Sportheim | aktiv | Kleinfeldaufbau, D-Jugend Training |
 | TSV-FLUTLICHT | Sportplatz TSV Erbach Flutlichtplatz | aktiv | Abendtraining, dunkle Jahreszeit |
-| TSV-STADION | Sportplatz TSV Erbach Stadion | aktiv | Grossfeld, Abschlussspiel, Events |
+| TSV-STADION | Sportplatz TSV Erbach Stadion | aktiv | C-Jugend Training/Spiele, Grossfeld |
 
-## Erweiterbare SG-Standorte (bei Bedarf)
-
-| Standort-ID | Standortname | Status |
-| --- | --- | --- |
-| SVR-P1 | SV Ringingen Platz 1 | optional |
-| SVR-P2 | SV Ringingen Platz 2 | optional |
-| PAP-P1 | Pappelau/Beiningen Platz 1 | optional |
-| PAP-P2 | Pappelau/Beiningen Platz 2 | optional |
+Hinweis: Ehemalige SG-Standorte werden nicht mehr als aktive Planungsstandorte
+gefuehrt.
 
 ## Lageplan TSV Erbach
 
@@ -44,11 +46,39 @@ folgende Feld-IDs verwendet:
 | FELD-3 | Feld 3 | Flutlicht-/Nebenplatzbereich |
 | FELD-4 | Feld 4 | Flutlicht-/Nebenplatzbereich |
 
+## Stadion-Aufteilung fuer C-Jugend (TSV-STADION)
+
+Das TSV Stadion kann je nach Trainingsziel in Teilbereiche aufgeteilt werden.
+Fuer die Dokumentation werden folgende Bereichs-IDs verwendet:
+
+| Bereich-ID | Nutzung | Beschreibung |
+| --- | --- | --- |
+| STADION-GESAMT | 11 gegen 11 / Abschlussspiel | gesamtes Feld |
+| STADION-HALB-A | Technik/Taktik in Gruppen | erste Platzhaelfte |
+| STADION-HALB-B | Parallelgruppe/Belastungssteuerung | zweite Platzhaelfte |
+| STADION-QUER-1 | Kleinfeldspielformen | quer aufgebautes Feld 1 |
+| STADION-QUER-2 | Kleinfeldspielformen | quer aufgebautes Feld 2 |
+
+Empfehlung fuer die Planangabe im Trainingsdokument:
+
+- Standort-ID: TSV-STADION
+- Bereich-ID: STADION-GESAMT oder konkrete Teilflaeche
+- Orientierung: laengs oder quer
+
+## Orientierung (Google Maps)
+
+- Externe Kartenreferenz:
+ [TSV Erbach Stadion - Google Maps](https://www.google.com/maps/search/?api=1&query=TSV+Erbach+Stadion)
+- Fuer Protokolle/Trainingseinheiten reicht in der Regel die Bereich-ID aus.
+- Optional kann je Einheit ein Screenshot aus Google Maps intern beigefuegt
+ werden, falls eine visuelle Einweisung noetig ist.
+
 ## Pflichtangaben fuer neue Trainingseinheiten
 
 Jede neue Einheit sollte im Abschnitt Plan mindestens diese Angaben enthalten:
 
 - Standort-ID
+- Bereich-ID (bei TSV-STADION)
 - Feld-ID(s)
 - Aufbaucode
 - Orientierung (z. B. quer ueber das Feld)
