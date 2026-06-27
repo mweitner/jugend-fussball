@@ -103,6 +103,7 @@ Terminanker: Trainingsstart und Ligastart sind fuer September 2026 vorgesehen.
 | Tartanbahn Ausweichflaeche | Nutzung bei schlechten Platzverhaeltnissen klaeren | JL + C-Team | 31.08.2026 | offen |
 | Tore im Stadion | 2 C-Jugend Tore + 8 Mini-Tore dauerhaft verfuegbar | Jugendleitung | 15.08.2026 | offen |
 | Ballbedarf | Bedarfserhebung und Bestellung von ca. 30 Baellen | Trainerteam C-Jugend | 15.08.2026 | offen |
+| Kommunikation Jugendleitung | Jugendleiterin in WhatsApp-Gruppe aufnehmen; Aufnahme von Mareike in Spond im Trainerteam diskutieren | JL + Trainerteam | 31.07.2026 | offen |
 
 ## Verbindliche naechste Schritte
 
@@ -123,6 +124,8 @@ Terminanker: Trainingsstart und Ligastart sind fuer September 2026 vorgesehen.
  Verantwortlich: Juergen/Jugendleitung. Ziel: bis 31.08.2026.
 8. Tartanbahn-Nutzung als Ausweichoption offiziell klaeren.
  Verantwortlich: Jugendleitung + C-Jugend Trainerteam. Ziel: bis 31.08.2026.
+9. Jugendleiterin in die WhatsApp-Gruppe aufnehmen und die Aufnahme von Mareike in Spond im Trainerteam besprechen.
+ Verantwortlich: Jugendleitung + Trainerteam. Ziel: bis 31.07.2026.
 
 Nachweisformat fuer die Nachverfolgung:
 
