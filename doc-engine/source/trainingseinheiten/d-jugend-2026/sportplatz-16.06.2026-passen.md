@@ -8,7 +8,7 @@ Durch Mini-Tore und klare Feldregeln wurde Teamspiel mit vielen Paessen gezielt 
 ## Kontext
 
 Die Einheit wurde am Dienstag, 16.06.2026, als erste Trainingseinheit im neuen
-S-U-S-Rhythmus (Spielform - Uebungsform - Spielform) durchgefuehrt.
+S-Ü-S-Rhythmus (Spielform - Uebungsform - Spielform) durchgefuehrt.
 
 Ziel war, Passqualitaet, Ballan- und mitnahme sowie Freilaufverhalten in spielnahen
 Situationen zu verbessern.
@@ -58,7 +58,7 @@ Situationen zu verbessern.
 - Nach ca. 5 Minuten Wechsel auf freies Dribbeln kreuz und quer.
 - Trinkpause und Uebergang in den Hauptteil.
 
-### ⏱️ 2. Hauptteil: S-U-S-Rhythmus (17:50-19:00 | 70 Minuten)
+### ⏱️ 2. Hauptteil: S-Ü-S-Rhythmus (17:50-19:00 | 70 Minuten)
 
 #### ⚽ SF1: Freies Spiel als Einstieg (17:50-18:00 | 10 Minuten)
 

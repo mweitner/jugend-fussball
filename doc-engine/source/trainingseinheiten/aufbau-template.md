@@ -39,3 +39,11 @@ Kleinfeldaufbau dokumentiert werden koennen.
   oder eine davon abgeleitete Skizze referenzieren.
 
 Damit kann jedes Trainerteam den Aufbau auch ohne Rueckfragen uebernehmen.
+
+## Abkuerzungen in Einheitsablaeufen
+
+In den Einheiten werden kurze Kürzel verwendet, damit Traineransagen und
+Ablaufplaene kompakt bleiben:
+
+- SFx = Spielform x
+- UFx = Uebungsform x

@@ -8,8 +8,10 @@ Aufgrund der Hitze werden Belastung und Pausen bewusst gesteuert.
 ## Kontext
 
 Dienstagseinheit mit 120 Minuten Trainingszeit (17:30-19:30) bei vorhergesagter Hitze ueber 30 Grad.
-Die Einheit bleibt in der Grundstruktur beim bewaehrten S-U-S-Rhythmus, wird aber in Belastung und Pausen
-hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
+Variante 1 ist die Downsize-Version der Ringingen-Einheit: gleiche Spiellogik,
+gleiche Torschussregeln, aber skaliert auf weniger Kinder und 2 Kleinfelder.
+Spezifischer Unterschied bleibt der Aufwaermblock mit Josi.
+Wir planen mit ca. 20 Kindern und 3 Trainern.
 
 ## Plan
 
@@ -24,9 +26,13 @@ hitzegerecht gesteuert. Wir planen mit ca. 20 Kindern und 3 Trainern.
 **Aufbau:** 2 Kleinfelder je 28 m x 36 m
 **Zonen je Feldlänge:** 9 m - 9 m - Mittellinie - 9 m - 9 m
 **Tore:** 2 D-Jugend-Tore pro Kleinfeld (je 1 mittig pro Grundlinie), Mini-Tore entfallen
+**Grundorganisation:** 4 Gruppen, je Feld 2 Gruppen
 
 Standardisierte Aufbau-Skizzen fuer Teamuebergabe und Vertretung:
 [Aufbau-Template](../aufbau-template.md)
+
+Alternative bei gemeinsamem Kennenlerntraining mit SV Ringingen:
+[Di 30.06.2026 - Torschuss (Kennenlerntraining mit SV Ringingen)](./sportplatz-30.06.2026-torschuss-kennenlerntraining-ringingen.md)
 
 ## Lernziele
 
@@ -47,80 +53,96 @@ Standardisierte Aufbau-Skizzen fuer Teamuebergabe und Vertretung:
 
 ### ⏱️ 0. Begrüßung & Organisation (17:30-17:35 | 5 Minuten)
 
-- Kurze Ansprache: Thema heute ist Torschuss unter Zeit- und Gegnerdruck.
+- Kurze Ansprache im Kreis: Thema Torschuss unter Zeit- und Gegnerdruck.
 - Hinweis auf Hitzeregeln und Trinkrhythmus.
-- Einteilung in 4 Gruppen à ca. 5 Kinder nach Leistungsniveau.
-- Farbige Leibchen konsequent für Organisation und Coachingansprache nutzen.
-- Verteilung: je 2 Gruppen pro Kleinfeld.
+- Standard: Gruppeneinteilung im Trainerteam mit gezielter Auswahl nach Leistungsstand.
+- Ziel: moeglichst passende Leistungsgruppen, weil wir die Kinder gut kennen.
+- Fallback bei Zeitdruck oder Diskussionen: schnelles Durchzaehlen 1 bis 4.
+- Verteilung: je 2 Gruppen pro Kleinfeld (Gruppe 1+2 auf Feld A, 3+4 auf Feld B).
+
+Weitere schnelle Varianten fuer abwechslungsreiche Gruppeneinteilung:
+
+- Allgemeine Best Practices und Standardvarianten:
+  [Trainingsplanung - Schnelle Gruppenaufteilung](../trainingsplanung.md)
 
 ### ⏱️ 1. Aufwärmen + Athletik im Schatten (17:35-17:50 | 15 Minuten)
 
-**Leitung:** Josi
+**Leitung (verbindlich):** Josi
 
-- 5 Minuten mobilisieren mit Ball (locker dribbeln, Richtungswechsel, Koordination).
+Hinweis: Josi bringt die Athletikeinheit ins Training ein und steuert diesen
+gesamten Block (Aufwaermen + Athletik + torschuss-spezifische Aktivierung).
+Die folgenden Punkte bleiben als feste Orientierung bestehen.
+
+- 5 Minuten Schweinchen in der Mitte in 4 Gruppenfeldern (4 aussen, 1 innen).
 - 6 Minuten Athletikzirkel im Schatten (Stabi, Sprunggelenk, Rumpf, kurze Aktivierungen).
-- 4 Minuten Torschuss-spezifisch aktivieren (Anlauf, letzter Kontakt, Schusstechnik trocken).
+- 4 Minuten torschuss-spezifische Aktivierung (Anlauf, letzter Kontakt, Schusstechnik trocken).
 
 **Coachingpunkte:**
 
 - Aufrechte Haltung und saubere Technik statt maximale Intensität.
 - Früh trinken lassen, bevor Durst zu groß wird.
 
-### ⏱️ 2. Hauptteil: S-U-S-Rhythmus (17:50-19:00 | 70 Minuten)
+### ⏱️ 2. Hauptteil: Skalierte Spiellogik wie Ringingen-Variante (17:50-19:00 | 70 Minuten)
 
-#### ⚽ Spielform 1: Freies Spiel mit Schussregel (17:50-18:00 | 10 Minuten)
+Abkuerzungen im Hauptteil: SFx = Spielform x, UFx = Uebungsform x.
 
+#### ⚽ SF1: Relativ freies Spiel mit Schussregel (17:50-18:00 | 10 Minuten)
+
+- Ultra-Kurzansage: "Tor nur von ausserhalb 9 m, mutig frueh abschliessen."
 - 5 gegen 5 pro Feld, fliegender Torwart.
-- Gespielt wird nur auf das zentrale D-Jugend-Tor.
-- Grundregel: Tore zählen nur, wenn der Abschluss außerhalb der gegnerischen 9-m-Abschlusszone erfolgt.
-- Ziel: Distanzschuss provozieren, Abschlüsse früh suchen.
+- Torregel: Tore zählen nur, wenn der Abschluss ausserhalb der gegnerischen 9-m-Zone erfolgt.
+- Coachingfokus: Positiv bestärken, nur kurz unterbrechen, Schussmomente fördern.
 
 **Trinkpause:** 18:00-18:02
 
-#### 🎯 Übungsform 1: Serienabschluss aus dem Zentrum (18:02-18:12 | 10 Minuten)
+#### 🎯 UF1: Diagonales Dribbling mit Tempowechsel und Abschluss (18:02-18:12 | 10 Minuten)
 
-- Fester Torwart je Feld.
-- Gruppen starten hinter der Mittellinie nacheinander (kein Stau vor dem Tor).
-- Spieler dribbelt an, nimmt Tempo auf und schließt 1-2 m vor der 9-m-Zone ab.
-- Variante für starke Gruppen: Abschluss nur mit schwachem Fuß in jeder zweiten Aktion.
+- Ultra-Kurzansage: "Locker diagonal starten, am Huetchen Tempo hoch, Richtung wechseln,
+  sauber abschliessen."
+- Je Feld stehen sich die zwei Gruppen diagonal gegenüber.
+- Jeweils 2 Spieler starten gleichzeitig diagonal auf die Mittellinie (2 Hütchen als Orientierung).
+- Start locker, am Hütchen klarer Tempo- und Richtungswechsel Richtung Tor, direkter Abschluss.
+- Schütze holt Ball und stellt sich gegenüber an (kontinuierliche Rotation).
 
 **Trinkpause:** 18:12-18:14
 
-#### ⚽ Spielform 2: Ablage in der Abschlusszone (18:14-18:26 | 12 Minuten)
+#### ⚽ SF2: Spielform mit Regelmix zur Torschussfoerderung (18:14-18:36 | 22 Minuten)
 
-- 5 gegen 5 pro Feld.
-- Gespielt wird nur auf das zentrale D-Jugend-Tor.
-- Torregel: Ein Tor zählt nur, wenn ein Mitspieler in der gegnerischen 9-m-Zone den Ball kontrolliert
-  und nach hinten ablegt.
-- Steigerung nach 5-6 Minuten: Torschuss muss mit maximal 3 Kontakten abgeschlossen werden.
+- Ultra-Kurzansage: "Tor nur nach Rueckpass aus der 9-m-Zone, dann max. 8 Kontakte
+  bis zum Schuss."
+- Gespielt wird auf beiden Kleinfeldern mit den Paarungen 1+2 und 3+4.
+- Basisregel 1: Tor zählt nur, wenn vorher aus der 9-m-Zone ein kontrollierter
+  Rueckpass in den Rueckraum erfolgt.
+- Basisregel 2: Ab Rueckraum maximal 8 Teamkontakte bis zum Abschluss.
+- Basisregel 3: Kein Sicherheitspass zurück in die eigene Zone.
+- Zusatzregel je nach Niveau: individuelle Kontaktbegrenzung auf 2-3 Kontakte.
 
-**Trinkpause:** 18:26-18:28
+Regelmischung nach Spielstärke:
 
-#### 🎯 Übungsform 2: Wahrnehmen - Schussfinte - Abschluss (18:28-18:40 | 12 Minuten)
+- Einstieg/ausgeglichen: nur Basisregel 1, danach Basisregel 2 dazunehmen.
+- Fortgeschritten: Basisregel 1 + 2 konstant, danach Kontaktlimit 3 auf 2.
+- Dominant: Abschluss innerhalb von 6-8 Sekunden oder direkt nach Rueckpass.
+- Überforderung: 8 Teamkontakte auf 10 erhöhen, Rueckpassregel beibehalten.
 
-- Spieler dribbelt zentral auf Trainer vor der Abschlusszone zu.
-- Trainer gibt spät ein klares Signal (Körperstellung oder gezeigte Seite).
-- Spieler reagiert mit Schussfinte, geht am Trainer vorbei und schließt direkt ab.
-- Coachingziel: Kopf oben, Signal erkennen, schnelle Entscheidung, sauberer Torabschluss.
+**Trinkpause:** 18:36-18:38
 
-**Trinkpause:** 18:40-18:42
+#### ⚽ Block C: Spielform unter Zeitdruck mit Progression (18:38-19:00 | 22 Minuten)
 
-#### ⚽ Spielform 3: Torschuss unter Zeitdruck (18:42-18:52 | 10 Minuten)
+- Ultra-Kurzansage: "Drei Stufen, steigender Druck, je Feld passend nachschärfen oder lockern."
+- Struktur: 3 Stufen a 6-7 Minuten mit kurzer Regelansage dazwischen.
 
-- Spielplatzform 5 gegen 5.
-- Gespielt wird nur auf das zentrale D-Jugend-Tor.
-- Torregel bleibt: Abschluss außerhalb der 9-m-Zone.
-- Zusatzregel: Ball muss innerhalb von 8 Sekunden nach Ballgewinn aufs Tor gebracht werden.
-- Coaching: Mut zum schnellen Abschluss, nicht zu viel quer spielen.
+Stufe 1 (18:38-18:45):
 
-**Trinkpause:** 18:52-18:54
+- Nach Ballgewinn innerhalb von 10 Sekunden zum Abschluss.
 
-#### 🎯 Übungsform 3: Pass - Ablage - Nachstart - Abschluss (18:54-19:00 | 6 Minuten)
+Stufe 2 (18:45-18:52):
 
-- Alle 4 Gruppen an einer klaren Ablaufstation je Feldhälfte organisiert.
-- Spieler 1 hinter Mittellinie passt auf Spieler 2 an der 9-m-Zone.
-- Spieler 2 lässt prallen, Spieler 1 startet nach und schließt direkt ab.
-- Danach: Spieler 2 holt Ball, Spieler 1 rotiert über Hütchen zur nächsten Position.
+- Tor nur nach Rueckpass aus der 9-m-Zone, danach max. 8 Teamkontakte bis zum Schuss.
+
+Stufe 3 (18:52-19:00):
+
+- Regelmix aus Stufe 1 + 2, direkter Abschluss nach Balleroberung kann doppelt zaehlen.
+- Bei Dominanz Regeln verschärfen, bei Überforderung sofort lockern.
 
 ### ⏱️ 3. Abschlussteil hitzegerecht (19:00-19:25 | 25 Minuten)
 

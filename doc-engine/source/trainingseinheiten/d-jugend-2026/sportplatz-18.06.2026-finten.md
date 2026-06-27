@@ -7,19 +7,19 @@ technisch ausfuehren, sondern in Spielsituationen erkennen, wann und wo sie sinn
 
 ## Kontext
 
-Das S-U-S-Konzept (Spielform - Übungsform - Spielform) nach der DFB-Ausbildungsphilosophie ist genau der richtige Weg,
-um die Kinder spielnah und implizit lernen zu lassen. Die Feldaufteilung mit den Zonen und den verschiedenen Toren
-(Zentrum vs. Außen) ist taktisch sehr clever, da sie ohnehin schon bestimmte Aktionen (Distanzschuss vs. Dribbling)
-provoziert.
+Das S-Ü-S-Konzept (Spielform - Übungsform - Spielform, "SÜSS-Modell") nach der DFB-Ausbildungsphilosophie ist genau der
+richtige Weg, um die Kinder spielnah und implizit lernen zu lassen. Die Feldaufteilung mit den Zonen und den
+verschiedenen Toren (Zentrum vs. Außen) ist taktisch sehr clever, da sie ohnehin schon bestimmte Aktionen
+(Distanzschuss vs. Dribbling) provoziert.
 
-Folgender Trainingsplan, nach den Vorgaben und dem S-U-S-Rhythmus strukturiert, ergänzt mit konkreten Ideen für die
+Folgender Trainingsplan, nach den Vorgaben und dem S-Ü-S-Rhythmus strukturiert, ergänzt mit konkreten Ideen für die
 Variationen der Spielformen S2 und S3.
 
 ## Plan
 
 **Datum:** Donnerstag, 18.06.2026 | **Dauer:** ca. 90 Minuten | **Spieler:** ca. 20 (2 Trainer)
 
-**Konzept:** DFB Basis Coach (S-U-S)
+**Konzept:** DFB Basis Coach (S-Ü-S)
 
 **Standort-ID:** TSV-SPORTHEIM
 **Feld-ID(s):** FELD-1 + FELD-2
@@ -56,7 +56,7 @@ Mini-Tor (links) – D-Jugend-Tor (Mitte) – Mini-Tor (rechts).
  der Sohle stoppen", "Schere andeuten").
 - **Übergang:** *Trinkpause (1-2 Minuten)*. Bälle ins Tor, Bereitmachen für S1.
 
-### ⏱️ 2. Hauptteil: S-U-S Rhythmus (ca. 40 Minuten)
+### ⏱️ 2. Hauptteil: S-Ü-S-Rhythmus (ca. 40 Minuten)
 
 #### ⚽ Spielform 1: Das Zonen-Spiel (5-10 Minuten)
 

@@ -13,6 +13,24 @@ Eltern funktionieren, nutzen wir einen einheitlichen Aufbau.
 6. Organisation und Sicherheitsaspekte
 7. Reflexion nach der Einheit
 
+## Ursprung des S-Ü-S-Modells
+
+Unser Ablauf orientiert sich am didaktischen Prinzip S-Ü-S
+(Spielen - Ueben - Spielen).
+
+Als Merkhilfe nutzen wir das Wortspiel "SÜSS-Modell".
+
+Der Ursprung liegt im DFB- und WFV-Ausbildungskontext und wird in der
+DFB-Basis-Coach-Schulung als zentraler Aufbau fuer kind- und
+jugendgerechtes Training vermittelt.
+
+Fuer unsere Dokumentation bedeutet das:
+
+- Erst eine Spielform mit klarem Schwerpunkt (Problem sichtbar machen).
+- Danach passende Uebungsform(en) fuer gezielte Wiederholungen.
+- Anschliessend wieder Spielform(en), um den Lerntransfer unter Gegnerdruck
+ zu pruefen.
+
 ## Kurzcheck vor Veroeffentlichung
 
 - Ist der Schwerpunkt klar benannt?
@@ -21,6 +39,19 @@ Eltern funktionieren, nutzen wir einen einheitlichen Aufbau.
 - Sind Standort-ID, Feld-ID(s) und Aufbaucode eindeutig?
 - Sind Material und Feldaufbau nachvollziehbar?
 - Sind Lernziele fuer Eltern verstaendlich formuliert?
+
+## Abkuerzungen im Ablauf
+
+Fuer kurze und einheitliche Ablaufplaene verwenden wir folgende Kürzel:
+
+- SFx = Spielform x
+- UFx = Uebungsform x
+
+Beispiel:
+
+- SF1 = erste Spielform im Hauptteil
+- UF1 = erste Uebungsform im Hauptteil
+- SF2 = zweite Spielform im Hauptteil
 
 ## Copy-Paste Vorlage
 
