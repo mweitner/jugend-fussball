@@ -40,11 +40,15 @@ Robert und Joe
 ```{toctree}
 :maxdepth: 1
 
-aufgaben/Online Phase I - 1. Profil erstellen/aufgabenstellung
-aufgaben/Online Phase I - 2. Allgemeine Trainingsplanung/01-blogbeitrag-trainingsplanung
-aufgaben/Online Phase I - 2. Allgemeine Trainingsplanung/Trainertagebuch
-aufgaben/Online Phase I - 2. Allgemeine Trainingsplanung/aufgabenbeschreibung
-aufgaben/Online Phase I - 3. Trainingsphilosophie Deutschland/aufgabenbeschreibung
-aufgaben/Trainertagebuch/01-blogbeitrag-zu-beginn-des-kurses
-aufgaben/Trainertagebuch/aufgabenbeschreibung
+01-online-phase-i/Online Phase I - 1. Profil erstellen/aufgabenstellung
+01-online-phase-i/Online Phase I - 2. Allgemeine Trainingsplanung/01-blogbeitrag-trainingsplanung
+01-online-phase-i/Online Phase I - 2. Allgemeine Trainingsplanung/Trainertagebuch
+01-online-phase-i/Online Phase I - 2. Allgemeine Trainingsplanung/aufgabenbeschreibung
+01-online-phase-i/Online Phase I - 3. Trainingsphilosophie Deutschland/aufgabenbeschreibung
+03-online-phase-ii-iii/Online Phase II - 1. Coaching-Techniken im Training/aufgabenbeschreibung
+03-online-phase-ii-iii/Online Phase II - 2. Kostenloses Grafiktool/aufgabenstellung
+03-online-phase-ii-iii/Online Phase II - 2. Kostenloses Grafiktool/trainingsform-ueber-aussen-angreifen-tabuzone
+03-online-phase-ii-iii/Online Phase II - 3. Einführung "Ballorientiertes Spiel"/aufgabenstellung
+trainertagebuch/01-blogbeitrag-zu-beginn-des-kurses
+trainertagebuch/aufgabenbeschreibung
 ```

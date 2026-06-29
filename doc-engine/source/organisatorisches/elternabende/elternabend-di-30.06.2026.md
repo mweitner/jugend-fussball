@@ -4,6 +4,9 @@
 
 Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2026/27.
 
+Sprech- und Ablaufnotizen sind ausgelagert:
+[Elternabend-Notizen](./elternabend-di-30.06.2026-notizen.md)
+
 ## Agenda
 
 1. Sprung in die C-Jugend
@@ -14,7 +17,8 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 6. Spielpraxis und Vorbereitung der Kinder
 7. Umfeld - Erwartungen an Eltern und Kinder
 8. Teamorganisation
-9. Abschluss: Fragen und Sonstiges
+9. TSV Leitbild und Vision 2030
+10. Abschluss: Fragen und Sonstiges
 
 ---
 
@@ -43,6 +47,12 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
   - Fast zweistellige Niederlage – frustrierte Kinder auf allen Seiten
 - **Lehre fuer die C-Jugend:** Verbindlichkeit bei Spielterminen ist
   unverzichtbar fuer Spielbetrieb, Teamgeist und Entwicklung aller Kinder
+
+### Abschluss: D-Jugend Saison 2025/26 - Immenstaad am Bodensee
+
+Vielen Dank an Jochen als Hauptorganisator fuer den D-Jugend-Abschluss in Immenstaad.
+
+![D-Jugend Abschluss Immenstaad Turnier](./d-jugend-abschluss-immenstaad-turnier.jpeg)
 
 ```{raw} latex
 \newpage
@@ -108,7 +118,8 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 ![DFB Trainingsphilosophie als Konzeptbild](../../dfb-wfv/dfb-trainingsphilosopie.jpg)
 
 *Konzeptbezug:*
-*[DFB Trainingsphilosophie Deutschland](https://www.dfb.de/mehr-fussball/dfb-akademie/trainingsphilosophie-deutschland).*
+*[DFB Trainingsphilosophie Deutschland]
+(<https://www.dfb.de/mehr-fussball/dfb-akademie/trainingsphilosophie-deutschland>).*
 
 ### Trainingskonzept
 
@@ -116,12 +127,24 @@ Diese Seite dient als strukturierter Leitfaden fuer den Elternabend zur Saison 2
 - 7-gegen-7 ist eine haeufige Turnierform auf dem E-Jugend-Feld
 - Schwerpunkt auf Spielverstaendnis, Positionierung und Umschalten
 - Altersgerechte Belastungssteuerung und Wiederholungsprinzipien
+- DFB Basis-Coach Leitidee: Wahrnehmung -> Verstehen -> Entscheiden -> Handeln
+  als Kernprozess jeder Spielsituation
+
+![DFB Trainingsphilosophie als Basis-Coach Bezug](../../dfb-wfv/dfb-trainingsphilosopie.jpg)
+
+### Basis-Coach Fokus fuer den Elternabend
+
+- Wahrnehmung: Was passiert um mich herum?
+- Verstehen: Welche Spielsituation liegt vor?
+- Entscheiden: Welche Loesung ist jetzt sinnvoll?
+- Handeln: Technisch sauber und mutig umsetzen.
 
 ### Trainingstage und Zeiten
 
-- Trainingstage und Uhrzeiten werden zu Saisonstart verbindlich festgelegt
-- Planung orientiert sich an Platzverfuegbarkeit in Erbach
-- Aenderungen werden fruehzeitig ueber Spond kommuniziert
+- Trainingsbeginn Anfang September 2026.
+- Erste Einheiten: Dienstag, 15.09.2026 und Donnerstag, 17.09.2026.
+- Trainings- und Spielort: TSV Stadion Erbach.
+- Aenderungen werden fruehzeitig ueber Spond kommuniziert.
 
 ```{raw} latex
 \newpage
@@ -236,7 +259,15 @@ der D-Jugend-Saison 2025/26.*
 \newpage
 ```
 
-## 9. Abschluss: Fragen und Sonstiges
+## 9. TSV Leitbild und Vision 2030
+
+[TSV Leitbild und Vision 2030](../jugendleitung/TSV%20Leitbild%20-%20pp.pdf)
+
+```{raw} latex
+\newpage
+```
+
+## 10. Abschluss: Fragen und Sonstiges
 
 - Offene Fragen der Eltern sammeln und direkt klaeren
 - Offene Punkte mit Verantwortlichkeiten und Termin versehen
