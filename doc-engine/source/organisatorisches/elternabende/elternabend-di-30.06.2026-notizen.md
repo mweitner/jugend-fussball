@@ -38,7 +38,16 @@ Notizen zur Moderation des Elternabends am Dienstag, 30.06.2026.
 - Rueckblick D-Jugend mit dem roten Faden D1/D2 und Verbindlichkeit bei Zusagen.
 - Abschluss D-Jugend: Turnier in Immenstaad und Uebergabe an Jochen.
 
+### Basis-Coach Fokus fuer den Elternabend
+
+- Wahrnehmung: Was passiert um mich herum?
+- Verstehen: Welche Spielsituation liegt vor?
+- Entscheiden: Welche Loesung ist jetzt sinnvoll?
+- Handeln: Technisch sauber und mutig umsetzen.
+
 ## Kernbotschaft fuer den Abend
 
-- Kleiner Kader und 11er-Mannschaft bedeuten: Wir sind auf jeden Spieler und
-  auf verlaessliche Zu- und Absagen angewiesen.
+- Mannschaftsgroesse ist ein entscheidender Faktor fuer die Saisonplanung.
+- Unabhaengig von der Option bleibt das Ziel eine stabile 11er-Mannschaft.
+- Option 1 (eigenstaendig, kleiner Kader): hohe Verbindlichkeit bei Zu- und Absagen noetig.
+- Option 2 (Spielgemeinschaft): groesserer, leistungsfaehigerer Kader mit abgestimmter Organisation.

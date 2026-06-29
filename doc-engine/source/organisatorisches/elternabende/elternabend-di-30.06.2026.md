@@ -11,7 +11,7 @@ Sprech- und Ablaufnotizen sind ausgelagert:
 
 1. Sprung in die C-Jugend
 2. Trainerteam
-3. Mannschaft (Kleiner Kader)
+3. Mannschaft
 4. Training
 5. Spielbetrieb
 6. Spielpraxis und Vorbereitung der Kinder
@@ -52,7 +52,10 @@ Sprech- und Ablaufnotizen sind ausgelagert:
 
 Vielen Dank an Jochen als Hauptorganisator fuer den D-Jugend-Abschluss in Immenstaad.
 
-![D-Jugend Abschluss Immenstaad Turnier](./d-jugend-abschluss-immenstaad-turnier.jpeg)
+```{image} ./d-jugend-abschluss-immenstaad-turnier.jpeg
+:alt: D-Jugend Abschluss Immenstaad Turnier
+:width: 50%
+```
 
 ```{raw} latex
 \newpage
@@ -87,25 +90,35 @@ Vielen Dank an Jochen als Hauptorganisator fuer den D-Jugend-Abschluss in Immens
 \newpage
 ```
 
-## 3. Mannschaft (Kleiner Kader)
+## 3. Mannschaft
 
 ![TSV Erbach Mannschaft nach Turniersieg](./erbach-turniersieg-d-jugend-2013.jpeg)
 
-- Eine eigenstaendige TSV Erbach C-Jugend Mannschaft als 11er Mannschaft
-- Keine Spielgemeinschaft in der Saison 2026/27
-- Training und Heimspiele finden in Erbach statt
-- Fokus: klare Identitaet, kurze Wege, stabile Ablaeufe
+- Fuer die Saison 2026/27 werden zwei gleichwertige Wege offen geprueft
+- Beide Optionen haben klare Chancen und organisatorische Voraussetzungen
 
-### Kader (17 Kinder)
+### Option 1: Eigenstaendige TSV Erbach Mannschaft
 
-- **16 Kinder (Jahrgang 2013):** Hauptjahrgang der C-Jugend
-- **1 Kind (Jahrgang 2012):** Uebergangsjahrgang
+- 11er Mannschaft unter TSV Erbach mit Training und Heimspielen in Erbach
+- Geplanter Kader: **17 Kinder**
+  - **16 Kinder (Jahrgang 2013):** Hauptjahrgang der C-Jugend
+  - **1 Kind (Jahrgang 2012):** Uebergangsjahrgang
+- Staerken: klare Vereinsidentitaet, kurze Wege, hohe individuelle Spielanteile
+- Voraussetzung: sehr hohe Verbindlichkeit bei Zu- und Absagen fuer einen stabilen Spielbetrieb
 
-### Wichtiger Punkt: Relativ kleiner Kader
+### Option 2: Spielgemeinschaft mit SV Ringingen
 
-- **Vorteil:** Viel Spielzeit und viele Einsatzmoeglichkeiten fuer jedes Kind
-- **Bedingung:** Spieltermine sind verbindlich und werden nur im Notfall abgesagt
-- **Teamgedanke:** Wir brauchen jeden Spieler fuer einen stabilen Spielbetrieb
+- Bildung einer Spielgemeinschaft fuer die C-Jugend Saison 2026/27
+- Groesserer und in der Breite leistungsfaehigerer Kader
+- Staerken: mehr personelle Reserven und mehr Flexibilitaet bei Ausfaellen
+- Voraussetzung: abgestimmte Organisation zwischen beiden Vereinen (Training, Spieltage, Kommunikation)
+
+### Gemeinsames Ziel
+
+- Gemeinsames Ziel beider Optionen ist eine stabile 11er Mannschaft
+- Trainings- und Spielort ist das TSV Erbach Stadion
+- Die Entscheidung wird im Sinne der bestmoeglichen Entwicklung und Spielpraxis aller Kinder getroffen
+- Transparente Kommunikation zu Ablauf, Zeitplan und naechsten Schritten erfolgt ueber Spond und Elternabende
 
 ![TSV Erbach C-Jugend Mannschaftsfoto](./erbach-turniersieg-d-jugend-2013-alle.jpeg)
 
@@ -124,20 +137,12 @@ Vielen Dank an Jochen als Hauptorganisator fuer den D-Jugend-Abschluss in Immens
 ### Trainingskonzept
 
 - Schrittweiser Uebergang von 9-gegen-9 (D-Jugend, normales D-Jugend-Feld) auf 11-gegen-11
-- 7-gegen-7 ist eine haeufige Turnierform auf dem E-Jugend-Feld
 - Schwerpunkt auf Spielverstaendnis, Positionierung und Umschalten
 - Altersgerechte Belastungssteuerung und Wiederholungsprinzipien
 - DFB Basis-Coach Leitidee: Wahrnehmung -> Verstehen -> Entscheiden -> Handeln
   als Kernprozess jeder Spielsituation
 
-![DFB Trainingsphilosophie als Basis-Coach Bezug](../../dfb-wfv/dfb-trainingsphilosopie.jpg)
-
-### Basis-Coach Fokus fuer den Elternabend
-
-- Wahrnehmung: Was passiert um mich herum?
-- Verstehen: Welche Spielsituation liegt vor?
-- Entscheiden: Welche Loesung ist jetzt sinnvoll?
-- Handeln: Technisch sauber und mutig umsetzen.
+![DFB Trainingsphilosophie als Basis-Coach Bezug](./spielkompetenzmodell.png)
 
 ### Trainingstage und Zeiten
 
@@ -278,5 +283,6 @@ der D-Jugend-Saison 2025/26.*
 ## Beschlussbild fuer den Elternabend
 
 - Sportlicher Uebergang auf das Grossfeld ist gestartet
-- C-Jugend 2026/27 wird beim TSV Erbach eigenstaendig organisiert
+- Gemeinsames Ziel ist eine stabile 11er Mannschaft in der Saison 2026/27
+- Trainings- und Spielort ist das TSV Erbach Stadion
 - Verbindliche Teamorganisation laeuft ueber Spond
