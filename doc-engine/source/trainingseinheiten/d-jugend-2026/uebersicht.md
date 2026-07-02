@@ -15,6 +15,13 @@ Entscheidungsregel bei Zeitdruck):
 
 ```{toctree}
 :maxdepth: 1
+:caption: Juli 2026
+
+sportplatz-02.07.2026-flanken-boxbesetzung
+```
+
+```{toctree}
+:maxdepth: 1
 :caption: Juni 2026
 
 sportplatz-30.06.2026-torschuss
@@ -24,6 +31,12 @@ sportplatz-16.06.2026-passen
 ```
 
 ## Uebersicht fuer Trainer und Eltern
+
+### Juli 2026
+
+| Datum | Schwerpunkt | Status | Standort | Sichtbares Lernziel | Details |
+| --- | --- | --- | --- | --- | --- |
+| 02.07.2026 | Flanken und Boxbesetzung | Vorbereitet | TSV-SPORTHEIM (FELD-1/2) | Aus Flankensituationen Tore erzielen – Timing und Positionierung im Strafraum | [Einheit](./sportplatz-02.07.2026-flanken-boxbesetzung.md) |
 
 ### Juni 2026
 
