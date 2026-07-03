@@ -8,6 +8,11 @@ einer Flanke ein Tor zu machen.
 
 ## Kontext
 
+> **Videoaufzeichnung:** Diese Einheit wird mit der VEO-Vereinskamera aufgezeichnet
+> (DFB Basis-Coach Online Phase II+III – Aufgabe: Video im Heimatverein).
+> Einverständniserklärung der Erziehungsberechtigten:
+> [Einverständniserklärung Bild-/Video-/Tonaufnahmen (2013/14)](../../dfb-wfv/dfb-basis-coach-2026/03-online-phase-ii-iii/Online%20Phase%20II+III%20-%204.%20Video%20im%20Heimatverein/einverstaendniss-erkl.-bild-video-tonaufnahmen-2013-14er-02.06.2026.pdf)
+
 Grundlage ist die wfv-Schulung „Erfolgreich über außen angreifen und Tore vorbereiten"
 (Bezirk Donau-Iller, Oktober/November 2025).
 
@@ -160,6 +165,5 @@ fuer D-Jugend.
 
 ## Kurzreflexion nach der Einheit
 
-- Was lief gut? (z. B. Timing der Laeufer, Flankenqualitaet)
-- Was wird angepasst? (z. B. Feldgroesse, Kontaktlimit, Zonengroesse)
-- Naechster Schwerpunkt: offen
+Siehe Trainingsprotokoll:
+[sportplatz-02.07.2026-flanken-boxbesetzung-protokoll.md](sportplatz-02.07.2026-flanken-boxbesetzung-protokoll.md)

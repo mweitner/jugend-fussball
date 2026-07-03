@@ -36,7 +36,7 @@ sportplatz-16.06.2026-passen
 
 | Datum | Schwerpunkt | Status | Standort | Sichtbares Lernziel | Details |
 | --- | --- | --- | --- | --- | --- |
-| 02.07.2026 | Flanken und Boxbesetzung | Vorbereitet | TSV-SPORTHEIM (FELD-1/2) | Aus Flankensituationen Tore erzielen – Timing und Positionierung im Strafraum | [Einheit](./sportplatz-02.07.2026-flanken-boxbesetzung.md) |
+| 02.07.2026 | Flanken und Boxbesetzung | Durchgefuehrt | TSV-SPORTHEIM (FELD-2) | Aus Flankensituationen Tore erzielen – Timing und Positionierung im Strafraum | [Einheit](./sportplatz-02.07.2026-flanken-boxbesetzung.md) / [Protokoll](./sportplatz-02.07.2026-flanken-boxbesetzung-protokoll.md) |
 
 ### Juni 2026
 
