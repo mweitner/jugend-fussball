@@ -22,6 +22,7 @@ Dokumentation <./organisatorisches/dokumentation>
 Teamorganisation <./organisatorisches/teamorganisation.md>
 Spielbetrieb C-Jugend <./spielbetrieb/spielbetrieb.md>
 Standort und Spielfelder <./organisatorisches/standorte-und-spielfelder.md>
+Spielfeldmarkierung <./organisatorisches/spielfeldmarkierung/index.md>
 ```
 
 ```{toctree}
