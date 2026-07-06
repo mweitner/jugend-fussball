@@ -49,6 +49,8 @@ Robert und Joe
 03-online-phase-ii-iii/Online Phase II - 2. Kostenloses Grafiktool/aufgabenstellung
 03-online-phase-ii-iii/Online Phase II - 2. Kostenloses Grafiktool/trainingsform-ueber-aussen-angreifen-tabuzone
 03-online-phase-ii-iii/Online Phase II - 3. Einführung "Ballorientiertes Spiel"/aufgabenstellung
+03-online-phase-ii-iii/Online Phase II+III - 4. Video im Heimatverein/aufgabenstellung
+03-online-phase-ii-iii/Online Phase II+III - 4. Video im Heimatverein/video-im-heimatverein
 trainertagebuch/01-blogbeitrag-zu-beginn-des-kurses
 trainertagebuch/aufgabenbeschreibung
 ```

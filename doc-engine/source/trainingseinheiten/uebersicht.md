@@ -16,5 +16,6 @@ Abkuerzungen in den Einheiten:
 
 trainingsplanung
 d-jugend-2026/uebersicht
+c-jugend-2026/uebersicht
 c-jugend-planung
 ```
