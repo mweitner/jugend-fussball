@@ -155,6 +155,5 @@ Rotation alle 4-5 Minuten, viele Wiederholungen statt lange Erklaerung.
 
 ## Kurzreflexion nach der Einheit
 
-- Welche Regel hat viele gute Wiederholungen erzeugt?
-- Wo war die Qualitaet bei Einwurf/Freistoss stabil, wo noch nicht?
-- Welche Standardvariante wird naechstes Mal vertieft?
+Siehe Trainingsprotokoll:
+[sportplatz-07.07.2026-standards-einwurf-freistoesse-protokoll.md](sportplatz-07.07.2026-standards-einwurf-freistoesse-protokoll.md)

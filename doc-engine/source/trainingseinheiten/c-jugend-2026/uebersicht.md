@@ -26,7 +26,7 @@ sportplatz-07.07.2026-standards-einwurf-freistoesse
 
 | Datum | Schwerpunkt | Status | Standort | Sichtbares Lernziel | Details |
 | --- | --- | --- | --- | --- | --- |
-| 07.07.2026 | Standards, Einwurf, Freistoesse | Vorbereitet | TSV-SPORTHEIM (2 Kleinfelder) | Standards strukturiert ausfuehren und im Spiel unter Druck wiederholen | [Einheit](./sportplatz-07.07.2026-standards-einwurf-freistoesse.md) |
+| 07.07.2026 | Standards, Einwurf, Freistoesse | Durchgefuehrt | TSV-SPORTHEIM (2 Kleinfelder) | Standards strukturiert ausfuehren und im Spiel unter Druck wiederholen | [Einheit](./sportplatz-07.07.2026-standards-einwurf-freistoesse.md) \| [Protokoll](./sportplatz-07.07.2026-standards-einwurf-freistoesse-protokoll.md) |
 
 Die Statuswerte in der Uebersicht sind:
 
