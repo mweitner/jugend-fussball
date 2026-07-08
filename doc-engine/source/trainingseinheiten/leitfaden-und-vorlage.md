@@ -39,6 +39,8 @@ Fuer unsere Dokumentation bedeutet das:
 - Sind Standort-ID, Feld-ID(s) und Aufbaucode eindeutig?
 - Sind Material und Feldaufbau nachvollziehbar?
 - Sind Lernziele fuer Eltern verstaendlich formuliert?
+- Sind in Uebersichtstabellen/-listen die Einheiten **historisch absteigend** sortiert
+  (neueste Einheit ganz oben)?
 
 ## Abkuerzungen im Ablauf
 
@@ -65,7 +67,10 @@ Kurzer Anlass und Rahmenbedingungen.
 - Datum:
 - Zeit:
 - Spielerzahl:
-- Trainerteam:
+- Trainer 1 (Koordinator): <Name>
+- Trainer 2 (Helfer): <Name> (potenziell)
+- Trainer 3 (Helfer): <Name> (potenziell)
+- Trainer 4 (Helfer): <Name> (potenziell)
 - Standort-ID:
 - Feld-ID(s):
 - Aufbaucode:

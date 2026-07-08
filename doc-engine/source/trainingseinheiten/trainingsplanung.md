@@ -25,6 +25,41 @@ Jede Trainingseinheit folgt dem systematischen Aufbau:
 
 Alle Trainingseinheiten sind auf die Altersgruppe und Leistungsstufe abgestimmt.
 
+## Trainerrollen
+
+Fuer alle Trainingseinheiten werden Trainer in zwei Rollen eingeteilt:
+
+### Trainingskoordinator (Trainer 1)
+
+- Verantwortlich fuer Planung, Durchfuehrung und Nachbearbeitung der Einheit.
+- Erstellt und pflegt den Trainingsplan und das Protokoll.
+- Koordiniert das Trainerteam vor Ort.
+- Letzte Entscheidungsinstanz bei Anpassungen waehrend der Einheit.
+
+### Trainingshelfer (Trainer 2, 3, 4)
+
+- Unterstuetzen bei Planung, Vorbereitung, Durchfuehrung und Nachbearbeitung.
+- Trainer 2: erster Trainingshelfer.
+- Trainer 3: zweiter Trainingshelfer.
+- Trainer 4: dritter Trainingshelfer.
+- Jede Einheit funktioniert auch mit nur einem Trainer – dieser uebernimmt
+  automatisch die Rolle des Trainingskoordinators.
+- Jeder zusaetzliche Trainingshelfer erhoet die Qualitaet der individuellen Betreuung.
+
+> **Hinweis zur Nummerierung:** Die Nummerierung der Trainingshelfer (2, 3, 4)
+> ist rein fortlaufend und hat keinerlei Aussage ueber Wichtigkeit, Erfahrung
+> oder Hierarchie. Ebenso ist die Reihenfolge der Nennung bedeutungslos –
+> alle Trainingshelfer sind gleichwertig.
+
+### Konkreter Bezug in Trainingsplaenen
+
+In Trainingsplaenen und Protokollen werden die Rollen so angegeben:
+
+- `**Trainer 1 (Koordinator):** <Name>` – immer besetzt.
+- `**Trainer 2 (Helfer):** <Name>` – potenziell dabei.
+- `**Trainer 3 (Helfer):** <Name>` – potenziell dabei.
+- `**Trainer 4 (Helfer):** <Name>` – potenziell dabei.
+
 ## Best Practices fuer alle Jahrgaenge
 
 Diese Bausteine gelten fuer D-Jugend und spaeter auch C-Jugend.
