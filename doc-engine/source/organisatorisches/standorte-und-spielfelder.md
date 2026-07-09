@@ -52,7 +52,9 @@ gefuehrt.
 
 ### Google Maps
 
-Alternativer Lageplan, Orientierung [TSV Erbach Stadion - Google Maps](https://www.google.com/maps/search/?api=1&query=TSV+Erbach+Stadion):
+Alternativer Lageplan, Orientierung
+[TSV Erbach Stadion - Google Maps](https://www.google.com/maps/search/?api=1&query=TSV+Erbach+Stadion)
+:
 
 - Oben (Top): Nord
 - Unten (Bottom): Sued

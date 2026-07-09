@@ -50,13 +50,14 @@ Diese Ist-Stand-Liste wird fortlaufend gepflegt und dient als gemeinsame Arbeits
 
 ### Sperrige Ausruestung im Stadion
 
-Alternative 1:
+Status: Grundprinzip geklaert. Sperrige Ausruestung (D-Jugend Tore, Mini-Tore, Grossfeldtore) soll im TSV-STADION
+deponiert werden fuer kuerzere Wege und weniger Transportaufwand vor dem Training.
 
-- zusaetzliches Lager im TSV-STADION moeglich
-- Vorteil: kuerzere Wege und weniger Transportaufwand vor dem Training
-- Nachteil: Lagerung und Zugriff muessen organisatorisch klar geregelt sein
-- Nachteil: Es muss sauber geklaert sein, welches Material dauerhaft im
- Stadion bleibt und was weiterhin nur aus der Garage geholt wird
+Offene Umsetzungspunkte:
+
+- Wo genau im Stadion erfolgt die Lagerung (z. B. zusaetzliches Lager, Abstellflaeche)?
+- Zugriff und Verantwortlichkeiten: Wer ist fuer Lagerung und Inventur zustaendig?
+- Material-Mix klaeren: Welche Teile bleiben dauerhaft im Stadion, welche werden weiterhin nur aus der Garage geholt?
 
 ### D-Jugend Tore (4)
 
@@ -101,6 +102,18 @@ Wir brauchen stabile Mini-Tore im TSV-STADION, idealerweise unsere aktuellen Alu
 - Vorteil: stabiler Stand und robust im Trainingsalltag.
 - Nachteil: Transport und Abstimmung aehnlich wie bei den D-Jugend-Toren,
  also ggf. mit anderen Trainern und Sportplaetzen abklaeren.
+
+#### Alternative 3 <!-- Mini-Tore (8) -->
+
+- Cawila LIGA Fussball Minitor, Alu-Klapptor, 145 x 95 cm
+- Vorteil: stabiler Alu-Rahmen und gleichzeitig gut transportierbar.
+- Vorteil: teamuebergreifend nutzbar (nicht exklusiv fuer C-Jugend).
+- Nachteil: Trotz Klappmechanismus ist Stellflaeche in der aktuellen Garage
+ noetig.
+- Nachteil: Gemeinsame Nutzung erfordert zusaetzliche Abstimmung zwischen den
+ Trainerteams.
+- Hinweis: Produktlink
+  [Cawila LIGA Fussball Minitor | Alu Klapptor | 145 x 95cm](https://www.11teamsports.com/de-de/p/cawila-liga-fussball-minitor-alu-klapptor-145-x-95cm)
 
 ### Mobile Grossfeldtore (2)
 
