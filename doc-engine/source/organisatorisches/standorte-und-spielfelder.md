@@ -61,9 +61,10 @@ Alternativer Lageplan, Orientierung
 - Links (Left): West
 - Rechts (Right): Ost
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/tsv-stadion-google-maps.png
-:alt: Stadion Luftaufnahme
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/tsv-stadion-google-maps.png
+  :alt: Stadion Luftaufnahme
+  :width: 50%
 ```
 
 Fuer Protokolle/Trainingseinheiten reicht in der Regel die Feld-ID oder Bereich-ID aus.
@@ -114,14 +115,16 @@ Die Einweisung zur Verwendung ist notwendig. Im Trainingsbetrieb sollte der fest
 
 Folgende Bilder zeigen das Grossfeldtor Sued hochgeklappt, also nicht bespielbar:
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/festes-grosses-tor-sued-hochgeklappt-1-n.jpeg
-:alt: Festes Tor Sued 1
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/festes-grosses-tor-sued-hochgeklappt-1-n.jpeg
+  :alt: Festes Tor Sued 1
+  :width: 50%
 ```
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/festes-grosses-tor-sued-hochgeklappt-2-n.jpeg
-:alt: Festes Tor Sued 2
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/festes-grosses-tor-sued-hochgeklappt-2-n.jpeg
+  :alt: Festes Tor Sued 2
+  :width: 50%
 ```
 
 ### Tor Nord (bespielbar)
@@ -132,26 +135,30 @@ Das Grossfeldtor Nord ist heruntergeklappt und daher bespielbar.
 
 Mögliche Lagerung der mobilen Tore:
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/sued-ost-1-n.jpeg
-:alt: Stadionbereich Sued-Ost - Ansicht 1
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/sued-ost-1-n.jpeg
+  :alt: Stadionbereich Sued-Ost - Ansicht 1
+  :width: 50%
 ```
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/sued-ost-2-n.jpeg
-:alt: Stadionbereich Sued-Ost - Ansicht 2
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/sued-ost-2-n.jpeg
+  :alt: Stadionbereich Sued-Ost - Ansicht 2
+  :width: 50%
 ```
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/sued-ost-3-n.jpeg
-:alt: Stadionbereich Sued-Ost - Ansicht 3
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/sued-ost-3-n.jpeg
+  :alt: Stadionbereich Sued-Ost - Ansicht 3
+  :width: 50%
 ```
 
 ### Bereich Sued-West
 
-```{image} ../_static/organisatorisches/standorte-und-spielfelder/sued-west.jpeg
-:alt: Stadionbereich Sued-West
-:width: 50%
+```{eval-rst}
+.. image:: ../_static/organisatorisches/standorte-und-spielfelder/sued-west.jpeg
+  :alt: Stadionbereich Sued-West
+  :width: 50%
 ```
 
 ## Pflichtangaben

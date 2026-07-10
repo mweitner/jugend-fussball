@@ -25,7 +25,7 @@ Lieferanten aufgelistet und die Lagerverwaltung transparent gemacht.
 
 | Artikel | Menge | Lagerort | Bemerkung |
 |---------|-------|----------|-----------|
-| **Großfass Nassfarbe (200 Liter)** | 1 | Freifläche neben Geräteraum | Aktuell: ~150 Liter |
+| **Großfass Nassfarbe (600–800 Liter)** | 1 | Freifläche neben Geräteraum | Bestellmarke bei 60 L (Pfeil-Klebstoff auf Fass) |
 | **Auffangwanne (Plastik, flach)** | 1 | Unter Fass-Zapfhahn | Zur Leckkontrolle |
 | **Abfüllkannen (5 Liter)** | 3 | Geräteraum Regal 2 | Im Streuwagen einfüllen |
 | **Kleine Farbbehälter (1 Liter, leer)** | 5 | Geräteraum Regal 3 | Als Reserve für Einzelstationen |
@@ -47,7 +47,7 @@ Lieferanten aufgelistet und die Lagerverwaltung transparent gemacht.
 
 | Eigenschaft | Wert |
 |-------------|-----|
-| **Hersteller** | [noch zu ergänzen] |
+| **Hersteller** | SPORT-LINES |
 | **Farbton** | Weiß |
 | **Einsatzbereich** | Feldmarkierung (Rasen) |
 | **Haltbarkeit** | Ca. 2–3 Saisonen (wetterabhängig) |
@@ -58,10 +58,13 @@ Lieferanten aufgelistet und die Lagerverwaltung transparent gemacht.
 
 | Information | Details |
 |-------------|---------|
-| **Mindestbestellmenge** | 1 Fass (200 Liter) |
-| **Lieferzeit** | 5–10 Werktage |
-| **Kosten pro Fass** | [noch zu ergänzen] |
-| **Zahlungsbedingungen** | [noch zu ergänzen] |
+| **Übliche Liefermenge** | 500 Liter (Fass danach fast voll) |
+| **Lieferzeit** | Ca. 1–2 Wochen |
+| **Bestellauslöser** | Wenn Fass auf 60 Liter absinkt (Marke auf Fass) |
+| **Lieferankündigung** | SMS ca. 2 Tage vor Lieferung (Tag/Zeitfenster) |
+| **Kontakt am Liefertag** | Fahrer meldet sich zusätzlich telefonisch |
+| **Kosten pro Fass** | [Bei nächster Bestellung dokumentieren] |
+| **Zahlungsbedingungen** | [Bei nächster Bestellung dokumentieren] |
 
 ---
 
@@ -71,20 +74,27 @@ Lieferanten aufgelistet und die Lagerverwaltung transparent gemacht.
 
 | Information | Kontakt |
 |-------------|---------|
-| **Unternehmen** | [Name noch zu ergänzen] |
-| **Anschrift** | [Straße, PLZ, Ort noch zu ergänzen] |
-| **Telefon** | [Noch zu ergänzen] |
-| **E-Mail** | [Noch zu ergänzen] |
-| **Website** | [Noch zu ergänzen] |
-| **Ansprechpartner** | [Name, Telefon noch zu ergänzen] |
-| **Kundennummer** | [Noch zu ergänzen] |
+| **Unternehmen** | SPORT-LINES |
+| **Anschrift** | [Bei nächster Bestellung dokumentieren] |
+| **Telefon** | +49 2381 871880 |
+| **Website** | <www.sportline.de> |
+| **E-Mail** | [Bei nächster Bestellung dokumentieren] |
+| **Ansprechpartner** | Herr Starck (Außendienst, TSV Erbach) |
+| **Kundennummer** | [Bei nächster Bestellung dokumentieren] |
 
 **Bestellablauf:**
 
-1. Koordinator kontaktiert Lieferant per [Telefon / E-Mail]
-2. Lieferdatum & -uhrzeit absprechen
-3. TSV Erbach Adresse angeben: [Straße, Ort noch zu ergänzen]
-4. Bestätigung erhalten und mit Trainer/Helfer koordinieren
+1. Bei Erreichen der 60-Liter-Marke Nachbestellnummer anrufen und Farbe bestellen.
+2. Lieferfenster von ca. 1-2 Wochen einplanen.
+3. Ca. 2 Tage vor Lieferung auf SMS mit Liefertag/-zeit achten.
+4. Am Liefertag Anruf des Fahrers entgegennehmen und Zugang sicherstellen.
+5. Lieferung dokumentieren und Gratis-Wartung am Streuwagen begleiten.
+
+**Vorbereitung vor der Anlieferung:**
+
+- Restfarbe (ca. 60 L) in Leerkanister umfüllen, damit das Fass leer wird.
+- Fass über den schwarzen Deckel mit Schlauch ausspülen, damit es sauber ist.
+- Bereich um das Fass freiräumen und Zugang für Fahrer sicherstellen.
 
 ### Notfall-Lieferant (Schnelle Beschaffung)
 
@@ -103,7 +113,7 @@ Lieferanten aufgelistet und die Lagerverwaltung transparent gemacht.
 
 | Artikel | Verbrauch pro Saison | Mindestlagerbestand | Nachbestellung ab |
 |---------|-----------------|------------------|---|
-| **Nassfarbe** | ~200 Liter | 100 Liter | ≤ 100 Liter |
+| **Nassfarbe** | ~200 Liter | 60 Liter | ≤ 60 Liter (siehe Markierung auf Fass) |
 | **Schnüre** | Nach Bedarf (Verschleiß) | 1 Haspel + 1 Ersatz | Bei Schäden |
 
 ### Bestandsliste (Letzter Stand: [Datum])
@@ -134,7 +144,7 @@ Koordinator: ______________
 
 - [ ] Monatliche Inspektionen durchführen
 - [ ] Bestand tracken
-- [ ] Bei Verbrauch ≤ 100L nachbestellen
+- [ ] Bei Verbrauch ≤ 60L nachbestellen
 
 ### April bis Juli (Saisonende & Wartung)
 
@@ -151,8 +161,49 @@ Koordinator: ______________
 
 | Datum | Artikel | Menge | Kosten | Lieferant | Rechnungsnr. | Status |
 |-------|---------|-------|--------|----------|--------------|--------|
-| 01.09.2026 | Nassfarbe (200L) | 1 | € [noch zu ergänzen] | [Name] | [Nr.] | Erhalten |
+| 01.09.2026 | Nassfarbe (500L) | 1 | EUR [noch zu ergänzen] | SPORT-LINES | [Nr.] | Erhalten |
 | | | | | | | |
+
+### Lieferkommunikation & Einsatzprotokoll (Vorlage)
+
+```text
+Bestellung ausgelost am: ______________
+Bestellt bei (Telefon): +49 2381 871880
+
+SMS erhalten am: ______________
+Geplanter Liefertag: ______________
+Geplantes Zeitfenster: ______________
+
+Fahrer hat angerufen am: ______________ um: ______________
+Lieferung eingetroffen am: ______________ um: ______________
+Gelieferte Menge: ______________ Liter
+
+Fass vorab geleert in Leerkanister: Ja / Nein
+Fass vorab ausgespult (schwarzer Deckel + Schlauch): Ja / Nein
+
+Gratis-Wartung Streuwagen durchgefuhrt: Ja / Nein
+Ergebnis Wartung / Zustand Wagen:
+_________________________________________________________________
+_________________________________________________________________
+
+Empfehlung Neuanschaffung: Ja / Nein / Offen
+Ruckmeldung Herr Starck am: ______________
+Beratungsnotizen:
+_________________________________________________________________
+_________________________________________________________________
+
+Dokumentiert von: ______________
+```
+
+### Handy-Logbuch (Kurzvorlage, 5 Zeilen)
+
+```text
+SPORT-LINES Bestellung: [Datum] | Menge: 500L | ETA: 1-2 Wochen
+SMS-Ankundigung: [Datum] | Liefertag/Zeitfenster: [........]
+Fahreranruf: [Uhrzeit] | Lieferung erfolgt: [Ja/Nein]
+Vorbereitung erledigt: Leerkanister [Ja/Nein], Fass gespult [Ja/Nein]
+Wartung Streuwagen + Starck-Feedback: [Kurznotiz]
+```
 
 ### Wartungsprotokoll
 

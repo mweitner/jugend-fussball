@@ -22,6 +22,7 @@ Schulung für Trainer <./schulung.md>
 Galerie & Dokumentation <./galerie.md>
 Probleme & Lösungen <./probleme-loesungen.md>
 Problembeispiel Handhaspel <./problem-beispiel-handhaspel.md>
+Praxisbericht Erstbestellung Nassfarbe <./praxisbericht-erstbestellung-nassfarbe.md>
 ```
 
 ## 🎯 Kurzübersicht
@@ -49,4 +50,4 @@ werden können.
 
 ### Lagerort (Übersicht)
 
-![Lagerort der Spielfeldmarkierungsausrüstung an der Geräte-Garage](./images/standort-geraete-garage.jpeg)
+![Lagerort der Spielfeldmarkierungsausrüstung an der Geräte-Garage](./images/lager/standort-geraete-garage.jpeg)

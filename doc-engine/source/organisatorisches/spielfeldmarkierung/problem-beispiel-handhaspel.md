@@ -23,7 +23,10 @@ Das Markierungsseil war an mehreren Stellen gerissen, teilweise verknotet und nu
 noch eingeschraenkt nutzbar. Ein weiterer Seilabschnitt lag separat und verwurschtelt
 neben der Haspel.
 
-![Ausgangssituation: defekte Handhaspel mit verwurschteltem Markierungsseil](./images/01-handhaspel-seil-kaputt-ausgangssituation.jpeg)
+```{image} ./images/handhaspel/01-handhaspel-seil-kaputt-ausgangssituation.jpeg
+:alt: Ausgangssituation Handhaspel
+:width: 50%
+```
 
 ### Was daran problematisch ist
 
@@ -238,7 +241,10 @@ nicht mehr sinnvoll verwendbare Bereiche aufgeteilt.
 
 Beispiel eines zu entsorgenden Seilstuecks:
 
-![Zu stark verwurschteltes und nicht mehr sinnvoll nutzbares Seilstueck](./images/02-handhaspel-seil-kaputt-fix-schritt-2-n.jpeg)
+```{image} ./images/handhaspel/02-handhaspel-seil-kaputt-fix-schritt-2-n.jpeg
+:alt: Nicht nutzbares Seilstueck
+:width: 50%
+```
 
 ### Schritt 2: Nutzbaren Rest an der Handhaspel freilegen
 
@@ -246,7 +252,10 @@ Nach dem Aussortieren blieb an der Handhaspel noch ein letzter brauchbarer Rest 
 alten Seils erhalten. Dieser wurde sauber freigelegt und als Ausgangspunkt fuer die
 provisorische Reparatur verwendet.
 
-![Entwirrte Handhaspel mit letztem nutzbaren Restseil](./images/02-handhaspel-seil-kaputt-fix-schritt-3-n.jpeg)
+```{image} ./images/handhaspel/02-handhaspel-seil-kaputt-fix-schritt-3-n.jpeg
+:alt: Entwirrte Handhaspel
+:width: 50%
+```
 
 ### Schritt 3: Altes Seil mit neuem Maurerseil robust verbinden
 
@@ -258,7 +267,10 @@ robusten Maurerseil mit 100 m Laenge verbunden.
 - Gleichzeitig musste klar sein, dass dies keine Endloesung, sondern eine pragmatische
   Sofortmassnahme ist.
 
-![Robuste provisorische Verbindung zwischen Altseil und neuem Maurerseil](./images/02-handhaspel-seil-kaputt-fix-schritt-5-n.jpeg)
+```{image} ./images/handhaspel/02-handhaspel-seil-kaputt-fix-schritt-5-n.jpeg
+:alt: Provisorische Seilverbindung
+:width: 50%
+```
 
 ### Schritt 4: Neues Maurerseil sauber aufrollen
 
@@ -268,7 +280,10 @@ Einsatz ohne vorherige Entwirr-Arbeit verwendbar.
 
 Am Ende wurde ausserdem eine robuste Schleife fuer den Bodenanker angebracht.
 
-![Aufgerolltes Maurerseil mit neuer, stabiler Endschlaufe](./images/02-handhaspel-seil-kaputt-fix-schritt-6-n.jpeg)
+```{image} ./images/handhaspel/02-handhaspel-seil-kaputt-fix-schritt-6-n.jpeg
+:alt: Aufgerolltes Maurerseil
+:width: 50%
+```
 
 ### Schritt 5: Handhaspel ordentlich zuruecklegen
 
@@ -276,7 +291,10 @@ Nach Abschluss der Behelfsreparatur wurde die Handhaspel sorgfaeltig in der
 Spielfeldmarkierungsausruestungs-Garage hinterlegt. Damit ist sichergestellt, dass
 der naechste Nutzer die Ausruestung nicht erneut in chaotischem Zustand vorfindet.
 
-![Sorgfaeltig hinterlegte Handhaspel nach der provisorischen Reparatur](./images/02-handhaspel-seil-kaputt-fix-schritt-8-n.jpeg)
+```{image} ./images/handhaspel/02-handhaspel-seil-kaputt-fix-schritt-8-n.jpeg
+:alt: Hinterlegte Handhaspel
+:width: 50%
+```
 
 ### Ergebnis der provisorischen Reparatur
 

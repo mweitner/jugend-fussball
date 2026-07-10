@@ -30,17 +30,20 @@ die Schnittstellen zwischen Koordinator und Trainern.
 
 | Aufgabe | Beschreibung | Häufigkeit | Verantwortung |
 |---------|-------------|-----------|--------------|
-| **Bestandskontrolle** | Farben- und Materialbestände regelmäßig prüfen | 2× pro Monat (saisonabhängig) | Koordinator |
-| **Nachbestellung** | Rechtzeitig neue Farbe bestellen, bevor Lagerbestände kritisch werden | Nach Bedarf | Koordinator |
-| **Kostenüberwachung** | Ausgaben tracken und an Vereinsvorstand berichten | Monatlich | Koordinator |
+| **Bestandskontrolle** | Fass-Markierung (60 L) überprüfen; regelmäßig prüfen, ob Nachbestellung erforderlich ist | 2× pro Monat (saisonabhängig) | Koordinator |
+| **Nachbestellung** | Bei 60-Liter-Marke über die Nachbestellnummer bestellen. Kontakt: SPORT-LINES, Tel. +49 2381 871880, <www.sportline.de> | Nach Bedarf | Koordinator |
+| **Kostenweitergabe** | Bestell- und Wartungsinformationen strukturiert an die Jugendleitung übergeben (Grundlage für Kostenberichte) | Nach Bestellung/Wartung | Koordinator |
 
 ### Lieferabwicklung
 
 | Aufgabe | Beschreibung | Häufigkeit | Verantwortung |
 |---------|-------------|-----------|--------------|
-| **Terminabsprache** | Mit Lieferant Liefertag und -uhrzeit absprechen | Bei Bestellung | Koordinator |
-| **Entgegennahme** | Lieferung empfangen, Bestätigung, Prüfung auf Beschädigungen | Bei Lieferung | Koordinator |
-| **Lagerbestandsaufnahme** | Liefermenge mit Bestellung vergleichen, dokumentieren | Bei Lieferung | Koordinator |
+| **Lieferfenster** | Standard-Lieferzeit einplanen (ca. 1–2 Wochen nach Bestellung) | Bei Bestellung | Koordinator |
+| **SMS-/Telefon-Koordination** | SMS-Ankündigung ca. 2 Tage vor Lieferung auswerten; Anruf des Fahrers am Liefertag entgegennehmen | Bei Lieferung | Koordinator |
+| **Vorbereitung vor Lieferung** | Restfarbe (~60 L) in Leerkanister umfüllen und Fass über schwarzen Deckel mit Schlauch gründlich ausspülen | Vor Lieferung | Koordinator |
+| **Entgegennahme & Prüfung** | Lieferung (üblich: 500 L) empfangen, Menge prüfen, auf Beschädigungen kontrollieren | Bei Lieferung | Koordinator |
+| **Wartungstermin begleiten** | Gratis-Wartungseinheit mit Fahrer für Streuwagen begleiten und Zustand dokumentieren | Bei Lieferung | Koordinator |
+| **Nachgang Beratung** | Rückmeldung von Herrn Starck (Außendienst) aufnehmen und ggf. Neuanschaffung bewerten | Nach Lieferung | Koordinator |
 
 ## C. Infrastruktur & Lagerung
 
@@ -79,10 +82,19 @@ Der Koordinator informiert die Trainer über:
 - **Wartungsarbeiten:** Wenn Equipment temporär nicht verfügbar ist
 - **Schulungen:** Neue Trainer oder Updates zu Bedienung
 
-### Koordinator → Vereinsvorstand
+### Koordinator → Jugendleitung
 
-Der Koordinator rapportiert dem Vorstand:
+Der Koordinator übergibt der Jugendleitung:
 
-- **Kostenberichte:** Ausgaben für Farbe, Ersatzteile, Wartung
-- **Größere Anschaffungen:** Wenn neue Equipment notwendig wird
-- **Herausforderungen:** Bei strukturellen Problemen, die Unterstützung brauchen
+- **Fachliche Konzepte:** Spielfeldmarkierung, Wartung, Schulung, Einweisung
+- **Statusberichte:** Zustand Equipment, Defekte, Wartungsbedarf
+- **Neuanschaffungsvorschläge:** Technische Bewertung inkl. Empfehlungen
+- **Kostenrelevante Fakten:** Bestellungen, Lieferungen, Wartungsergebnisse
+
+### Jugendleitung → Vereinsvorstand
+
+Die Jugendleitung verantwortet die Kommunikation in die Vorstandschaft:
+
+- **Kostenberichte & Budgetthemen:** Entscheidungsvorlagen und Freigaben
+- **Investitionen:** Neuanschaffungen und Priorisierung
+- **Rückmeldung an Koordinator:** Beschlüsse, Budgets und Umsetzungsauftrag

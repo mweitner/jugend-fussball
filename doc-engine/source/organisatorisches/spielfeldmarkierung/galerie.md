@@ -3,6 +3,11 @@
 Diese Seite zeigt Fotos und visuelle Dokumentationen der Feldmarkierungsausrüstung,
 des Lagers und der richtigen Bedienung.
 
+## 🔗 Aktuelle Praxisberichte
+
+- [Praxisbericht Erstbestellung Nassfarbe](./praxisbericht-erstbestellung-nassfarbe.md)
+   mit kompletter Schritt-für-Schritt-Dokumentation und Bildern.
+
 ## 📸 Status der Fotodokumentation
 
 **Aktuell:** Fotos müssen noch aufgenommen und eingefügt werden.
@@ -48,7 +53,7 @@ Falls du Fotos machst, bitte folgende Details dokumentieren:
 
 ### Zielbilder für Fass & Zubehör
 
-- [ ] **Hauptfass:** 200-Liter-Nassfarbe-Fass
+- [ ] **Hauptfass:** 600-800-Liter-Nassfarbe-Fass
 - [ ] **Zapfhahn Detail:** Nahaufnahme des Hahns (offen/geschlossen)
 - [ ] **Auffangwanne:** Positiv-Beispiel (korrekt positioniert)
 - [ ] **Visuelle Anleitung:** Schild am Fass mit Bedienungsanleitung

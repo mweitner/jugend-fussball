@@ -20,7 +20,7 @@ regelmäßige Abläufe. Diese können ausgedruckt und direkt im Geräteraum verw
   - [ ] Nach Reinigung gewaschen?
 
 - [ ] **Fass & Zubehör**
-  - [ ] Hauptfass (100–200 Liter) voll oder min. 50%?
+  - [ ] Hauptfass (600–800 Liter) auf Bestellmarke (60 L) überprüft? Ggf. nachbestellen.
   - [ ] Zapfhahn funktioniert und dichtet?
   - [ ] Auffangwanne positioniert?
   - [ ] Visuelle Anleitung angebracht?
@@ -85,7 +85,7 @@ regelmäßige Abläufe. Diese können ausgedruckt und direkt im Geräteraum verw
 **WÄHREND Farbentnahme:**
 
 - [ ] Behälter unter den Zapfhahn halten?
-- [ ] Langsam & kontroliert abfüllen?
+- [ ] Langsam & kontrolliert abfüllen?
 - [ ] Auf Tropfen/Spritzer achten?
 
 **NACH Farbentnahme:**
@@ -94,6 +94,37 @@ regelmäßige Abläufe. Diese können ausgedruckt und direkt im Geräteraum verw
 - [ ] Tropfen in der Auffangwanne aufwischen?
 - [ ] Eventuell Boden um das Fass abwischen?
 - [ ] Auffangwanne kontrollieren und ggf. leeren?
+
+---
+
+## 🚚 Checkliste: Vorbereitung auf SPORT-LINES Lieferung
+
+**Ziel:** Fass und Lieferumgebung sauber vorbereiten, damit Anlieferung und Befüllung reibungslos laufen
+
+**SOFORT bei 60-Liter-Marke:**
+
+- [ ] Nachbestellnummer anrufen und Nassfarbe bestellen
+- [ ] Lieferfenster (ca. 1-2 Wochen) im Kalender blocken
+
+**CA. 2 Tage vor Lieferung (nach SMS):**
+
+- [ ] Liefertag und Zeitfenster aus SMS notieren
+- [ ] Zugang zur Geräte-Garage und zum Fass sicherstellen
+- [ ] Helfer informieren (falls Entladung/Koordination erforderlich)
+
+**VOR der Befüllung:**
+
+- [ ] Restfarbe (ca. 60 L) in Leerkanister umfüllen
+- [ ] Fass über den schwarzen Deckel mit Schlauch gründlich ausspülen
+- [ ] Außenbereich am Fass reinigen und freiräumen
+
+**AM Liefertag:**
+
+- [ ] Telefonisch für Fahrer erreichbar sein
+- [ ] Lieferung und Menge dokumentieren
+- [ ] Gratis-Wartungseinheit für Streuwagen begleiten
+- [ ] Auffälligkeiten/Empfehlungen für Neuanschaffung notieren
+- [ ] Nachgang-Rückmeldung von Herrn Starck dokumentieren
 
 ---
 
@@ -115,6 +146,7 @@ regelmäßige Abläufe. Diese können ausgedruckt und direkt im Geräteraum verw
   - [ ] Zapfhahn prüfen (dichtet noch?)
   - [ ] Auffangwanne überprüft?
   - [ ] Visuelle Anleitung noch lesbar?
+  - [ ] Füllstand kontrolliert (bei ≤ 60 L Nachbestellung auslösen)
 
 - [ ] **Geräteraum**
   - [ ] Sauber & ordentlich?
