@@ -45,6 +45,7 @@ Robert und Joe
 01-online-phase-i/Online Phase I - 2. Allgemeine Trainingsplanung/Trainertagebuch
 01-online-phase-i/Online Phase I - 2. Allgemeine Trainingsplanung/aufgabenbeschreibung
 01-online-phase-i/Online Phase I - 3. Trainingsphilosophie Deutschland/aufgabenbeschreibung
+02-praesenztag-1-2/protokoll.md
 03-online-phase-ii-iii/Online Phase II - 1. Coaching-Techniken im Training/aufgabenbeschreibung
 03-online-phase-ii-iii/Online Phase II - 2. Kostenloses Grafiktool/aufgabenstellung
 03-online-phase-ii-iii/Online Phase II - 2. Kostenloses Grafiktool/trainingsform-ueber-aussen-angreifen-tabuzone

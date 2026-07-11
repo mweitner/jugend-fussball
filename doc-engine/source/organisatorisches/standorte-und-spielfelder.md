@@ -12,25 +12,18 @@ koennen.
 
 ## Planungsstand
 
-Stand: 09.07.2026
+Stand: 11.07.2026
 
 In der [Jugendtrainer Sitzung - 25.06.2026](./jugendleitung/jugendtrainer-sitzung-25.06.2026.md) wurde fuer die
 C-Jugend der Einsatz des TSV Stadions als zentraler Trainings- und Spielort festgehalten.
 
-- Die Meldung einer eigenstaendigen C-Jugend unter TSV Erbach oder
- SGM-Variante ist aktuell noch in der Entscheidungsfindung bei Jugendleitung
- Erbach und SV Ringingen (Stand: Trainerbesprechung mit Jugendleitung am
- 08.07.2026, 19:30 - 20:30 Uhr).
-- Fuer die operative Planung nutzt das Trainerteam weiterhin ausschliesslich TSV-Erbach-Standorte.
+- Die Entscheidung ist gefallen: eigenstaendige C-Jugend unter TSV Erbach
+  (ohne Spielgemeinschaft).
 - Der Hauptstandort der C-Jugend fuer Training und Spiele ist das TSV Stadion.
-- Trainingsfenster (aktuelle Teamplanung): Dienstag und Donnerstag, 18:00 - 20:00 Uhr.
+- Trainingsfenster (aktuelle Teamplanung): Dienstag und Donnerstag,
+  18:00 - 19:30 Uhr (90 Minuten Standard).
 - Spieltag (Planungsannahme): Samstag, voraussichtlich am Nachmittag
  (z. B. 15:30 Uhr), abhaengig von Verbandsansetzung und Platzbelegung.
-
-Hinweis zur Lage 2026/27 (Stand heute, 09.07.2026): Die Abstimmung zur Frage
-TSV-Erbach-Alleinmeldung vs. Spielgemeinschaft ist weiterhin offen.
-Fuer die aktuelle operative Planung gilt: Nutzung des TSV Stadions und der
-TSV-Erbach-Standorte.
 
 ## Standortkatalog
 
