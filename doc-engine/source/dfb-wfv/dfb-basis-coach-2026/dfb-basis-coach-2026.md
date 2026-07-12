@@ -52,6 +52,9 @@ Robert und Joe
 03-online-phase-ii-iii/Online Phase II - 3. Einführung "Ballorientiertes Spiel"/aufgabenstellung
 03-online-phase-ii-iii/Online Phase II+III - 4. Video im Heimatverein/aufgabenstellung
 03-online-phase-ii-iii/Online Phase II+III - 4. Video im Heimatverein/video-im-heimatverein
+03-online-phase-ii-iii/Online Phase III - 1. Highlight des Lehrgangs/aufgabenstellung
+03-online-phase-ii-iii/Online Phase III - 2. Welches Profil in der C-Lizenz Ausbildung/aufgabenstellung
+03-online-phase-ii-iii/Online Phase III - 3. Informationen zum C-B Kompaktkurs/aufgabenstellung
 trainertagebuch/01-blogbeitrag-zu-beginn-des-kurses
 trainertagebuch/aufgabenbeschreibung
 ```
