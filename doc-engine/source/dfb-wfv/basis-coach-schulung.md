@@ -33,7 +33,6 @@ Hier dokumentiere ich die DFB Basis Coach Durchfuehrung.
 ```{toctree}
 :maxdepth: 1
 
-skript-basis-coach/skript.md
 dfb-basis-coach-2026/dfb-basis-coach-2026.md
 theorieschulungen/11-11-schulung/ergfolgreich-ueber-aussen-angreifen.md
 ```
