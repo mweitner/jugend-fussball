@@ -1,0 +1,47 @@
+flowchart TB
+    TS[TS\nTorspieler\n1. Reihe\nganz hinten]
+
+    subgraph R2[2. Reihe - hinten]
+        direction LR
+        LH[LH\nLinks-Hinten]
+        LZH[LzH\nLinks-zentral-Hinten]
+        RZH[RzH\nRechts-zentral-Hinten]
+        RH[RH\nRechts-Hinten]
+    end
+
+    subgraph R3[3. Reihe - Mitte]
+        direction LR
+        LM[LM\nLinks-Mitte]
+        LZM[LzM\nLinks-zentral-Mitte]
+        RZM[RzM\nRechts-zentral-Mitte]
+        RM[RM\nRechts-Mitte]
+    end
+
+    subgraph R4[4. Reihe - vorne]
+        direction LR
+        LV[LV\nLinks-Vorne]
+        RV[RV\nRechts-Vorne]
+    end
+
+    TS --> LH
+    TS --> LZH
+    TS --> RZH
+    TS --> RH
+
+    LH --> LM
+    LZH --> LZM
+    RZH --> RZM
+    RH --> RM
+
+    LM --> LV
+    RM --> RV
+
+    classDef keeper fill:#f3f0e8,stroke:#8b7d6b,color:#2f2a24;
+    classDef back fill:#e8f1fb,stroke:#567a9a,color:#1f2f3a;
+    classDef mid fill:#eaf6ea,stroke:#5a8f5a,color:#203120;
+    classDef front fill:#fff2db,stroke:#b9823b,color:#3a2a1c;
+
+    class TS keeper;
+    class LH,LZH,RZH,RH back;
+    class LM,LZM,RZM,RM mid;
+    class LV,RV front;

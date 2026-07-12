@@ -49,7 +49,7 @@ Weiterfuehrende Links fuer Eltern:
 - Kurz vor Start wurden zentrale Ideen fuer UF1/SF nochmals abgestimmt und priorisiert
   (u. a. Einwurfmuster und Provokationsregeln).
 - Die Notizen dazu sind hier dokumentiert:
-  [Details: Gedanken zur Durchfuehrung](./sportplatz-o7.07.2026-standards-einwurf-freistoesse/details-gedanken-durchfuehrung.md)
+  [Details: Gedanken zur Durchfuehrung](./sportplatz-07.07.2026-standards-einwurf-freistoesse/details-gedanken-durchfuehrung.md)
 
 ### Trainingsbeginn (17:29)
 

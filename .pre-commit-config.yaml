@@ -1,30 +1,15 @@
-# Explicitely define languange versions in order to auto install required
-# infrastructure like ruby, node, ...:
-# - ruby: required by markdownlint hook
-# - node: required by markdownlint-cli
-# - golang: required by gitleaks
-#
-# Python specific hooks:
-# - ruff:
-# Python specific hooks:
-# - ruff: python code linter and formatter
-#    rust implementation of code linter and sorter, replacing black and isort
-#
-# Note: ruff replaces the black formatter and linter, as it is also used within
-# vscode IDE
-#
-# node: 20.19.0
-# golang: 1.25.4
 default_language_version:
   ruby: 3.2.1
   node: 20.19.0
   golang: 1.25.4
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
+        exclude: ^doc-engine/source/_static/diagrams/.*\.svg$
       - id: check-yaml
       - id: check-toml
       - id: check-json
@@ -50,15 +35,28 @@ repos:
     hooks:
       - id: yamlfmt
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: "v0.44.0"
+    rev: v0.44.0
     hooks:
       - id: markdownlint
         args: [--fix]
         stages: [pre-commit]
+  - repo: local
+    hooks:
+      - id: render-diagrams
+        name: Render PlantUML + Mermaid diagrams
+        language: script
+        entry: doc-engine/scripts/render-diagrams.sh
+        files: ^doc-engine/source/(?!_static/).*\.txt$
+        pass_filenames: true
+        stages: [pre-commit]
+
 exclude: |
-  '
-  |^.devcontainer/.*|
-  |^.vscode/.*|^.vscode/*.json|
-  |^doc-engine/build/|^doc-engine/venv/.*|^doc-engine/.venv/.*|
-  |^doc-engine/source/make.bat|
-  '
+  (?x)^(\
+    \.devcontainer/.*\
+    |\.vscode/.*\
+    |doc-engine/build/.*\
+    |doc-engine/venv/.*\
+    |doc-engine/\.venv/.*\
+    |doc-engine/source/_static/diagrams/.*\.svg\
+    |doc-engine/source/make\.bat\
+  )$

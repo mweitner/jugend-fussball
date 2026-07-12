@@ -14,6 +14,9 @@ if ! command -v sphinx-build >/dev/null 2>&1; then
   exit 1
 fi
 
+echo "[validate-docs] Rendering diagram artifacts..."
+bash ./doc-engine/scripts/render-diagrams.sh
+
 echo "[validate-docs] Running markdownlint via pre-commit..."
 mapfile -t md_files < <(rg --files doc-engine/source \
   -g '*.md' \
