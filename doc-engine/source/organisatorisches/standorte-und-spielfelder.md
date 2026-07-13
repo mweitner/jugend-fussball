@@ -12,7 +12,7 @@ koennen.
 
 ## Planungsstand
 
-Stand: 11.07.2026
+Stand: 13.07.2026
 
 In der [Jugendtrainer Sitzung - 25.06.2026](./jugendleitung/jugendtrainer-sitzung-25.06.2026.md) wurde fuer die
 C-Jugend der Einsatz des TSV Stadions als zentraler Trainings- und Spielort festgehalten.
@@ -24,6 +24,42 @@ C-Jugend der Einsatz des TSV Stadions als zentraler Trainings- und Spielort fest
   18:00 - 19:30 Uhr (90 Minuten Standard).
 - Spieltag (Planungsannahme): Samstag, voraussichtlich am Nachmittag
  (z. B. 15:30 Uhr), abhaengig von Verbandsansetzung und Platzbelegung.
+
+## Offene Punkte fuer Vorstandsabstimmung
+
+Die folgenden Punkte sind fuer die Abstimmung im TSV-Erbach-Vorstand gebuendelt
+und sollen nach Rueckmeldung in der Doku auf "geklaert" gesetzt werden.
+
+1. Stadion als Hauptstandort verbindlich absichern
+
+- Trainingsfenster: Dienstag/Donnerstag 18:00-19:30
+- Spielbetrieb am Samstag verlässlich mitberuecksichtigen
+
+2. Sperrige Ausruestung im Stadion klaeren
+
+- D-Jugend-Tore, Mini-Tore, mobile Grossfeldtore
+- Lagerort, Zugriff, Zustaendigkeit und dauerhafte Verfuegbarkeit
+- Details/Alternativen: [Trainingsausruestung C-Jugend](./trainingsausruestung-c-jugend.md)
+
+3. Leichtathletik-Kontaktpersonen benennen
+
+- Direkter Kontakt (Name + Erreichbarkeit)
+- Kurzer Abstimmungsprozess zur Konfliktvermeidung bei Stadionnutzung
+
+4. Zugang fuer Trainer klaeren
+
+- Zugang zum Haupteingang (Schluessel/Regelung)
+- Festlegung Umkleiden: Sportheim oder Stadion
+
+5. Einweisung zur Stadionnutzung fuer das C-Jugend-Trainerteam
+
+- Einweisung zu Zugang, Schluessel, Ansprechpartnern und Ablauf vor Ort
+- Gilt fuer: Michael, Jochen, Daniel, Josi
+
+6. Flutlicht-/Winterbetrieb und Ausweichflaechen
+
+- Verlaessliche Nutzung im Winter absichern
+- Abstimmung zur Tartanbahn als Ausweichflaeche
 
 ## Standortkatalog
 
