@@ -14,12 +14,13 @@ koennen.
 
 Stand: 13.07.2026
 
-In der [Jugendtrainer Sitzung - 25.06.2026](./jugendleitung/jugendtrainer-sitzung-25.06.2026.md) wurde fuer die
-C-Jugend der Einsatz des TSV Stadions als zentraler Trainings- und Spielort festgehalten.
+Die folgende Liste bildet den aktuellen Arbeitsstand ab.
+Sie ist unabhaengig von der [Jugendtrainer Sitzung - 25.06.2026](./jugendleitung/jugendtrainer-sitzung-25.06.2026.md).
 
 - Die Entscheidung ist gefallen: eigenstaendige C-Jugend unter TSV Erbach
   (ohne Spielgemeinschaft).
 - Der Hauptstandort der C-Jugend fuer Training und Spiele ist das TSV Stadion.
+- Das Stadion wird kuenftig auch von weiteren Jugendmannschaften genutzt.
 - Trainingsfenster (aktuelle Teamplanung): Dienstag und Donnerstag,
   18:00 - 19:30 Uhr (90 Minuten Standard).
 - Spieltag (Planungsannahme): Samstag, voraussichtlich am Nachmittag
@@ -27,8 +28,19 @@ C-Jugend der Einsatz des TSV Stadions als zentraler Trainings- und Spielort fest
 
 ## Offene Punkte fuer Vorstandsabstimmung
 
-Die folgenden Punkte sind fuer die Abstimmung im TSV-Erbach-Vorstand gebuendelt
-und sollen nach Rueckmeldung in der Doku auf "geklaert" gesetzt werden.
+Die folgenden Punkte sind fuer die Abstimmung im TSV-Erbach-Vorstand gebuendelt.
+
+Vorab-Rueckmeldung (Stand 13.07.2026):
+
+- Umkleiden im Stadion werden regulaer nicht genutzt; Umziehen weiter im
+  Sportheim.
+- Die Leichtathletik hat der Rasennutzung im Allgemeinen zugestimmt.
+- Bei Nutzung ausserhalb der Rasenflaeche erfolgt die Abstimmung direkt mit
+  Marcus als Hauptkontakt der Leichtathletikabteilung fuer das
+  C-Jugend-Trainerteam.
+- Fuer den Stadionzugang gibt es einen zentralen Zugangstraeger der
+  Fussballabteilung (RFID/Sender); konkrete Ablage- und Sicherheitsdetails nur
+  intern.
 
 1. Stadion als Hauptstandort verbindlich absichern
 
@@ -43,17 +55,20 @@ und sollen nach Rueckmeldung in der Doku auf "geklaert" gesetzt werden.
 
 3. Leichtathletik-Kontaktpersonen benennen
 
-- Direkter Kontakt (Name + Erreichbarkeit)
+- Direkter Erstkontakt zur Abstimmung: Marcus
+- Hauptkontakt der Leichtathletikabteilung fuer das C-Jugend-Trainerteam:
+  Marcus (Kontaktdetails bei Michael oder Jugendleitung anzufragen)
 - Kurzer Abstimmungsprozess zur Konfliktvermeidung bei Stadionnutzung
 
 4. Zugang fuer Trainer klaeren
 
-- Zugang zum Haupteingang (Schluessel/Regelung)
-- Festlegung Umkleiden: Sportheim oder Stadion
+- Zugangsweg und Regelung fuer den zentralen RFID/Sender final bestaetigen
+  (inkl. geplanter Pruefung des Haupteingangs)
+- Umkleiden: Sportheim (vorlaeufig geklaert)
 
 5. Einweisung zur Stadionnutzung fuer das C-Jugend-Trainerteam
 
-- Einweisung zu Zugang, Schluessel, Ansprechpartnern und Ablauf vor Ort
+- Einweisung zu Zugang, RFID/Sender, Ansprechpartnern und Ablauf vor Ort
 - Gilt fuer: Michael, Jochen, Daniel, Josi
 
 6. Flutlicht-/Winterbetrieb und Ausweichflaechen
