@@ -14,6 +14,9 @@ Entscheidungsregel bei Zeitdruck):
 Zum Nachschlagen:
 [BOS Spielfeld und Positionen](./sportplatz-14.07.2026-bos-ballgewinnspiel/bos-spielfeld-und-positionen.md)
 
+Zusatzmaterial fuer den Theorieblock:
+[BOS Quiz Spielerblatt (Druck)](./bos-quiz-grundlagen-u14-u15/bos-quiz-grundlagen-u14-u15-spielerblatt.md)
+
 ## Schnellnavigation
 
 ```{toctree}

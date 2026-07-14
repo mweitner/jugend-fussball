@@ -31,6 +31,7 @@ Standardisierte Aufbau-Skizzen fuer Teamuebergabe und Vertretung:
 
 Zum Nachschlagen:
 [BOS Spielfeld und Positionen](./sportplatz-14.07.2026-bos-ballgewinnspiel/bos-spielfeld-und-positionen.md)
+[BOS Quiz Grundlagen (Spielerblatt, PDF)](../../_static/downloads/trainingseinheiten/c-jugend-2026/bos-quiz-grundlagen-u14-u15-spielerblatt.pdf)
 
 ## Lernziele
 
