@@ -34,7 +34,7 @@ sportplatz-07.07.2026-standards-einwurf-freistoesse
 
 | Datum | Schwerpunkt | Status | Standort | Sichtbares Lernziel | Details |
 | --- | --- | --- | --- | --- | --- |
-| 14.07.2026 | Ballorientierte Spielphilosophie (BOS) - Ballgewinnspiel | Vorbereitet | TSV-SPORTHEIM (Kleinfeld mit 2 Innenfeldern) | Ballgewinn als gemeinsame Reaktion lesen, kompakt verschieben und nach Ballgewinn sofort weiter spielen | [Einheit](./sportplatz-14.07.2026-bos-ballgewinnspiel.md) |
+| 14.07.2026 | Ballorientierte Spielphilosophie (BOS) - Ballgewinnspiel | Durchgefuehrt | TSV-SPORTHEIM (Sportheimplatz, Kleinfeld mit 2 Innenfeldern) | Ballgewinn als gemeinsame Reaktion lesen, kompakt verschieben und nach Ballgewinn sofort weiter spielen | [Einheit](./sportplatz-14.07.2026-bos-ballgewinnspiel.md) \| [Protokoll](./sportplatz-14.07.2026-bos-ballgewinnspiel-protokoll.md) |
 | 09.07.2026 | Flugballe, Spielverlagerung, Tiefe im Spiel | Durchgefuehrt | TSV-SPORTHEIM (langes Kleinfeld, 3 Zonen) | Mit Spielverlagerung Tiefe finden und ueber lange Baelle Abschlussaktionen ausloesen | [Einheit](./sportplatz-09.07.2026-flugbaelle-spielverlagerung-tiefe.md) |
 | 07.07.2026 | Standards, Einwurf, Freistoesse | Durchgefuehrt | TSV-SPORTHEIM (2 Kleinfelder) | Standards strukturiert ausfuehren und im Spiel unter Druck wiederholen | [Einheit](./sportplatz-07.07.2026-standards-einwurf-freistoesse.md) \| [Protokoll](./sportplatz-07.07.2026-standards-einwurf-freistoesse-protokoll.md) |
 
