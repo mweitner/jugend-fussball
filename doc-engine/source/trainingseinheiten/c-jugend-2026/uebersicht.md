@@ -23,6 +23,7 @@ Zusatzmaterial fuer den Theorieblock:
 :maxdepth: 1
 :caption: Juli 2026
 
+sportplatz-16.07.2026-bos-ballgewinnspiel-vertiefung
 sportplatz-14.07.2026-bos-ballgewinnspiel
 sportplatz-09.07.2026-flugbaelle-spielverlagerung-tiefe
 sportplatz-07.07.2026-standards-einwurf-freistoesse
@@ -34,6 +35,7 @@ sportplatz-07.07.2026-standards-einwurf-freistoesse
 
 | Datum | Schwerpunkt | Status | Standort | Sichtbares Lernziel | Details |
 | --- | --- | --- | --- | --- | --- |
+| 16.07.2026 | BOS - Ballgewinnspiel (Vertiefung) + Quizaufloesung | Vorbereitet | TSV-SPORTHEIM | Ballgewinnspiel vertiefen, Zonen des Pressings bewusst wählen, Quizaufloesung und Preise | [Einheit](./sportplatz-16.07.2026-bos-ballgewinnspiel-vertiefung.md) |
 | 14.07.2026 | Ballorientierte Spielphilosophie (BOS) - Ballgewinnspiel | Durchgefuehrt | TSV-SPORTHEIM (Sportheimplatz, Kleinfeld mit 2 Innenfeldern) | Ballgewinn als gemeinsame Reaktion lesen, kompakt verschieben und nach Ballgewinn sofort weiter spielen | [Einheit](./sportplatz-14.07.2026-bos-ballgewinnspiel.md) \| [Protokoll](./sportplatz-14.07.2026-bos-ballgewinnspiel-protokoll.md) |
 | 09.07.2026 | Flugballe, Spielverlagerung, Tiefe im Spiel | Durchgefuehrt | TSV-SPORTHEIM (langes Kleinfeld, 3 Zonen) | Mit Spielverlagerung Tiefe finden und ueber lange Baelle Abschlussaktionen ausloesen | [Einheit](./sportplatz-09.07.2026-flugbaelle-spielverlagerung-tiefe.md) |
 | 07.07.2026 | Standards, Einwurf, Freistoesse | Durchgefuehrt | TSV-SPORTHEIM (2 Kleinfelder) | Standards strukturiert ausfuehren und im Spiel unter Druck wiederholen | [Einheit](./sportplatz-07.07.2026-standards-einwurf-freistoesse.md) \| [Protokoll](./sportplatz-07.07.2026-standards-einwurf-freistoesse-protokoll.md) |
