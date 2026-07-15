@@ -21,13 +21,19 @@ Naechste Woche folgen zwei Einheiten mit dem Schwerpunkt BOS und Angriffsspiel.
 **Zeit:** 18:00-19:30 (90 Minuten Training) + 19:30-20:00 Spielerbesprechung
 **Altersbereich:** C-Jugend
 **Trainerteam (noch offen):** Michael, Jochen, Daniel, Josi
-**Standort-ID:** TSV-SPORTHEIM
-**Feld-ID(s):** Sportheimplatz, Kleinfeld mit 2 Innenfeldern
-**Aufbau:** Aussenfeld 40 m x 60 m; 2 Innenfelder je 20 m x 20 m,
-Mittellinie und 10-m-Markierungen mit deutlich sichtbaren Aussenhuetchen
+**Standort-ID:** TSV-FLUTLICHTPLATZ (eine Haelfte)
+**Feld-ID(s):** Halbfeld Flutlichtplatz, Kleinfeld mit 2 Innenfeldern
+**Aufbau:** Halbfeld geteilt mit D-Jugend; Aussenfeld ca. 40 m x 36-40 m
+(ca. 6 m laenger als Di damit die 2 Innenfelder je 3 m Abstand zur Mittellinie haben);
+2 Innenfelder je 20 m x 20 m, mit gelben Huetchen klar von der Mittellinie abgegrenzt
+damit die Gruppen links und rechts sich nicht in die Quere kommen;
+Aussenhuetchen grossflaechig und deutlich sichtbar setzen
+**Besonderheit:** Aktiven-Spiel am Sportheimplatz - C-Jugend und D-Jugend teilen
+sich den Flutlichtplatz (je eine Haelfte)
 **Grundorganisation:** 4 Gruppen zu je 3-4 Kindern
 **Hinweis Feldmarkierung:** Huetchen grossflaechiger und deutlicher setzen als Di
 (Lessons Learned aus 14.07.2026)
+**Hinweis Schuhwerk:** Flutlichtplatz - bitte Fussballschuhe
 
 Standardisierte Aufbau-Skizzen fuer Teamuebergabe und Vertretung:
 [Aufbau-Template](../aufbau-template.md)
