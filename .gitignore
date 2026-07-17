@@ -58,9 +58,3 @@ Thumbs.db
 
 # Git
 .git/
-
-# Quiz - Loesungen und korrigierte Variante (werden erst nach dem Quiz veroeffentlicht)
-doc-engine/source/trainingseinheiten/c-jugend-2026/bos-quiz-grundlagen-u14-u15/*-loesungen.md
-doc-engine/source/trainingseinheiten/c-jugend-2026/bos-quiz-grundlagen-u14-u15/*-loesungen.pdf
-doc-engine/source/trainingseinheiten/c-jugend-2026/bos-quiz-grundlagen-u14-u15/bos-quiz-grundlagen-u14-u15.md
-doc-engine/source/trainingseinheiten/c-jugend-2026/bos-quiz-grundlagen-u14-u15-new-corrected/
