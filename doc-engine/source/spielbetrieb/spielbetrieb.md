@@ -120,3 +120,8 @@ werden hier aber als stattgefundene Termine fuer die grobe Planung mitgefuehrt.
 - Grundlage dieser Uebersicht ist der wfv-Rahmenterminkalender Junioren 2026/27.
 - Sobald Staffeleinteilung, Spielplaene und Hallenausschreibungen final vorliegen,
   werden die Angaben hier aktualisiert.
+
+## Freundschaftsspiele
+
+- Landing Page: [Freundschaftsspiele Uebersicht](./freundschafts-spiele/uebersicht.md)
+- Aktuelles Spiel: [TSV Soeflingen C2 - TSV Erbach (18.07.2026)](./freundschafts-spiele/tsv-soeflingen-c2-18.06.2026.md)

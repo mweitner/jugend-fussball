@@ -134,8 +134,10 @@ Weiterfuehrende Links:
 - Kurze Taktik-Besprechung: Was haben wir in den letzten 2 BOS-Einheiten gelernt?
 - Ausblick naechste Woche: BOS und Angriffsspiel.
 
-Loesungsschluessel und Bewertungslogik:
-[spielerbesprechung-16.07.2026-quizaufloesung-protokoll.md](./spielerbesprechung-16.07.2026-quizaufloesung-protokoll.md)
+Offiziell veroeffentlichter Loesungsschluessel und Bewertungslogik:
+
+- [spielerbesprechung-16.07.2026-quizaufloesung-protokoll.md](./spielerbesprechung-16.07.2026-quizaufloesung-protokoll.md)
+- [bos-quiz-grundlagen-u14-u15-loesungen.md](./bos-quiz-grundlagen-u14-u15/bos-quiz-grundlagen-u14-u15-loesungen.md)
 
 ---
 
