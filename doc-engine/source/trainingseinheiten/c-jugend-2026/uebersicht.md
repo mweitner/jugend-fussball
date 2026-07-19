@@ -25,6 +25,7 @@ Zusatzmaterial fuer den Theorieblock:
 :maxdepth: 1
 :caption: Juli 2026
 
+sportplatz-21.07.2026-bos-angriffsspiel-einfuehrung
 sportplatz-16.07.2026-bos-ballgewinnspiel-vertiefung
 sportplatz-16.07.2026-bos-ballgewinnspiel-vertiefung-protokoll
 spielerbesprechung-16.07.2026-quizaufloesung-protokoll
@@ -41,6 +42,7 @@ sportplatz-07.07.2026-standards-einwurf-freistoesse
 
 | Datum | Schwerpunkt | Status | Standort | Sichtbares Lernziel | Details |
 | --- | --- | --- | --- | --- | --- |
+| 21.07.2026 | BOS - Angriffsspiel (Einfuehrung) | Vorbereitet | TSV-STADION | Nach Ballgewinn klare Entscheidung treffen: direkt, ballnah oder ballfern verlagern | [Einheit](./sportplatz-21.07.2026-bos-angriffsspiel-einfuehrung.md) |
 | 16.07.2026 | BOS - Ballgewinnspiel (Vertiefung) + Quizaufloesung | Vorbereitet | TSV-SPORTHEIM | Ballgewinnspiel vertiefen, Zonen des Pressings bewusst wählen, Quizaufloesung und Preise | [Einheit](./sportplatz-16.07.2026-bos-ballgewinnspiel-vertiefung.md) \| [Protokoll](./sportplatz-16.07.2026-bos-ballgewinnspiel-vertiefung-protokoll.md) \| [Quiz-Protokoll](./spielerbesprechung-16.07.2026-quizaufloesung-protokoll.md) \| [Quiz (Trainer)](./bos-quiz-grundlagen-u14-u15/bos-quiz-grundlagen-u14-u15.md) \| [Quiz Loesungen](./bos-quiz-grundlagen-u14-u15/bos-quiz-grundlagen-u14-u15-loesungen.md) |
 | 14.07.2026 | Ballorientierte Spielphilosophie (BOS) - Ballgewinnspiel | Durchgefuehrt | TSV-SPORTHEIM (Sportheimplatz, Kleinfeld mit 2 Innenfeldern) | Ballgewinn als gemeinsame Reaktion lesen, kompakt verschieben und nach Ballgewinn sofort weiter spielen | [Einheit](./sportplatz-14.07.2026-bos-ballgewinnspiel.md) \| [Protokoll](./sportplatz-14.07.2026-bos-ballgewinnspiel-protokoll.md) |
 | 09.07.2026 | Flugballe, Spielverlagerung, Tiefe im Spiel | Durchgefuehrt | TSV-SPORTHEIM (langes Kleinfeld, 3 Zonen) | Mit Spielverlagerung Tiefe finden und ueber lange Baelle Abschlussaktionen ausloesen | [Einheit](./sportplatz-09.07.2026-flugbaelle-spielverlagerung-tiefe.md) |
